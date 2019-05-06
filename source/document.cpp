@@ -7,7 +7,6 @@
 Document::Document(std::string f_name){
     filename = f_name;
     load_words();
-    std::cout << "here !!!";
     remove_stopwords();
     //compute_term_frequency();
 }
@@ -29,6 +28,5 @@ void Document::remove_stopwords(){
 }
 
 int main(){
-    std::cout << "hello";
     Document d("test_data/test_document.txt");
 }
