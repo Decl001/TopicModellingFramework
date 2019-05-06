@@ -1,0 +1,1 @@
+This is a simple text document, used to ensure that stopwords are properly removed and that term frequency is properly calculated.
