@@ -5,7 +5,6 @@
 #include <fstream>
 #include <map>
 #include <vector>
-#include "python_include.h"
 
 struct document_exception : std::runtime_error{
     document_exception(const std::string& message) : std::runtime_error(message){}

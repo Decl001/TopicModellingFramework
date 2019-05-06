@@ -3,12 +3,12 @@
 #include <map>
 #include <vector>
 #include "document.h"
-#include "python_include.h"
 
 Document::Document(std::string f_name){
     filename = f_name;
     load_words();
-    //remove_stopwords();
+    std::cout << "here !!!";
+    remove_stopwords();
     //compute_term_frequency();
 }
 
@@ -25,7 +25,10 @@ void Document::load_words(){
     }
 }
 
+void Document::remove_stopwords(){
+}
 
 int main(){
+    std::cout << "hello";
     Document d("test_data/test_document.txt");
 }
