@@ -4,17 +4,18 @@
 #include <map>
 #include <vector>
 #include "document.h"
+#include "english_stem.h"
 
 Document::Document(std::string f_name){
     filename = f_name;
     load_words();
     stem_words();
     remove_stopwords();
-    //compute_term_frequency();
+    compute_term_frequency();
 }
 
 void Document::load_words(){
-    std::ifstream the_document;
+    std::wifstream the_document;
     the_document.open(filename);
     if (the_document.is_open()){
         for(std::wstring word; the_document >> word;){
@@ -27,13 +28,16 @@ void Document::load_words(){
 }
 
 void Document::stem_words(){
-    
+    stemming::english_stem<> english_stemmer;   
+    for (auto it = words.begin(); it != words.end(); it++){
+        english_stemmer(*it);
+    } 
 }
 
 void Document::remove_stopwords(){
     std::vector<std::wstring> stop_words_removed;
     std::vector<std::wstring> stop_words;
-    std::ifstream stop_words_file;
+    std::wifstream stop_words_file;
     stop_words_file.open(STOP_WORDS_FILE);
     if (stop_words_file.is_open()){
         for(std::wstring word; stop_words_file >> word;){
@@ -52,6 +56,20 @@ void Document::remove_stopwords(){
     words = stop_words_removed;
 }
 
+void Document::compute_term_frequency(){
+    for(auto it = words.begin(); it != words.end(); it++){
+        std::pair<std::wstring, int> insert_pair(*it, 1);
+        std::pair<std::map<std::wstring, int>::iterator, bool> result;
+        result = tf.insert(insert_pair);
+        if (result.second == false){
+            tf[*it]++;
+        }
+    }
+}
+
 int main(){
     Document d("test_data/test_document.txt");
+    for(auto it = d.tf.begin(); it != d.tf.end(); it++){
+        std::wcout << it->first << "->" << it->second << std::endl;
+    }
 }
