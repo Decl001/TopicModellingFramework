@@ -7,6 +7,7 @@
 Document::Document(std::string f_name){
     filename = f_name;
     load_words();
+    stem_words();
     remove_stopwords();
     //compute_term_frequency();
 }

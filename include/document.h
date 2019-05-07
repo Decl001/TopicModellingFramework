@@ -15,6 +15,7 @@ private:
     std::vector<std::string> words;
     std::string filename;
     void load_words();
+    void stem_words();
     void remove_stopwords();
     void compute_term_frequency();
 public:
