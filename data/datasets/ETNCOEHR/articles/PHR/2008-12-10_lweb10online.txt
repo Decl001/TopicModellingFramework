@@ -1,0 +1,13 @@
+To the Editor:
+
+Re “Thieves Winning Online War, Maybe Even in Your Computer” (front page, Dec. 6):
+
+There is a real disconnect between the ease of hacking home computers and the federal push to build a national electronic health system.
+
+Health-related information technology systems pose a tremendous new and unrecognized threat to the privacy of personal information.
+
+Cubbyhole databases and encryption are not widely used, authentication and identity-proofing are terrible, and hospitals allow thousands of employees to see hundreds of thousands of patient records.
+
+Advertisement Continue reading the main story
+
+Health care systems do not use the new “smart” security and consent technologies so we can limit access to those directly involved in our care.

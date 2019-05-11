@@ -1,0 +1,77 @@
+Each entry comes with an icon that visitors can click to learn about the sources behind the data — whether self-reported consumer surveys, warranty registrations or public records like voter files. The program also lets people correct or suppress individual data elements, or to opt out entirely of having Acxiom collect and store marketing data about them.
+
+With about $1.1 billion in revenue in its 2013 fiscal year, Acxiom is a leading player in an industry called data brokerage. The company collects, stores, analyzes and sells consumer data with the aim of helping its clients — including well-known banks, credit card issuers, insurance companies, department stores and carmakers — tailor marketing to their most valuable current customers or identify new customers.
+
+A credit card issuer, for instance, could ask Acxiom to help aim a campaign for elite-level cards with concierge services at people above a certain income who live in certain suburbs or drive luxury cars. To do that, Acxiom, like many of its competitors, often uses its own proprietary classification system to segment consumers into socioeconomic marketing categories, like “Frugal Families” or “McMansions and Minivans.”
+
+Some federal regulators and privacy advocates warn that this kind of data-mining could be used to aim at consumers vulnerable to predatory lending practices, for instance, or to favor certain high-value consumers with instant, attentive customer service while relegating other people to interminable wait time.
+
+Mr. Howe says he wants to counter such fears by making industry practices more transparent. A former Microsoft executive, he came to Acxiom as C.E.O. in 2011, bringing the online industry’s enthusiasm for data sharing to what had been a hermetic company.
+
+“We are not going to get anywhere by hiding,” he said in a recent interview at Acxiom’s headquarters in Little Rock, Ark. “You have to make things visible.”
+
+But AbouttheData.com is as much ruthlessly pragmatic as idealistic. Mr. Howe recognizes that regulation of his industry may be coming and that it’s better for Acxiom to be seen as a part of the solution than a part of the problem.
+
+Photo
+
+ONE afternoon in late August, Mr. Howe sat in an executive conference room at Acxiom’s headquarters overlooking the Arkansas River, demonstrating a version of AbouttheData.com that was still a work in progress. Having filled out an identity verification form that asked for his name, birth date, address and the last four digits of his Social Security number, he landed on a page that gave him a choice of six data categories to examine.
+
+Advertisement Continue reading the main story
+
+Visitors who log in may be surprised at the volume of information that may be available and the detailed picture it can give of their personal lives. The household interest section, for instance, listed Mr. Howe as interested in health and medical issues (he subscribes to health industry trade journals and founded a site called Health123.com); crafts (he periodically works with stained glass); woodworking (he paid for his undergraduate education at Princeton in part by working as an apprentice carpenter); tennis (he was on his high school team); gardening (his wife subscribes to Fine Gardening magazine); and “religious/inspirational.”
+
+“I don’t know how inspirational I am,” Mr. Howe said. “I am Methodist. My uncle is a Methodist preacher. I go to church very regularly.”
+
+But consumers, he said, should not expect all information to be current or correct. For instance, the site listed Mr. Howe as the father of two; in fact, he is the father of three. It had also pegged him as Italian, but he is actually of Norwegian descent. (The system predicts likely ethnicity based on surname and is clearly imperfect.)
+
+The home section, meanwhile, which listed such details as the year his house was built and its estimated market value, had incorrect information about his mortgage. “I don’t have a loan on my house anymore. It’s drawing on old data,” Mr. Howe explained. “That’s one I would absolutely go in and change.”
+
+If a personal detail is corrected on the site, the new entry will appear with an aside noting the previous, incorrect entry, letting consumers see what they amended. Mr. Howe acknowledged that the system was fallible because Acxiom obtains information from many different suppliers, and the latest data is not always available in its databases. He said he couldn’t predict how Acxiom’s clients might react to a system that lets consumers update profiles and perhaps fictionalize them, or opt out altogether from Acxiom’s marketing database.
+
+“What happens if a flock of people who are 45 decide to be 39?” Mr. Howe asked. “What happens if 20 percent of the American population decides to opt out? It would be devastating for our business.”
+
+If past consumer behavior is any sign, the number of opt-outs isn’t likely to be high. For instance, Forrester Research reported this year that only 18 percent of Web users had activated an option in their browsers, called Do Not Track, that informs sites and ad networks that they don’t want their browsing histories tracked for marketing purposes.
+
+Newsletter Sign Up Continue reading the main story Please verify you're not a robot by clicking the box. Invalid email address. Please re-enter. You must select a newsletter to subscribe to. Sign Up You agree to receive occasional updates and special offers for The New York Times's products and services. Thank you for subscribing. An error has occurred. Please try again later. View all New York Times newsletters.
+
+“It’s a little bit of a risk,” Mr. Howe added of the opt-out provision. “But I feel it’s the right thing to do.”
+
+Advertisement Continue reading the main story
+
+It may be both the right and the timely thing. The new consumer site should help Acxiom get out in front of potential regulation — at a time when the company is about to introduce a more powerful consumer-targeting engine for its corporate clients that may well set off an outcry from privacy advocates. Last year, some members of Congress opened inquiries into the business practices of data brokers in light of an investigation by The New York Times.
+
+Unlike consumer reporting agencies, which are required by the federal Fair Credit Reporting Act to show consumers free copies of their credit reports every 12 months and let them correct errors, information resellers like Acxiom aren’t required to share marketing data with consumers and allow corrections. But some legislators and regulators believe that they should be.
+
+“Citizens don’t know what of our personal information is on file or how it is being used,” Julie Brill, a member of the Federal Trade Commission, wrote in an op-ed article in The Washington Post in August, asking companies like Acxiom to make their practices more transparent. She added: “This frames the fundamental challenge to consumer privacy in the online marketplace: our loss of control over our most private and sensitive information.”
+
+Industry representatives say it is unnecessary to show consumers their marketing data because, they say, reputable companies limit that data’s use to innocuous purposes; they also contend that such consumer services would be too technically challenging and expensive to develop. In an open letter to Ms. Brill responding to her article, the Direct Marketing Association, a trade group, said consumer access programs “would lead to more fraud and limit the efficacy of companies and data.”
+
+Photo
+
+Acxiom’s new site seems calculated to allay regulators’ concerns, at least in part, and to challenge the industry status quo at the same time.
+
+“You may be surprised to know that we are in favor of heightened industry regulation, but we want to make sure we have a voice in the process,” Mr. Howe said. Aboutthedata.com is Acxiom’s bid to have a say in any legislative or regulatory developments. “If we are on our front foot, if we innovate and we are learning,” he said, “we think that earns us a seat at the table.”
+
+MR. HOWE calls himself a “data geek” and believes that every business decision could be made better with “the intelligent application of data.” He uses that strategy to inform his own pursuits.
+
+When he was new to Little Rock and wanted to find great barbecue, he canvassed Acxiom employees by e-mail and received several hundred responses. He visited the 10 most recommended places and later sent his rankings, with the reasons behind them, to employees. (The winner was the Whole Hog Cafe.)
+
+Advertisement Continue reading the main story
+
+As Mr. Howe envisioned an Acxiom consumer portal, he used a similar method, researching how other industries have responded to consumer concerns about lack of transparency. He saw how Subway, the sandwich chain, made nutrition information clearer and introduced a customer, Jared Fogle, to personify healthier menu options. Mr. Howe also consulted executives at credit reporting bureaus for advice on how a business-to-business industry could create a service for consumers.
+
+“Everybody said the hardest thing was changing the culture,” he said. “Take Acxiom. For 40 years, we talked about our three constituencies: our shareholders, our associates and our clients. But there’s a fourth constituency: consumers.”
+
+Even so, Aboutthedata.com is a self-serving endeavor, promoting Acxiom’s take on data-powered marketing to consumers. In fact, Mr. Howe sees the potential for developing a consumer business at Acxiom in which people could customize the kinds of advertising they want to see by selecting the activities and brands that interest them via AbouttheData.com. Consumers are going to receive ads no matter what, he said, so they may as well elect to receive pitches for stuff they enjoy.
+
+Acxiom plans to add more data elements to the site regularly. Eventually, Mr. Howe said, the site may even ask people for more information about themselves in exchange for special services, online subscriptions or discounts. “Could this be a new utility for consumers, having a user agent where they can choose the information they want to share?” he said.
+
+Although the site shows visitors a few facts that some might consider sensitive, like race and ethnicity, it initially omits, at least in the version I saw, intimate references — like “gambling,” “senior needs,” “smoker in the household” and “adult with wealthy parent” — that Acxiom markets to corporate clients but that might discomfit consumers if they knew they were for sale. (Acxiom said that the site includes the “core” facts it has collected about consumers, but that it might add “derived” data, like propensity for gambling, at a later date.)
+
+This kind of anodyne presentation of data-mining, says Joseph Turow, a professor at the Annenberg School for Communication at the University of Pennsylvania, could prompt people to collude in their own surveillance by perfecting their profiles. That would improve the quality and resale value of the data for Acxiom, he says, perhaps to consumers’ detriment.
+
+“Bits of Acxiom data that seem totally benign on their own could be matched with other data and used in ways that consumers don’t want it to be used,” said Professor Turow, who had not yet seen the new Acxiom site.
+
+Privacy advocates like Professor Turow warn that this kind of system could influence consumers to provide more information than is good for them. “It’s just a game they are playing for marketing purposes and to make regulators feel better,” he said of the Acxiom project.
+
+But Mr. Howe said Acxiom planned to solicit and respond to feedback once the site opens. “Some people are going to say, ‘That’s not nearly good enough,’ ” he said. “This is a first step.”

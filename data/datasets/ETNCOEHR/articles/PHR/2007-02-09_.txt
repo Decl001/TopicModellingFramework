@@ -1,0 +1,65 @@
+Paul Krugman responds to readers’ comments on his Feb. 9 column, “Edwards Gets It Right.”
+
+Rebecca Duncan, Cary, N.C.: John Edwards’s health care proposals sound workable, especially when enhanced by your explanation of their worth. Yet I don’t think any plan will work as long as care providers remain dependent upon expensive diagnostic solutions to explore the simplest of problems and sometimes to cover their own lack of expertise. We may need computer-based diagnostics to maintain our cars, which have grown in complexity over the years. But has the human body changed in ways that dictate a similar reliance on technology? Call it nostalgia, but I think there is room in the medical profession for better low-tech diagnosis of routine symptoms.
+
+Paul Krugman: By all means, let’s try to improve the practice of medicine — better diagnosis, electronic records, and more. But meanwhile, let’s find a better way to pay for it.
+
+Karl Berger, M.D., Johnstown, Pa.: I have been practicing Pediatrics in the U.S. since 1970. I came from Germany, where I received my license to practice medicine in 1968. I was put off then by the two-tier system in Germany of private patients and federally insured patients. You walked into a German doctor’s office and there were two waiting rooms: one, plush with leather chairs and never crowded, and one filled with the huddling masses (if you could see them through the cigarette smoke). But now I say it is time to consider tiered payment systems not unlike it: one tightly controlled by cost effective medications and interventions as established by scientific consensus; the other freewheeling and catering to the taste of those who can pay. It took me 35 years to come to that conclusion.
+
+Paul Krugman: Better a two-tier system in which some people get nicer treatment than others than the two-tier system we have now, in which many people get no treatment at all.
+
+Rolf A. Nesse, Coeur d’Alene, Idaho: I understand that buying insurance is only half the problem. You need to create real improvement in the actual delivery systems of the care. Focusing on only payment schemes is in my view naive. We have a double problem, an upcoming shortage of physicians, especially primary care and a expected surge of aging baby boomers, happening at the same time. Insurance companies do not in any way now actually improve the delivery system except in entities like Kaiser or Group Health Cooperative where, by being true health care delivery companies, they can orchestrate both payment and delivery using unique solutions not available in the conventional fee-for-service model of care. Any proposal not linking finance to delivery reform will be weak.
+
+Paul Krugman: There’s some delivery reform in the Edwards plan; I just didn’t have the space to get into it. And a national insurance system provides the base for reforming delivery, too.
+
+Steve Chan, Los Altos Hills, Calif.: I don’t doubt what you said about the insurance companies’ gaming of the system is true, but I am not convinced that Medicare’s overhead is that low. Hope you got the figures to support that. Besides, it seems that most Medicare patients need a supplementary insurance — the cost, and certainly the overhead, of which is not low.
+
+Take my situation. I am retired and have an employer provided healthcare. As soon as I turned 65, Medicare became the primary, with the employer’s secondary. Yet my premium contribution remained pretty much the same for a much lower coverage because it is now secondary. It covered only the 20 percent that Medicare does not pay, after a host of deductibles and out-of-pockets the difference of which I can barely tell, if at all. Yes, that is not part of Medicare’s overhead but is part of the games insurance company plays. As time goes on, retirees are basically forced to move to H.M.O.’s because they keep increasing the premium as well as the deductibles and out-of-pockets. The only good thing about the retirement healthcare is its drug benefit.
+
+So here is my question. If Medicare is that good, why do people need supplemental? So I suspect if everyone gets a system like Medicare, everyone will have to buy supplementals and will continue to get gamed — let’s be charitable and not use the word rip-off. And instead of hoping that it will or may eventually become a single-payer system, why not go directly to it, like what Canada has?
+
+Paul Krugman: Medicare doesn’t offer complete coverage, which is why many people buy supplementals. But the low overhead is not in question: traditional (non-H.M.O.) Medicare’s administrative costs are around 2 percent of benefits, so 98 percent gets spent on health care, while companies providing individual insurance typically have “medical loss ratios” – the percentage of premiums spent on health care — of only around 80 percent.
+
+Tim Cornillie, Barrington, Ill.: I have a small idea which may help save our healthcare system. You acknowledge the efficiencies of single-payer programs, and yet people are skeptical of systems in which are government-provided.
+
+A possible strategy would be to make health care “single biller.” If all billing was through the government, and then reallocated by them to insurers, it would streamline billing for providers insurers would then have to deal with how care provided matched up to coverage.
+
+Paul Krugman: As I understand the Edwards plan, it does just that: billing would be via the Health Markets.
+
+Sara Pyle, New York: Do you think that, if something like the current Edwards plan were implemented, that physicians would be more eager to accept Medicare — even under another name? At present, many doctors do not accept Medicare, and patients in poor areas tend to go to clinics that are not really the greatest. I have worked in East Harlem for many years and, for the most part, that’s what the families I have known have done and still do.
+
+Paul Krugman: Good question. I don’t know the answer.
+
+Greg Otis, Brooklyn, N.Y.: I’d be interested to hear your comments about the health care plan proposed by Oregon Senator Ron Wyden, which requires all Americans to have health insurance, obtained through private insurers or government programs, and, most importantly, removes employers from the health care system. Linking health coverage to one’s job is the most illogical aspect to our current system, and Senator Wyden’s proposal would phase them out over a period of two years. Moreover, his plan provides a similar system for everyone, rather than the patchwork of fixes proposed by Governor Schwarzenegger or the hybrid system proposed by John Edwards. Senator Wyden’s plan seems to have a great deal of logic on its side.
+
+Paul Krugman: Wyden’s plan is similar to Edwards’, but without the requirement of public-private competition. I like the Edwards plan somewhat better for that reason: Wyden is a good guy with a serious plan, but it doesn’t seem to me to be as good at curbing administrative costs.
+
+Dave Jonsson, Seminole, Fla.: I have read that Mr. Edwards has used trusts to avoid payment of the Medicare tax on the bulk of his income. Is this true? If it is, is he still using them? If he is, he would have a problem gaining my support.
+
+Paul Krugman: Oh, come on. I have no idea about his personal finances. But why on earth does it matter? Here’s the thing: we’ve developed this weird notion that a rich man (say, George Bush) whose policies systematically favor the rich is somehow more virtuous than a rich man, like Edwards, who proposes tax increases on the rich to provide health care for working families — because the rich man who favors his own class is somehow more “authentic.” Can I point out how stupid this is? Can I say that by this criterion, F.D.R. — the greatest president in U.S. history — would be condemned as a phony, because he lived well himself even as he was helping poor Americans?
+
+Steve Smith, Dorset, Vt.: Your writing on this topic is cogent and necessary. Today’s column was particularly clear and compelling. I have a question and a comment though. You state that marketing and underwriting processes are used to screen out higher-risk applicants. This is certainly true of underwriting processes, but why of marketing? Since you include marketing expenses in the numerator of the ratio used in this paragraph, this is not a trivial question.
+
+Secondly, you characterize both marketing and underwriting expenses as overhead, which has become for most Americans a pejorative term. Aren’t they in fact operating costs? Overhead refers to expenses that are somewhat inelastic and that are incurred in all companies simply to be in business.
+
+You had a good point but, in my opinion, you twisted facts and words a little to drive it home. You didn’t need to and you’d be among the first to call to account another who did so.
+
+Paul Krugman: I think we’re using the term “overhead” slightly differently. The Edwards people are using it to mean “expenses by insurance companies that aren’t payments to health care providers.” That’s what I mean, too.
+
+And marketing: Health insurers use marketing to try to get more “desirable” clients, that is, people who won’t actually need the insurance. So it’s really part of the same basket as underwriting.
+
+Bart Stuck, Westport, Conn.: Edwards’s proposal for health care reform strikes me as deja vu: many of these ingredients were present in the abortive Clinton administration health care reform effort, no? If not, why not? It seems to be the same, and while the devil is in the details, it does validate that good ideas are hard to kill.
+
+Paul Krugman: The Clinton plan was much harder to explain, but it did have some common elements. Look, there aren’t that many moving pieces in health care; every structure can be described at a broad level in terms of a few major choices.
+
+Matthew Michaels, Cordova, Tenn.: Competition between government and private plans in this system would involve more than the cost of care. Universal coverage would vastly increase the number of persons with access to providers’ offices, giving providers a greater ability to reject those plans offering inadequate compensation for professional services. Lower-reimbursing plans would find themselves with a short provider list and a decreased ability to compete. Just another factor to consider.
+
+Paul Krugman: A complex issue, which I’d need to think about a bit. In practice, universal systems seem to have more, not less, ability to bargain with providers.
+
+Harvard Ayers, Boone, N.C.: I follow your columns closely and appreciate your helping me understand many economic and related issues. Concerning today’s column, you have long said that one of the failures of the U.S. health care system is the legions of insurance industry staff who spend every day trying to find reasons to deny the claims of the insured. I agree. But today, you said that two-thirds of insurance overhead is spent on figuring out who is a high-risk person and then making it tough for them to get coverage. Help me understand this seeming contradiction.
+
+Paul Krugman: Most of the costs are in denying coverage in the first place. Rejecting claims is another big aspect of what the insurance industry does, but I think I’ve always been clear that underwriting is the main source of high administrative costs.
+
+Dennis W. Mack, New York: I have not read Mr. Edwards’s health insurance proposal, but reading between the lines of your commentary, there might be a big issue hiding. Most large employers are self-insured. They hire insurance companies to administer those plans, but the employers set the terms of the coverage. Since working people are generally healthier than people who are not working, the cost of employer-provided health insurance will be significantly lower than community rated insurance. That is clearly the case in New York State, where buying private insurance is considerably more expensive than the cost per employee to employers for the insurance that they provide. As it is, there are many stories of small companies that drop their insurance programs because the child of one employee becomes severely sick and of companies that eliminate coverage for expensive care or care reflecting unpopular lifestyles. Witness the litigation in the 1980’s over whether an employer could drop coverage for anything flowing from H.I.V. infection after one employee came down with AIDS. If Mr. Edwards plan does not do so, we need to bring employer-provided health coverage under the state umbrellas of health insurance and subject to the same coverage requirements and for them to contribute their savings from the community rate to the community pool.
+
+Paul Krugman: Good question, and something to think about. I think the betting is that under any plan of this sort, large companies would probably continue to self-insure, at least for a while, while small companies would put their employees into the pool. Since many small-company employees have no coverage now, that would be major progress.

@@ -1,0 +1,47 @@
+Lawmakers leading the campaign for such safeguards include Representatives Edward J. Markey of Massachusetts and Pete Stark of California, both Democrats; Senator Patrick J. Leahy, Democrat of Vermont; and Senator Olympia J. Snowe, Republican of Maine.
+
+Without strong safeguards, Mr. Markey said, the dream of electronic health information networks could turn into “a nightmare for consumers.”
+
+Photo
+
+In the last few years, personal health information on hundreds of thousands of people has been compromised because of security lapses at hospitals, insurance companies and government agencies. These breaches occurred despite federal privacy rules issued under a 1996 law. Congress is trying to strengthen those privacy protections and make sure they apply to computer records. Lobbyists for insurers, drug benefit managers and others in the health industry are mobilizing a campaign to persuade Congress that overly stringent privacy protections would frustrate the potential benefits of digital records.
+
+One of the proposed safeguards would outlaw the sale of any personal health information in an electronic medical record, except with the patient’s permission.
+
+Another would allow patients to impose additional controls on certain particularly sensitive information, like records of psychotherapy, abortions and tests for the virus that causes AIDS. Patients could demand that such information be segregated from the rest of their medical records.
+
+Under other proposals being seriously considered in Congress, health care providers and insurers would have to use encryption technology to protect personal health information stored in or sent by computers. Patients would have a right to an accounting of any disclosures of their electronic data. Health care providers and insurers would have to notify patients whenever such information was lost, stolen or used for an unauthorized purpose. And patients — or state officials acting on their behalf — could recover damages from an entity that improperly used or disclosed personal health information.
+
+Rahm Emanuel, who will be the White House chief of staff for Mr. Obama, advocated such safeguards when he was a House member from Illinois. “As we move forward on health information technology,” Mr. Emanuel said, “it is absolutely essential that an individual’s most personal and vulnerable information is protected.”
+
+Advertisement Continue reading the main story
+
+Advisers to Mr. Obama say he favors strong privacy protections but does not want the dispute to slow down the bill.
+
+Mary R. Grealy, president of the Health Care Leadership Council, which represents large health care corporations, said the proposed safeguards could be an impediment to the widespread adoption of health information technology and counteract any economic stimulus effect.
+
+In a letter to Congressional leaders, Karen M. Ignagni, president of America’s Health Insurance Plans, a trade group for insurers, expressed “serious concern about privacy provisions being considered for inclusion in the economic stimulus bill.”
+
+Photo
+
+She criticized, in particular, a proposal that would require health care providers to obtain the consent of patients before disclosing personal health information for treatment, payment or “health care operations.”
+
+Such a requirement, she said, could cripple efforts to manage chronic diseases like diabetes, which often require coordination of care among many specialists.
+
+At the moment, senior House Democrats are determined to include privacy safeguards in the economic recovery bill. But some insurance lobbyists said they hoped Congress would punt on the issue, leaving privacy standards to be developed by the Health and Human Services Department, where they believe they can make their case more effectively. Microsoft has joined many consumer groups in supporting stronger safeguards. The software giant has developed products that allow consumers and providers to store and share medical data in a secure format.
+
+Newsletter Sign Up Continue reading the main story Please verify you're not a robot by clicking the box. Invalid email address. Please re-enter. You must select a newsletter to subscribe to. Sign Up You agree to receive occasional updates and special offers for The New York Times's products and services. Thank you for subscribing. An error has occurred. Please try again later. View all New York Times newsletters.
+
+“Health information technology will succeed only if privacy is protected,” said Frank C. Torres, director of consumer affairs at Microsoft. “For the president-elect to achieve his vision, he has to protect privacy.”
+
+Senator Sheldon Whitehouse, Democrat of Rhode Island, and Peter R. Orszag, director-designate of the White House Office of Management and Budget, said electronic medical records could be more secure than paper records.
+
+“If the files are electronic,” Mr. Whitehouse said, “computers can record every time someone has access to your medical information.” But, he said, the challenge is political as well as technical.
+
+Advertisement Continue reading the main story
+
+“Until people are more confident about the security of electronic medical records,” Mr. Whitehouse said, “it’s vitally important that we err on the side of privacy.”
+
+The data in medical records has great potential commercial value. Several companies, for example, buy and sell huge amounts of data on the prescribing habits of doctors, and the information has proved invaluable to pharmaceutical sales representatives.
+
+“Health I.T. without privacy is an excellent way for companies to establish a gold mine of information that can be used to increase profits, promote expensive drugs, cherry-pick patients who are cheaper to insure and market directly to consumers,” said Dr. Deborah C. Peel, coordinator of the Coalition for Patient Privacy, which includes the American Civil Liberties Union among its members.

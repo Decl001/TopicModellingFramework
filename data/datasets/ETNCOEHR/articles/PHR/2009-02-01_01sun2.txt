@@ -1,0 +1,17 @@
+As part of the stimulus package, $20 billion will be pumped into the health care system to accelerate the use of electronic health records. The goal is both to improve the quality and lower the costs of care by replacing cumbersome paper records with electronic records that can be easily stored and swiftly transmitted.
+
+The idea is sound, but it also raises important questions about how to ensure the privacy of patients. Fortunately, the legislation would impose sensible privacy protections despite attempts by business lobbyists to weaken the safeguards.
+
+With paper records the opportunities for breaches are limited to over-the-shoulder glimpses or the occasional lost or stolen files. But when records are kept and transferred electronically, the potential for abuse can become as vast as the Internet.
+
+Electronic health records that can be linked to individual patients are already protected by laws that apply primarily to hospitals, doctors, nursing homes, pharmacists, laboratories and insurance plans. The stimulus bill that has passed in the House, and a similar bill awaiting approval in the Senate, would strengthen the privacy requirements and apply them more directly to “business associates” of the providers, like billing and collection services or pharmacy benefit managers, that have access to sensitive data but are not readily held accountable for any misuse.
+
+Advertisement Continue reading the main story
+
+The potential for harm was spelled out by the American Civil Liberties Union in a recent letter to Congress. Employers who obtain medical records inappropriately might reject a job candidate who looks expensive to insure. Drug companies with access to pharmaceutical records might try to pressure patients to switch to their products. Data brokers might buy medical and pharmaceutical records and sell them to marketers. Unscrupulous employees with access to electronic records might snoop on the health of their colleagues or neighbors.
+
+Newsletter Sign Up Continue reading the main story Please verify you're not a robot by clicking the box. Invalid email address. Please re-enter. You must select a newsletter to subscribe to. Sign Up You agree to receive occasional updates and special offers for The New York Times's products and services. Thank you for subscribing. An error has occurred. Please try again later. View all New York Times newsletters.
+
+The bills pending in Congress would go a long way toward preventing such abuses. They would outlaw the sale of any personal health information without the patient’s permission, mandate audit trails to help detect inappropriate access, and require that patients be notified whenever their records are lost or used for an unauthorized purpose. They would also beef up the penalties for noncompliance and allow state attorneys general to help enforce the rules — a useful backup in case the federal government falls down on the job. The House version would also encourage the use of protective technologies, like encryption, to protect personal medical information that will be transmitted.
+
+Health insurance plans and some disease management groups are complaining that the new requirements would impose administrative burdens that could actually impede the use of electronic records and interfere with coordination of care. They want to ease the marketing restrictions, notify patients only if security breaches are harmful, and keep the attorneys general out of the enforcement role.

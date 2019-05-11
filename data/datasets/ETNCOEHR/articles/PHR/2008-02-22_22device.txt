@@ -1,0 +1,47 @@
+Lasr fall, Medtronic recalled the product, known as the Sprint Fidelis, after reports that the leads — wires that connected the device to the heart — were more prone to developing potentially deadly fractures than an older lead called the Quattro.
+
+In addition to the Sprint Fidelis and the heart stent cases — some in Massachusetts have named Boston Scientific rather than Johnson & Johnson as the defendant — lawyers said Wednesday’s Supreme Court ruling could also affect the course of personal injury lawsuits filed against St. Jude Medical over a silver-coated heart valve recalled in 2000.
+
+There were 19 state and federal cases pending involving the St. Jude valve as of last October, according to filings with the Securities and Exchange Commission by the company, which is based in St. Paul.
+
+Other lawsuits that could be affected are ones against Johnson & Johnson and Synthes over spinal disks, and Stryker over artificial hip components. Soundtec, an Oklahoma City-based producer of an implantable hearing aid, had been told just two weeks ago by the Arkansas State Supreme Court that the federal approval of its device did not protect it from a claim in state court that its design was defective. Lawyers say the Arkansas decision is now likely to be reversed.
+
+Recent settlements of large groups of lawsuits on terms relatively favorable to device makers are a sign that lawyers had been anticipating the Supreme Court outcome, according to Mark Herrmann, a Chicago lawyer who defends drug and device companies.
+
+In December, for example, Medtronic announced an agreement to pay $114.1 million to settle 2,682 injury lawsuits related to its 2005 recall of defibrillators with a defective battery. In November, Boston Scientific agreed to pay up to $240 million to settle 8,550 claims stemming from recalls of defibrillators made by a subsidiary, Guidant.
+
+Plaintiffs in those cases are free to stay out of the settlements and try to continue suing the companies. But the odds against their success are much steeper now, according to both plaintiffs and defense lawyers.
+
+Advertisement Continue reading the main story
+
+The Supreme Court’s Riegel decision turned on interpretation of laws and regulations governing Class III medical devices, which include products that sustain life, prevent major health problems or might pose unreasonable risks if they malfunction.
+
+The majority of Class III devices submitted for F.D.A. consideration — hundreds each year — are variants on products like standard pacemakers that were already in the market when the main law covering devices was passed by Congress in 1976. While companies must notify the F.D.A. when introducing such products, the agency does not require extensive safety and effectiveness testing before allowing them to be sold.
+
+Newsletter Sign Up Continue reading the main story Please verify you're not a robot by clicking the box. Invalid email address. Please re-enter. You must select a newsletter to subscribe to. Sign Up You agree to receive occasional updates and special offers for The New York Times's products and services. Thank you for subscribing. An error has occurred. Please try again later. View all New York Times newsletters.
+
+But many of the industry’s most sophisticated and profitable Class III devices — implants like defibrillators, newer pacemakers that balance the heart rate in different chambers of the heart, drug-coated stents to prop open arteries, artificial hips, spinal disks, knees and stimulators that control pain — are seen as so different from pre-1976 devices that they must undergo a more thorough safety and effectiveness review.
+
+In Riegel, lawyers agree, the Supreme Court concluded that Congress intended that such a premarket approval process — known as P.M.A. — would bar patients from filing lawsuits that in effect, second-guess regulators’ judgments about the safety and effectiveness of devices they have reviewed. P.M.A. applications may take nine months or more to be processed and may include a hearing before a panel of outside experts.
+
+The Supreme Court ruling also presumes that the labels companies develop to warn of side effects and limitations are adequate because they, too, receive F.D.A. review.
+
+The F.D.A. handles 25 to 50 new P.M.A. reviews in a typical year. But the impact of Riegel extends far beyond those approvals. Each year, the F.D.A. handles hundreds of “supplements” to existing P.M.A.’s that reflect changes in the design or manufacture of products already on the market. Numerous lower court decisions say such supplements have the same legal status as the original approvals, even though they often receive cursory F.D.A. review and are approved in a matter of weeks.
+
+The lawsuits related to the Sprint Fidelis lead fractures spotlight what critics of the Riegel decision have said is a serious flaw in the Supreme Court’s reasoning. They say the Sprint Fidelis lead, which was classified as a supplement to earlier leads, did not receive extensive F.D.A. scrutiny. “It was approved in less than 30 days,” Mr. Shkolnik said, ”even though there was a big change in how they welded the wires.”
+
+Whether manufacturing changes had anything to do with the Sprint Fidelis problems remains to be proved. But the sheer number of such supplemental applications at the F.D.A. highlights how reliant the agency has become on the industry’s own data and analysis of potential vulnerabilities.
+
+That could make supplemental applications a particular target of efforts in Congress to narrow or overturn the immunity from many types of lawsuits that manufacturers received in the court’s Riegel decision. Two crucial figures in the passage of the original 1976 device law, Representative Henry Waxman, Democrat of California, and Senator Edward Kennedy, Democrat of Massachusetts, said Wednesday that the Riegel ruling was contrary to Congress’s intent and that they would introduce legislation to overturn it.
+
+Advertisement Continue reading the main story
+
+As things stand now, lawyers expect injury lawsuits to leave design questions behind and focus on whether patients were harmed because a company did not make or handle the product according to the safety processes laid out in the documents approved by the F.D.A.
+
+“As sure as night follows day, every plaintiff is going to argue manufacturing defects,” Mr. Herrmann said. “That is the next battleground.”
+
+Another question may be whether injury lawsuits are barred in cases where manufacturers deceived the regulators by providing false data or withholding data on safety and effectiveness to get their marketing approval.
+
+But Riegel may lead many judges to dismiss claims before plaintiffs’ lawyers can gain access to company production data, e-mail and other records through the pretrial process known as discovery. “It takes discovery to prove violations of the federal regulations,” said Neil Overholtz, a lawyer in Pensacola, Fla., who represents patients in device litigation.
+
+Mr. Herrmann, who writes a blog about these issues (druganddevicelaw.blogspot.com), said Thursday that the decision put the onus on medical device companies and the F.D.A. to prove they can protect patients without the threat of product-injury lawsuits.

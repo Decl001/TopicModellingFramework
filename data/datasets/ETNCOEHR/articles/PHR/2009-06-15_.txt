@@ -1,0 +1,25 @@
+Darren Hauck for The New York Times
+
+Clarifying G.E. comments on initial funding for health-records loan program in post and headline. While it is setting aside $2 billion for financing of health information technology, its initial commitment for loans to accelerate adoption of electronic health records is $100 million.
+
+G.E. Capital has mostly been a headache for its parent company, General Electric, since the financial crisis hit last fall. But on Monday, the finance arm will be putting its muscle behind G.E.’s health care unit as it tries to grab a hefty slice of the market for electronic health records, a prime target for economic stimulus spending by the Obama administration.
+
+G.E. is announcing that it will offer doctors and hospitals loans that will carry no interest until the institutions begin receiving government money, typically in 2012. The loans, of course, will be to buy G.E.’s Centricity electronic health records — either as conventional personal-computer software or as a Web-based offering.
+
+The bridge-loan plan addresses one big worry for many doctors who are interested in taking advantage of the government incentives (up to $40,000 per physician over a few years) to make the move to digital patient records: a shortage of upfront capital.
+
+But the other uncertainty is that the government has not yet defined the technology standards for what will be “qualified” electronic health records. The definition will presumably include being able to share data and as well as automated reporting of certain measurements of health care quality.
+
+The details of the new standards will be crucial — and won’t be known for sure until the end of this year. To remove the technological uncertainty, G.E. is issuing a guarantee that its electronic health records will meet the government standards, regardless of the final details.
+
+“We think this is a really good way to stimulate interest in and adoption of electronic health records,” Vishal Wanchoo, chief executive of G.E.’s health care information technology business, said in an interview on Friday.
+
+As part of its recently announced healthymagination initiative, G.E. said $2 billion would be set aside for financing. Most of that will go to fund health information technology and rural health projects in developing nations. The initial commitment for the loans to accelerate adoption of electronic health records is $100 million.
+
+In April, I.B.M. said it would make up to $2 billion in financing available as bridge loans to jump-start high-technology infrastructure projects likely to qualify for federal stimulus spending, including computerized health records, smart electric grids and broadband networks for rural communities. The G.E. commitment is morer tailored, focused on health care technology and comes with a warranty that its products will meet the coming federal standards.
+
+G.E. is also making a bigger move into Web-based electronic health records. That service, Centricity ASP, has previously been offered through third-party providers, which host the service in local markets. But Mr. Wanchoo said that G.E. would also begin offering the service on its own, hosted from G.E. data centers. The price will be $250 to $500 a month per physician. The big benefit for smaller physician practices, he said, will be to remove the headaches and support troubles from their offices. And the price, Mr. Wanchoo conceded, will be carefully set so as not to cannibalize G.E.’s traditional PC-and-server health software.
+
+That’s hardly unique to G.E. in health care. It is the same model used by most traditional software companies as they begin to offer Web-based alternatives.
+
+But doesn’t that leave a real opening — especially in a market about to be turbo-charged by government spending — for someone to come in and undercut the old price structures with Web-based technology and Internet economics? Mr. Wanchoo smiled and paused briefly, but barely missed a beat. “We think that what we’re doing is the disruptive force that will drive adoption, by removing the financial and technology barriers,” he replied.

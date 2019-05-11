@@ -1,0 +1,15 @@
+When my mom was battling cancer, she decided to seek additional input from a cancer center miles away. She went to her oncologist to collect her medical records, only to discover they were stored in several different places.
+
+My mom was weak and sick from chemotherapy, yet she traipsed from hospital to hospital to collect medical files, pathology reports and scan films. I remember her saying at the time, “Why can’t they all be in one place?”
+
+Experiences like this have convinced me of the benefits of electronic medical records. Imagine how much easier it would have been for my mom to just send an electronic version of her medical files to the cancer center.
+
+But now that big companies like Microsoft and Google are getting into the medical record storage business, a fascinating piece in this week’s New England Journal of Medicine raises important questions about whether medical privacy rules should be extended to these private firms. All you have to do is order a book on Amazon and you can quickly see how every move you make online is tracked by marketers.
+
+As my colleague Steve Lohr wrote in Thursday’s Times, the authors of The New England Journal article say there are still more questions than answers about the new “personalized health information economy.”
+
+Microsoft and Google, the authors note, are not bound by the privacy restrictions of the Health Insurance Portability and Accountability Act, or Hipaa, the main law that regulates personal data handling and patient privacy. Hipaa, enacted in 1996, did not anticipate Web-based health records systems like the ones Microsoft and Google now offer. The authors say that consumer control of personal data under the new, unregulated Web systems could open the door to all kinds of marketing and false advertising from parties eager for valuable patient information.
+
+Even more surprising is the response of Peter Neupert, the vice president in charge of Microsoft’s health group, who resisted the suggestion of extending Hipaa to newcomers like Microsoft and Google.
+
+It’s an excellent story that may change your thinking on a major personal health issue. To read the full story in The Times, click here. The New England Journal provides only a free extract of the original article here. And to read more about Google’s move into health information, read this August 2007 story from The Times.

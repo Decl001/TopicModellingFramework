@@ -1,0 +1,31 @@
+Medical identity theft takes many guises. In Mr. Sharp’s case, someone got hold of his name and Social Security number and used them to receive emergency medical services, which many hospitals are obliged to provide whether or not a person has insurance. Mr. Sharp still does not know whether he fell victim to one calamitous perp who ended up in several emergency rooms or a ring of accident-prone conspirators.
+
+In another variant of the crime, someone can use stolen insurance information, like the basic member ID and group policy number found on insurance cards, to impersonate you — and receive everything from a routine physical to major surgery under your coverage. This is surprisingly easy to do, because many doctors and hospitals do not ask for identification beyond insurance information.
+
+Even more common, however, are cases where medical information is stolen by insiders at a medical office. Thieves download vital personal insurance data and related information from the operation’s computerized medical records, then sell it on the black market or use it themselves to make fraudulent billing claims.
+
+Photo
+
+In a widely reported case in 2006, a clerk at a Cleveland Clinic branch office in Weston, Fla., downloaded the records of more than 1,100 Medicare patients and gave the information to her cousin, who in turn, made $2.8 million in bogus claims.
+
+When people are not aware their medical identities have been stolen, insurance companies may simply continue to pay the fraudulent claims without the victim’s knowledge. The person might learn of the fraud only when trying to make a legitimate claim, and the insurance company informs them they have reached their lifetime cap on benefits.
+
+Or victims may eventually discover erroneous information in their medical files during a doctor or hospital visit. And that may pose a bigger danger than the financial risks. The medical records may now contain vital information like blood type, allergies, prescription drug use or a history of disease that is just plain wrong. In an emergency, doctors could treat you based on this erroneous information.
+
+Newsletter Sign Up Continue reading the main story Please verify you're not a robot by clicking the box. Invalid email address. Please re-enter. You must select a newsletter to subscribe to. Sign Up You agree to receive occasional updates and special offers for The New York Times's products and services. Thank you for subscribing. An error has occurred. Please try again later. View all New York Times newsletters.
+
+And there are none of the consumer protections for medical identity theft victims that exist for traditional identity theft. Under the Fair Credit Reporting Act you can get a free copy of your credit report each year, put a fraud alert on your account and get erroneous charges deleted from your record. If your credit card is stolen and the thief goes on a spending spree, you’re not liable for more than $50 worth of the charges.
+
+With medical identity theft, though, the fraudulent charges can remain unpaid and unresolved for years, permanently damaging your credit rating. Under the federal law known as Hipaa — the Health Insurance Portability and Accountability Act — you are entitled to a copy of your medical records, but you may have to pay a hefty fee for them.
+
+Advertisement Continue reading the main story
+
+Worse, Hipaa privacy rules can actually work against you. Once your medical information is intermingled with someone else’s, you may have trouble accessing your files. Privacy laws dictate that the thief’s medical information now contained in your records must be kept confidential, too.
+
+Even when you are able to correct a record, say in your doctor’s office, the erroneous information may have been passed on to dozens of other health care providers and insurers. Victims must track down and resolve these errors largely on a case-by-case basis, Ms. Dixon says.
+
+Medical providers contend that they are taking precautions against identity theft. At Cleveland Clinic, for example, security personnel routinely audit electronic medical record systems and all records are password-protected. Many Blue Cross Blue Shield insurers use software to screen for spikes in claims from providers that look suspicious. They also work with providers on encrypting medical files and carrying out data access restrictions, said Calvin Sneed, senior antifraud consultant at the Blue Cross and Blue Shield Association.
+
+And some medical centers and doctors’ offices now require patients to show photo ID and attach photos to patient charts.
+
+But privacy advocates worry that these steps do not go nearly far enough, especially in light of President Obama’s plans to spend $20 billion to increase the use of electronic medical records nationwide as part of the stimulus package. “Without aggressive safeguards, we could be building an infrastructure for massive medical fraud,” said Ms. Dixon.

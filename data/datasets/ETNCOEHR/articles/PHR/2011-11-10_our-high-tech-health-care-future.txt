@@ -1,0 +1,27 @@
+It would begin with a “digital nervous system”: inconspicuous wireless sensors worn on your body and placed in your home would continuously monitor your vital signs and track the daily activities that affect your health, counting the number of steps you take and the quantity and quality of food you eat. Wristbands would measure your levels of arousal, attention and anxiety. Bandages would monitor cuts for infection. Your bathroom mirror would calculate your heart rate, blood pressure and oxygen level.
+
+Then you’d get automated advice. Software that could analyze and visually represent this data would enable you to truly understand the impact of your behavior on your health and suggest changes to help prevent illness — by far the most effective way to cut health care costs.
+
+Photo
+
+Many situations would still call for professional medical attention, of course, but in most cases you wouldn’t need to make a costly trip to the doctor’s office. If you were not feeling well, a lifelike avatar on your smart phone would use natural-language processing to listen as you described your symptoms and then would translate them into medical jargon. After consulting a diagnostic supercomputer, the avatar would ask you to run a few quick medical tests at home.
+
+You might slip a low-cost plastic attachment over your phone display, look into its eyepiece and conduct a cataract exam. The avatar would transmit the results to your human doctor, who would send you a video message explaining the diagnosis and prescribing treatment.
+
+When you did need an office visit, you and your doctor would sit side by side in front of a large touch screen that would display a conceptual animation of what was going on inside your body. Decisions like choice of medication and dosing schedules would be made collaboratively with your doctor, and treatment regimens would be synchronized to apps on your phone that would make the task of following doctor’s orders — all too often neglected — easy and even fun. (I am an adviser to some early stage start-ups developing technologies like these.)
+
+Newsletter Sign Up Continue reading the main story Please verify you're not a robot by clicking the box. Invalid email address. Please re-enter. You must select a newsletter to subscribe to. Sign Up You agree to receive occasional updates and special offers for The New York Times's products and services. Thank you for subscribing. An error has occurred. Please try again later. View all New York Times newsletters.
+
+The United States should commit to a “moon shot” for consumer health to make this imagined world a reality. In addition to the health benefits, we would gain revenue from exports of consumer health products to countries like China and India, which are likely to become enormous health care markets. And the savings in health care costs could easily amount to a trillion dollars annually, as those costs are now about 18 percent of gross domestic product but could be brought closer in line with the 10 percent typical of modern developed nations.
+
+I acknowledge that this goal is very optimistic, given the paternalism of the medical profession, the poor health habits of most Americans and the perverse incentives of our health care system.
+
+But the burgeoning consumer health revolution has a powerful force on its side — American creativity. There is a rapidly growing network of inventors, academics and entrepreneurs who share a passion for empowering individuals to take control of their health. There is even a spirited health data movement, known as the Quantified Self, that is reminiscent of the Homebrew Computer Club, whose members helped spawn Apple and other companies in the early days of the personal computing revolution.
+
+Advertisement Continue reading the main story
+
+There’s also private sector money beginning to flow. Venture capitalists are ramping up their investments in health-tech start-ups. The X Prize Foundation is co-sponsoring a $10 million award for the best mobile device allowing consumers to diagnose their own diseases.
+
+For its part, all the government has to do is to catalyze this revolution. One step in the right direction is Healthdata.gov, a free resource of public health data and tools that can help innovators quickly bring to market data-driven applications and services. A bigger step would be for Congress to pass a bill that would orchestrate the development of interoperability and privacy standards for consumer health products and actively promote the industry at home and abroad.
+
+Recent history has shown that when the right cultural, technical and economic forces converge, people can transform fundamental aspects of society from the bottom up in a way that seemed impossible just a short time before. I believe that such a time is coming for health care.

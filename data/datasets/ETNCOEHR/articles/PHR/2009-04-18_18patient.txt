@@ -1,0 +1,39 @@
+In reality, very few doctors have set up their own electronic record-keeping systems, let alone ones that are compatible with patients’ home-based files. And “only 9 percent of hospitals use electronic records,” said Dr. Jha, who was the lead author of a recent study published in The New England Journal of Medicine, pointing to the field’s current limitations.
+
+What’s more, building your personal electronic medical file can be time-consuming and cumbersome. My quick test drive of the four most visible online health record keepers — Google Health Records, Microsoft HealthVault, RevolutionHealth Health Record and WebMd Personal Health Record — made it clear to me that, for now, interested consumers will in many cases spend hours tracking down information from doctors, hospitals and labs, and then painstakingly entering the data into the electronic record themselves.
+
+And patients will need to be scrupulous about making sure the electronic records are up to date and accurate. I was startled to read about a patient’s experience with one of these systems, and the inaccurate data he discovered in his file, as reported this week in The Boston Globe.
+
+All the upfront work of setting up an electronic health record can be easier and more worthwhile if you happen to be one of the few patients whose health care providers are themselves making an electronic push. Both Google and Microsoft have forged some early partnerships with big medical centers, including New York Presbyterian, the Cleveland Clinic and Beth Israel Deaconess in Boston. Google and Microsoft also both share data with several big pharmacies and other health care providers. And the Microsoft HealthVault, for instance, lets patients download data from various medical monitoring devices. One Cleveland Clinic patient with hypertension, a long-distance truck driver, was able, from the road, to feed his doctor daily results from his blood pressure monitor. Based on that data, the doctor instructed the man to adjust his medications, and the driver was able to stabilize his blood pressure in a matter of days.
+
+The list of partnerships with health providers is expected to grow as both Microsoft and Google push to become the leader in the personal electronic medical records business. But progress is being slowed by incompatible technologies, privacy concerns and resistance by many health care providers to installing expensive electronic systems.
+
+Photo
+
+For most patients, Dr. Jha says, it probably makes more sense to wait until one’s primary care doctor or other regular health care provider makes the move toward shared electronic records. “Then you can get the full benefit of seamless communication,” he said.
+
+There are exceptions. If you have a chronic health condition, or you are taking care of a family member or someone else with such a condition, electronic records might make a lot of sense.
+
+Advertisement Continue reading the main story
+
+“Having a full history, health provider contact information and a list of current prescription drugs that any caregiver can get their hands on is invaluable in an emergency,” said Dr. Ted Epperly, president of the American Academy of Family Physicians.
+
+Newsletter Sign Up Continue reading the main story Please verify you're not a robot by clicking the box. Invalid email address. Please re-enter. You must select a newsletter to subscribe to. Sign Up You agree to receive occasional updates and special offers for The New York Times's products and services. Thank you for subscribing. An error has occurred. Please try again later. View all New York Times newsletters.
+
+And electronic records can make it easier to monitor chronic conditions, said Dr. C. Martin Harris, chief information officer of the Cleveland Clinic and head of the National Health Information Infrastructure Task Force.
+
+“Say you have diabetes,” Dr. Harris said. “Before, you would go home, check your blood sugar and write down the results on a piece of paper somewhere and then lose it. With electronic records you have an organized place to store the data and an appropriate way to present them to your doctor. That means he or she can use the data much more effectively.”
+
+If you decide to become an early adopter of electronic medical records, you must be vigilant about updating your files every time a medical event takes place, Dr. Epperly advises. That means everything from refilling a prescription to visiting the emergency room.
+
+“If your doctor is under the impression the records are up to date, but a prescription is missing or a surgery follow-up isn’t listed,” he said, “that can be dangerous.”
+
+With all these caveats in mind, here are brief descriptions of four of the online health record systems now being offered, at no initial fee, to consumers who might want to set up their own electronic medical files.
+
+GOOGLE HEALTH Google’s system has partnerships with the Cleveland Clinic, Beth Israel Deaconess, Quest Diagnostics, several pharmacies and other organizations. Google Health will let you connect to vendors who, for a fee, will transcribe your paper medical records into your electronic file.
+
+MICROSOFT HEALTHVAULT Some users may be able to import data from a small group of medical providers including New York Presbyterian Hospital, Cleveland Clinic, Quest Laboratories, several pharmacies and others. HealthVault also has agreements with medical device makers to let patients import data from devices like blood pressure and blood glucose monitors.
+
+REVOLUTIONHEALTH HEALTH RECORDS Users input medical data themselves, or RevolutionHealth employees will input records faxed to them directly from your health care providers. You will be directed to information and advice on the Revolution Health site related to your medical condition.
+
+WEBMD PERSONAL HEALTH RECORD This system lets users store medical records, family histories and other health data. The site will direct you to WebMD information and tools related to your health data.

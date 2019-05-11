@@ -1,0 +1,31 @@
+Today, most electronic health records are maintained by health providers and insurers, allowing individuals access to their records through the Web. But those records are typically controlled by the institutions, and are not portable when a person changes insurers or health providers or moves to another part of the country.
+
+Both Microsoft and Google have previously announced collaborative pilot projects with other health providers. For Microsoft, they include the Mayo Clinic and NewYork-Presbyterian Hospital. For Google, they include the Cleveland Clinic and Beth Israel Deaconess Medical Center.
+
+But the Kaiser move, analysts say, is significant given the California-based health company’s size and its reputation as an innovative user of information technology.
+
+Photo
+
+In the mid-1990s, Kaiser began offering its members the ability to ask health questions to nurses over the Web. In the last few years, it has gone much further with its Web-based My Health Manager personal health record, which enables patients to make appointments, send e-mail questions to doctors and place prescription orders online.
+
+The adoption of Kaiser’s internal health record is growing at 100 percent a year, with 2.25 million of its patient members using it to date, Ms. Silvestre said.
+
+Linking the consumer-controlled personal health record with the Kaiser record opens the door to sharing and supplementing information from the Kaiser system with other personal health information. The proliferation of personal health monitoring machines, from blood pressure machines to pedometers, could be included, along with records of diet and exercise routines.
+
+Newsletter Sign Up Continue reading the main story Please verify you're not a robot by clicking the box. Invalid email address. Please re-enter. You must select a newsletter to subscribe to. Sign Up You agree to receive occasional updates and special offers for The New York Times's products and services. Thank you for subscribing. An error has occurred. Please try again later. View all New York Times newsletters.
+
+The goal, health experts say, is to give people useful information so they can be more active in managing their own health. The biggest payoff would be in improving the self-management of chronic ailments, like diabetes, asthma, congestive heart disease and hypertension, which account for the majority of the nation’s health care bill.
+
+“We think we can start to transform the management of chronic diseases,” said Peter Neupert, the vice president in charge of Microsoft’s health group.
+
+Advertisement Continue reading the main story
+
+The Kaiser partnership is a success for Microsoft’s early efforts to forge ties with health providers. Such information-sharing collaborations, analysts say, are crucial to the use of consumer-controlled personal health records, because individuals are not expected to type in large volumes of health information themselves.
+
+Kaiser chose the Microsoft technology, even though Ms. Silvestre is a member of a group of health professionals advising Google. Ms. Silvestre said Kaiser had also looked closely at Google, but had been particularly impressed by Microsoft’s technology for protecting the privacy and security of personal data. And she said that Microsoft and Kaiser were using the same Web-based format, called a Continuity of Care Document, or CCD.
+
+Ms. Silvestre said Google was initially focusing its efforts on a different format for Web health records, called Continuity of Care Record, or CCR.
+
+But these different Web standards, analysts say, are not a long-term obstacle to the ability of consumer health records from rival companies to share and view information. Google, for example, is committed to supporting both formats, and so is Microsoft.
+
+“Google will certainly be a player in this, and we look forward to working with them,” Ms. Silvestre said. “We’re all for consumer choice.”

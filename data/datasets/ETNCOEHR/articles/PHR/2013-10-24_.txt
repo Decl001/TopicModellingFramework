@@ -1,0 +1,37 @@
+Photo
+
+A Congressional probe into the multibillion-dollar data brokerage industry – companies that collect, analyze, sell or share personal details about consumers for marketing purposes – is intensifying.
+
+On Wednesday afternoon, Senator John D. Rockefeller IV, a West Virginia Democrat, sent a letter to Donald Robert, the chief executive of Experian, asking for information about a company subsidiary, called Court Ventures, that sold sensitive consumer data, allegedly to an identity theft service in Vietnam.
+
+Senator Rockefeller is the chairman of the Senate Committee on Commerce, Science and Transportation, which last year began investigating the practices of nine leading data brokers including Experian, a credit bureau that also offers marketing and fraud prevention services.
+
+“The committee’s investigation has focused to date on how companies including Experian collect and sell consumer information for marketing purposes, while the information Experian reportedly sold to identity thieves – such as Social Security numbers and banking information – appears to be data Experian collects and sells for risk assessment activities,” Mr. Rockefeller wrote in the letter to Mr. Robert. “However, if these recent news accounts are accurate, they raise serious questions about whether Experian as a company has appropriate practices in place for vetting its customers and sharing sensitive consumer data with them, regardless of the particular line of business.”
+
+Mr. Rockefeller’s letter is part of a larger effort by the Commerce Committee to understand how companies collect, share and sell intimate details about the shopping habits, health concerns, family circumstances and financial status of consumers at a time when Americans are increasingly sharing personal information online.
+
+The letter cited an article by KrebsOnSecurity.com, an Internet security news site, which published a report Sunday on the alleged sale of sensitive data by Court Ventures to the Web site Superget.info, whose administrators were based in Vietnam.
+
+The report said that Court Ventures had signed a data-sharing agreement with another information services firm, called U.S. Info Search, and that Court Ventures had resold the other company’s data to Superget.info.
+
+Last week, the Department of Justice announced an indictment against one of the administrators of the Superget.info site, a Vietnamese national named Hieu Minh Ngo. Among other allegations, the indictment charges him with conspiracy to commit identity fraud and aggravated identity theft.
+
+Experian bought Court Ventures, described on Experian.com as an aggregator that repackages and resells electronically available public records data “obtained from more than 1,400 state and county sources,” in 2012.
+
+In a statement, Gerry Tschopp, a spokesman for Experian, said: “After the acquisition, the U.S. Secret Service notified Experian that Court Ventures had been and was reselling data from U.S. Info Search to a third party that the U.S. Secret Service was investigating as possibly engaged in illegal activity. Following the notice by the U.S. Secret Service, Experian discontinued reselling U.S. Info Search data and worked closely and in full cooperation with law enforcement to bring Vietnamese national Hieu Minh Ngo, the alleged perpetrator, to justice.”
+
+He added that “no Experian database was accessed” and that the suspect in the case had obtained access to the data before Experian acquired the company.
+
+Experian, which reported revenue of $4.73 billion in its 2013 fiscal year, had already come under scrutiny by Mr. Rockefeller before the news reports this week.
+
+Last year, the senator asked data brokers including Experian, Equifax, TransUnion and Reed Elsevier, which owns the Lexis-Nexis database, to provide a list of all sources from which the companies obtained information on consumers; a list of the types of details the companies collected about consumers; and a list of the services and data they offer to third parties.
+
+One data broker, for instance, estimated that more than 250,000 Web sites apprise consumers that they share data with third parties.
+
+But, according to Mr. Rockefeller’s letter to Mr. Robert, Experian to date has “refused to fully respond” to the Commerce Committee’s request for the identities of Experian’s sources of consumer data and the purchasers of that data.
+
+Mr. Tschopp, the Experian spokesman, said: “We have responded — and will continue to respond – in a very transparent manner to Senator Rockefeller.”
+
+Last month, Mr. Rockefeller widened his probe, asking a dozen popular Web sites to provide information on their information-sharing practices with data brokers. The sites included About.com, Babycenter.com, Bankrate.com, Health.com, Investopedia.com, Mensfitness.com and Self.com.
+
+“While some consumers may not object to having their information categorized and used for marketing,” Mr. Rockefeller wrote to executives at the sites, “before they share personal information, it is important that they know it may be used for purposes beyond those for which they originally provided it.”

@@ -1,0 +1,61 @@
+Uwe E. Reinhardt is an economics professor at Princeton. He has some financial interests in the health care field.
+
+Several years ago I wrote “Humbled in Taiwan,” a commentary for The British Medical Journal.
+
+Today's Economist Perspectives from expert contributors. The piece was prompted by a conversation between a health services researcher and the head of health information technology of Taiwan’s Bureau of National Health Insurance, which administers Taiwan’s single-payer national health insurance system. By that time, virtually all of Taiwan’s claims were billed electronically.
+
+In that conversation, the bureau’s head of health information technology lamented that some hospitals and physicians in Taiwan still failed to submit fully completed claims forms for encounters with patients within 24 hours of the encounter.
+
+Twenty-four hours?
+
+
+
+In the United States, claims settlement for medical procedures under private health insurance can take up to three months; it takes about three weeks for Medicare. As I noted in my commentary for The British Medical Journal, “private health insurance companies in the United States count themselves lucky if high-priced actuaries can tell them in the middle of the year what the carrier ultimately will have to pay the providers of health care for services rendered in the previous year.”
+
+Since 1995, Taiwan’s 23 million people have enjoyed universal, comprehensive health insurance coverage under its single-payer national health insurance system, which is financed by a mixture of payroll contributions from employers and employees and government subsidies.
+
+The system is administered by the Bureau of National Health Insurance, whose administrative budget absorbs less than 2 percent of the system’s total spending for health care benefits. Over all, Taiwan spends about 6.9 percent of its gross domestic product on health care, compared with close to 18 percent spent in the United States. (More detail on the genesis of the system and its modus operandi can be found in this article in Health Affairs and on the bureau’s Web site.)
+
+About two weeks ago, I attended the Europe-Taiwan Health Dialogue, held in Taipei. That two-day conference was sponsored jointly by Taiwan’s Department of Health and the European Health Forum Gastein, whose European Health Forums are among the leading platforms for discussions on health policy and are attended by participants from around the world. (My travel to the conference, to which I was invited as an academic expert, was underwritten by the Department of Health.)
+
+As an American, I found myself humbled again by a presentation, “Information Technology and Patient-Centered Care – the Case of Taiwan,” delivered by Dr. Min-Huei Hsu, director of the Medical Informatics Center of Taiwan’s Department of Health.
+
+Dr. Hsu’s presentation brought to my mind a chapter on health information, which, as chairman of the New Jersey Commission on Rationalizing Health Care Resources, I wrote for the final report published in January 2008. In that chapter I sketched out the vision for a 21st-century health information system for New Jersey that had emerged from discussion among the commissioners.
+
+Alas, more often than not, the work of such commissions amounts to howling into the wind in our latitudes. It certainly did in that case.
+
+But, in Taiwan, I saw much of such a system in place and fully operating, and mused how long it might take New Jersey, and much of America, for that matter, to come this far.
+
+In Taiwan, the Department of Health, the very active Bureau of Health Promotion, the Centers for Disease Control and other governmental administrative functions are linked in a network that allows a select set of professionals access to its database, under strict controls to secure privacy. Clinics, hospitals and pharmacies are also linked to this central database.
+
+Among other things, this data system allows the guardians of public health to detect quickly the incidence of certain illness that may be infectious, such as severe acute respiratory syndrome, or SARS.
+
+Now in its third year is a clinical interface among health care facilities that already includes half of Taiwan’s 500 hospitals. By 2016, all Taiwan’s hospitals and 20,000 clinics where physicians practices are to be on this electronic medical record system.
+
+This data system allows physicians in one hospital or clinic to get access to an individual patient’s medical record, but only under strict conditions of privacy. The record includes hospital discharge summaries and medical records from outpatient visits, including prescriptions, lab tests and digital images. Such data-sharing among clinicians in different health care facilities or systems is rare in the United States. Again, roughly half of Taiwan’s 500 hospitals are already linked in this way, in the system’s third year.
+
+To access a patient’s file requires that the physician has an authorized digital signature to do so and, more important, that the patient has swiped his or her own, personal electronic smart card through the specialized card reader on every physician’s desk, thus authorizing the access.
+
+That card reader has slots for both the patient’s and the physician’s electronic smart card. It links patient and physician directly to the data center of the Bureau of National Health Insurance at the very time the encounter takes place. Thus it allows the bureau to track health care use virtually in real time and also to monitor the behavior of patients given to excessive doctor shopping.
+
+Touring a rural area, we saw mobile clinics on wheels, equipped with imaging devices (mammography scanners, sonar scanners and X-ray machines) for general check-ups of rural populations in remote areas. In front of the mobile clinics sat young technicians with laptops, linking to the Bureau of National Health Insurance data center both patients and physicians, with the latter also having access to the patients’ medical records.
+
+The information network also includes electronic kiosks in hospital lobbies; about half of Taiwan’s hospitals now feature such kiosks. Using a secure identification card, a patient can make an appointment with a doctor or review her own medical record, including results from tests or scans. To find more about what the test results might indicate, she could use electronic links to explanations. Finally, since all medicines are bar-coded, she might consult the kiosk about the specifics of drugs prescribed for her.
+
+Currently in the field are pilot studies for a national tele-health project for long-term care.
+
+I am sure that there are pockets here and there in the United States with similarly advanced health information technology. Kaiser Permanante, for example, is bound to be as advanced and perhaps even more so. The Veterans Administration is known for its electronic health information system. Some larger health systems and academic health centers may also have highly developed intra-system information systems.
+
+But I wonder how many Americans today can walk up to a multifunction kiosk, find their own medical records, make appointments with doctors and learn there about lab tests and prescription drugs. I wonder how many American doctors today can reach their patients’ complete medical records across different health care facilities and systems.
+
+I do not want to romanticize Taiwan health care. Like any health system, it has its share of problems, all the more so because, at only 6.7 percent of G.D.P., the system is underfunded by at least a percentage point or so, using international standards.
+
+I also am persuaded that Taiwan needs a larger supply of doctors. Nor would even Taiwan’s health experts assert that their health information system is perfect. It remains a work in progress.
+
+But a national health system must be judged not only by the level of health care it delivers, but by what it offers its citizens for the money they spend on it – by its cost-effectiveness, in professional jargon.
+
+In the United States, the Business Roundtable concluded in a 2010 study that given its high level of spending on health care, the American system shows a 23 percent value gap relative to what Europeans spend and get in return, and a 46 percent value gap relative to spending in Asian countries, including Taiwan, Japan, South Korea and Singapore.
+
+At its best, the American health system probably is unrivaled in the world, staffed by highly trained and hard-working doctors and nurses. For the most part, it boasts luxurious health care facilities.
+
+Oddly and sadly, however, the United States has yet to harvest the full benefits of modern electronic health information. Our nation’s engineers and entrepreneurs design smart hardware and software for health care, but we do not seem to use our own products as smartly as do many other countries.

@@ -1,0 +1,33 @@
+Wal-Mart Stores is striding into the market for electronic health records, seeking to bring the technology into the mainstream for physicians in small offices, where most of America’s doctors practice medicine.
+
+Wal-Mart’s move comes as the Obama administration is trying to jump-start the adoption of digital medical records with $19 billion of incentives in the economic stimulus package.
+
+The company plans to team its Sam’s Club division with Dell for computers and eClinicalWorks, a fast-growing private company, for software. Wal-Mart says its package deal of hardware, software, installation, maintenance and training will make the technology more accessible and affordable, undercutting rival health information technology suppliers by as much as half.
+
+“We’re a high-volume, low-cost company,” said Marcus Osborne, senior director for health care business development at Wal-Mart. “And I would argue that mentality is sorely lacking in the health care industry.”
+
+The Sam’s Club offering, to be made available this spring, will be under $25,000 for the first physician in a practice, and about $10,000 for each additional doctor. After the installation and training, continuing annual costs for maintenance and support will be $4,000 to $6,500 a year, the company estimates.
+
+Wal-Mart says it had explored the opportunity in health information technology long before the presidential election. About 200,000 health care providers, mostly doctors, are among Sam Club’s 47 million members. And the company’s research showed the technology was becoming less costly and interest was rising among small physician practices, according to Todd Matherly, vice president for health and wellness at Sam’s Club.
+
+The financial incentives in the administration plan ? more than $40,000 per physician over a few years, to install and use electronic health records ? could accelerate adoption. When used properly, most health experts agree, digital records can curb costs and improve care.
+
+But many, especially physicians in small offices, doubt the wisdom of switching to electronic health records, given their cost and complexity.
+
+Only about 17 percent of the nation’s physicians are using computerized patient records, according to a government-sponsored survey published last year in The New England Journal of Medicine. The use of electronic health records is widespread in large physician groups, but three-fourths of the nation’s doctors work in small practices of 10 physicians or fewer.
+
+Wal-Mart, however, has the potential to bring not only lower costs but also an efficient distribution channel to cater to small physician groups. Traditional health technology suppliers, experts say, have tended to shun the small physician offices because it has been costly to sell to them. Taken together, they make up a large market, but they are scattered.
+
+“If Wal-Mart is successful, this could be a game-changer,” observed Dr. David J. Brailer, former national coordinator for health information technology in the Bush administration.
+
+In the package, Dell is offering either a desktop or a tablet personal computer. Many physicians prefer tablet PCs because they more closely resemble their familiar paper notepads and make for easier communication with the patient, since the doctor is not behind a desktop screen.
+
+EClinicalWorks, which is used by 25,000 physicians, mostly in small practices, will provide the electronic record and practice management software, for billing and patient registration, as a service over the Internet. This “software as a service” model can trim costs considerably and make technical support and maintenance less complicated, because less software resides on the personal computer in a doctor’s office.
+
+Dell will be responsible for installation of the computers, while eClinicalWorks will handle software installation, training and maintenance. Wal-Mart is using its buying power for discounts on both the hardware and software.
+
+Wal-Mart’s role, according to Mr. Osborne, is to put the bundle of technology into an affordable and accessible offering. “We’re the systems integrator, an aggregator,” he said.
+
+The company’s test bed for the technology it will soon offer physicians has been its own health care clinics, staffed by third-party physicians and nurses. Started in September 2006, 30 such clinics are now in stores in eight states. The clinics use the technology Wal-Mart will offer to physicians.
+
+“That’s where the learning came from, and they were the kernel of this idea,” Mr. Osborne said.

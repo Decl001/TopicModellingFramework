@@ -1,0 +1,13 @@
+Consumers’ first worry in a major security breach is usually about their financial and credit accounts. But cyberthieves can do some serious damage with medical information as well.
+
+Anthem Health said this week that hackers obtained names, addresses, Social Security numbers, birthdays, email and employment information on up to 80 million current and former customers and Anthem employees. Although Anthem says the attackers did not get any medical records, they did get access to medical identification numbers found on insurance cards. Anthem offers several Blue Cross and Blue Shield insurance plans across the country.
+
+“You don’t need a complete medical record to commit medical identity theft if you have the correct name and Social Security number,” said Pam Dixon, executive director of World Privacy Forum. “The chief harm for medical identity theft is that your medical record will change without your knowledge.”
+
+And in this case, the hackers have enough information to do exactly that. Here’s what you need to know:
+
+THEFT TYPES In large-scale breaches like the one at Anthem, experts said the criminals could pose as medical billers and fraudulently charge consumers’ insurance companies for medical services and drugs. Not only is your insurer paying for something that you didn’t ask for, but the fraudsters can also alter your medical record, Ms. Dixon said.
+
+Advertisement Continue reading the main story
+
+With an insurance ID number in hand, it can be easier for criminals to attempt to acquire medical records or insurance codes to help guide them on what to bill for, she explained. “Searches through the data for cancer survivors or even those in current cancer treatment would allow for fake billing to be piggybacked onto the real billing. This makes it extremely difficult for the health plan to detect the fake billing, and the thieves then will get a stream of payouts over time. It adds up to a lot of money quickly.”

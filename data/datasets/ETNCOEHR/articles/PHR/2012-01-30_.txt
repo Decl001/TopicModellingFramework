@@ -1,0 +1,33 @@
+Andrew Bicknell
+
+ZocDoc , an oddly named Web service for scheduling appointments with doctors, started in New York in 2007 and has been growing at a torrid pace. Last week the company added Seattle, its 14th metropolitan market in the United States.
+
+ZocDoc says its Web site is attracting doctor-seeking browsers at the rate of 800,000 a month, a fourfold jump from a year ago. The service is free for patients; doctors pay $250 a month.
+
+ZocDoc makes a couple of larger points — one about health care IT, and the other about Web start-ups in general.
+
+First, at a time when so much of the attention in health IT is focused on the national campaign to adopt electronic patient records, backed by billions of dollars in federal subsidy payments, ZocDoc is a neat bottom-up success story.
+
+Second, though the initial costs of starting a Web venture may be low, ZocDoc shows that building out a consumer Web service is costly. The company has raised $95 million.
+
+The roster of investors is impressive. The early backers included Khosla Ventures; Marc Benioff, founder of Salesforce.com; and Bezos Expeditions, which manages the personal investments of Jeffrey Bezos, founder of Amazon. Later rounds of supporters included the Founders Fund and Ron Conway, a prominent Silicon Valley investor; and then DST Global and Goldman Sachs.
+
+An online appointment-scheduling service seems straightforward. But the founders — Cyrus Massoumi, its chief executive, and Oliver Kharraz, both former McKinsey consultants, and Nick Ganju, the chief technology officer — see their efforts in larger terms.
+
+“We’re one of the companies that can help fix the health care system,” said Dr. Kharraz, a physician and ZocDoc’s chief operating officer. “We’re making doctors more efficient and helping patients find the hidden supply of health care.” That hidden supply, he explained, is the 10 to 20 percent of appointments that are made and then canceled within a day or two of the appointment date.
+
+At first, Mr. Massoumi recalled, many doctors were skeptical. Progress was initially slow, but things improved “once they saw a return on the monthly charge,” he said. Then, word-of-mouth endorsements by doctors became a powerful marketing tool.
+
+Peer recommendations prompted Douglas Bailyn, a primary care doctor in Manhattan, to try ZocDoc in early 2010. The benefit, he explained, was evident last Thursday. Just before he came into his office, Dr. Bailyn noticed there were a couple of last-minute cancellations of afternoon appointments. By midday, he said, those openings had been filled.
+
+“Having a medical practice is a business,” Dr. Bailyn said. “You need to fill your slots, and ZocDoc definitely increases the chances of filling slots.”
+
+Demographics partly explain why ZocDoc has been so effective for doctors like him. The median age for his patients, he said, is in the mid-30s — a group accustomed to arranging their lives online. Some longtime patients use ZocDoc for the convenience, he said, but a typical case is “a 24-year-old with a sore throat.”
+
+Patients are not selecting doctors blindly online. Patients are asked to rate their experience, and most do so with comments and one-to-five star ratings in three categories — overall recommendation, bedside manner and wait time. Dr. Bailyn, for example, has about 200 ZocDoc reveiws.
+
+Investors have been impressed by the ZocDoc team and its strategy. David Weiden, a partner at Khosla Ventures, was a manager at Netscape when its co-founder James G. Clark forged off in 1996 to found Healtheon, a dot-com start-up with visions of transforming health care. It failed, Mr. Weiden said, partly because of its ambitious, ill-defined agenda.
+
+By contrast, ZocDoc, Mr. Weiden said, was “focused and specific, and its strategy is to get a foothold in health care, gain credibility and go from there.”
+
+Incidentally, the oddball name? Originally, the founders wanted doctors.com, but they learned that the domain name would cost more than $1 million. They got ZocDoc.com instead for $6 — and stuck with it.

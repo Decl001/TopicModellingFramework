@@ -1,0 +1,59 @@
+“What is frustrating here is that this was another situation that was predictable,” said Dr. Maisel, who is also a consultant to the F.D.A.
+
+Yesterday, Medtronic and several of its outside consultants said that the company’s decision to halt the device’s use was a close call, because the available data about its failure rate was not overwhelming.
+
+“We decided that the right thing to do for patients was a conservative one,” said Rob Clark, a company spokesman.
+
+Medtronic paid a price in the stock market yesterday, as its shares fell more than 11 percent on news of the safety warning and after the company said it expected the problem to reduce sales in the current quarter by up to a quarter of a billion dollars.
+
+Meanwhile, an inevitable wave of personal injury lawsuits began yesterday, including one filed in federal court in Minneapolis, where Medtronic is based.
+
+The problem that Medtronic disclosed is a tendency for cracks to form in the wire, which either blocks or distorts its electrical flow. The flaws may result in faulty signals being sent to a defibrillator, causing it to unnecessarily shock the heart or, in rare instances, to fail to deliver a life-saving jolt when needed.
+
+Several medical experts said they suspected that the device’s problems might reflect the fact that the Fidelis is the thinnest lead made by Medtronic. In recent years, both Medtronic and a smaller competitor, St. Jude Medical, have introduced smaller-diameter leads because some doctors prefer them, in part because they are easier to thread through a patient’s blood vessels.
+
+Advertisement Continue reading the main story
+
+Guidant, now owned by Boston Scientific, continues to use a thicker lead.
+
+Some cardiologists said yesterday that they believed the new thinner leads might not be durable enough to survive either the pressure of implantation or the stresses exerted on them once they are in the body.
+
+Dr. Ranjit Suri, a cardiologist at New York Hospital in Queens, said he and his colleagues had stopped using all small-diameter leads, including the Sprint Fidelis, because of problems with them.
+
+“We need to make sure the downsizing of leads doesn’t come at a price,” Dr. Suri said.
+
+In a telephone conference yesterday with analysts, Dr. David Steinhaus, a top medical officer at Medtronic, described the lead fractures as “classic fatigue failures,” a term that typically describes a weakening of metal exposed to repeated stress. He said the company had extensively tested the product before putting it on the market.
+
+In a statement yesterday, St. Jude Medical said it had not experienced any problems like those seen in the Sprint Fidelis product. “There are significant design differences among leads produced by different manufacturers,” St. Jude said.
+
+Newsletter Sign Up Continue reading the main story Please verify you're not a robot by clicking the box. Invalid email address. Please re-enter. You must select a newsletter to subscribe to. Sign Up You agree to receive occasional updates and special offers for The New York Times's products and services. Thank you for subscribing. An error has occurred. Please try again later. View all New York Times newsletters.
+
+According to F.D.A. records, one patient death that Medtronic has said may be linked to the lead occurred in August 2006. In the incident, which happened outside the United States, the patient began to receive inappropriate shocks and subsequently developed various heart problems and died, according to that record, a report from a hospital whose location was not contained in the report.
+
+Two other patient deaths occurred this year, one in January and the other in March, according to F.D.A. records. In the January episode, the defibrillator failed to deliver life-saving therapy when needed, apparently because of a problem with the lead, F.D.A. records indicate.
+
+The patient who died in March, who is described in an F.D.A. report as collapsing while “playing,” also received inappropriate shocks. Mr. Clark, the Medtronic spokesman, declined to specify the patient’s age.
+
+He added that two additional deaths — raising the known total to five — had occurred since March and that Medtronic would soon report details of them to the F.D.A.
+
+While several experts agreed that Medtronic acted appropriately to recall the lead, the company’s decision to do so may have been delayed because of a problem that affects the entire heart-device industry: a dearth of data about the performance of defibrillator leads.
+
+Advertisement Continue reading the main story
+
+Among the three big producers — Medtronic, St. Jude and Boston Scientific — Medtronic has traditionally provided the most data to doctors about lead performance, several experts said. But even that amount is scant, those experts agreed.
+
+Medtronic has long run a postmarketing study of how its leads are performing in patients, but the number of patients in that study is relatively small. Only about 650 patients in it have Sprint Fidelis leads.
+
+“The limitation is that the number is not sufficiently large to accurately capture rare events,” said Dr. Charles Swerdlow, a cardiologist in Los Angeles who is also a consultant to Medtronic.
+
+That problem apparently caught up to Medtronic this year around the time that a Minneapolis cardiologist, Dr. Robert G. Hauser, told the company that he believed there had been a troubling number of incidents in which defibrillators equipped with the Sprint Fidelis leads were firing inappropriately in patients.
+
+In March, the company looked at the experience of patients in its study but realized that the number might too small to draw a conclusion, said Mr. Clark, the Medtronic spokesman. However, the company did send out a letter to doctors informing them that they were looking into the issue.
+
+Medtronic’s subsequent review, among other things, examined data from a larger group, 25,000 patients who are participating in a program in which the company remotely monitors their heart health and can also check on how the defibrillators are performing.
+
+The company found the same rate of problems in that group as in the smaller study, but given the larger number of patients, the company concluded the numbers were more meaningful.
+
+For some patients, that conclusion did not come soon enough. Stephanie Martinson, 35, a speech pathologist in Palo Alto, Calif., said that in March she had a Fidelis lead removed, after she was shocked 26 times in an hour. But in May, two months after Medtronic had notified doctors, the replacement she received was another Fidelis lead.
+
+“There are so many things my doctors and Medtronic didn’t tell me,” she said.

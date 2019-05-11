@@ -1,0 +1,41 @@
+In our data-happy society, the case of the mistaken M.S. patient illustrates a lack of visibility for people interested in how information about them changes hands. When consumers fill out warranty cards, enter sweepstakes, answer online surveys, agree to online privacy policies or sign up to receive e-mails from brands, they often don’t realize that certain details — linked to them by name or by customer ID code — may be passed along to other companies. That can make it hard for people seeking to correct errors to find the keepers of their marketing profiles.
+
+I was ruminating on that problem in Washington on Wednesday, when I paid a visit to Senator John D. Rockefeller IV, the West Virginia Democrat, who has made consumer privacy one of his signature issues.
+
+Americans, he says, should be allowed “to be left alone.”
+
+In part, this belief stems from his own nature. He describes himself as an introvert, a person who would rather stay at home and listen to Bach fugues than attend Beltway shindigs. But mainly, he just thinks that privacy is a fundamental American right.
+
+“The principles are remarkably simple,” Mr. Rockefeller said, comfortably installed in an armchair in his Senate office. Americans, he continued, should have the right to decide what kind of marketing material is sent to them and what other people know about them: “People have the right to be private insofar as it’s possible in the modern world.”
+
+Earlier that day, the Senate Committee on Commerce, Science and Transportation, of which Mr. Rockefeller is chairman, had convened a hearing on the status of an online privacy mechanism for consumers called Do Not Track. The idea behind it is that people should be able to turn on settings in their Internet browsers to signal advertisers, data brokers and other third-party operators not to collect information about their activities across the Web. Advertising networks and other entities would theoretically honor those don’t-track-me flags by restricting the amount of information they collected.
+
+Photo
+
+But years after the Federal Trade Commission recommended that advertisers adopt such a browser-based system, consumer advocates and ad industry groups still seem at odds over fundamental issues — including the very definition of Do Not Track. In an attempt to pressure the ad industry to get with the program, the Senate committee held a hearing.
+
+“I want to get to the bottom of this controversy,” Mr. Rockefeller said in his opening statement. “I want the witnesses to publicly explain exactly what they believe has gone wrong, and what they are prepared to offer to make Do Not Track a reality for consumers.”
+
+Advertisement Continue reading the main story
+
+Yet he acknowledges that this kind of privacy option for online consumers, even if it eventually goes into effect, does not address a larger issue: the thousands of details that third-party data gatherers, who typically don’t interact directly with consumers, have already amassed about a majority of adults in the United States. For instance, there is no federal law that requires such companies to allow consumers to have access to and correct marketing data that’s been compiled about them. That is partly why the Senate committee opened an investigation last year into the practices of leading data brokers.
+
+Newsletter Sign Up Continue reading the main story Please verify you're not a robot by clicking the box. Invalid email address. Please re-enter. You must select a newsletter to subscribe to. Sign Up You agree to receive occasional updates and special offers for The New York Times's products and services. Thank you for subscribing. An error has occurred. Please try again later. View all New York Times newsletters.
+
+Mr. Rockefeller says the investigation is continuing.
+
+So I decided — after asking permission from the friend who received the M.S. flier — to see if I could find out how erroneous information about her health status moved from one company to another. It wasn’t an obvious trajectory.
+
+Erin-Marie Beals, a spokeswoman for EMD Serono, told me that MS LifeLines sends marketing materials only to people who have indicated an interest in multiple sclerosis and have provided their contact information either directly to MS LifeLines or through other programs, like online surveys or subscriptions. Ms. Beals pointed me to the firm that had provided my friend’s information — the KBM Group, a marketing company that specializes in consumer data and analytics.
+
+Ultimately, Barbara Palmer, the senior vice president for marketing at the KBM Group, told me that her firm had obtained the information from a survey company whose online questionnaire my friend had filled out in 2010. That survey, Ms. Palmer said, asked general questions, including some about health interests. She said it also contained a specific disclosure: “By completing the health-related questions on the survey, you are consenting to the use of this information for direct marketing purposes.”
+
+Ms. Palmer added that her company honored people’s requests to opt out of its file. The Direct Marketing Association also provides a program for consumers who want to opt out of receiving all kinds of pitches by mail.
+
+At the end of the day, information about my friend ended up in the hands of at least two companies she had never heard of, let alone interacted with. Other companies may also have obtained the data.
+
+The proliferation of intimate details about people’s health, financial or academic status — even when the data are correct — particularly troubles Senator Rockefeller. Although laws like the Fair Credit Reporting Act and the Health Insurance Portability and Accountability Act limit the use of people’s credit and medical records, data brokers are often able to compile consumers’ financial and health information through other means.
+
+“One of the things that really disturbs me in privacy, or the lack of it, is the way that data brokers can go in and buy all your health records, your financial records — they can get it one way or another,” Mr. Rockefeller said during the hearing. “What is of you, they can have.”
+
+He added: “We are talking about a very, very large industry here which can decide to do that and which is doing that.”

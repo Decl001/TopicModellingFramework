@@ -1,0 +1,29 @@
+Many school districts, however, are using student assessment software and other services without placing sufficient restrictions on the use of children’s personal details by companies, experts in education privacy law say. Parents may not be aware of the security and privacy risks to their children, these experts say, because schools are not required to notify parents or obtain their consent before sharing student’s details with vendors who perform institutional functions.
+
+New research on how school districts handle the transfer of student data to companies, for instance, has found that administrators have signed contracts without clauses to protect personal details like children’s contact information, age ranges or where they wait for school buses every morning. Researchers at Fordham University School of Law in New York are reporting, for example, that certain school districts’ contracts for cafeteria service payment features on student ID cards would allow companies to collect, store, share and sell information on everything a student buys and eats at school. That could have implications for students’ families.
+
+Photo
+
+“Companies could sell that information to advertisers or insurance companies,” said Joel R. Reidenberg, a law professor at Fordham and the lead researcher on the report, whose findings his team plans to publish next month. “Because a kid drinks a lot of soda, a family might have to pay higher insurance premiums or have trouble getting dental insurance.”
+
+Schools are sharing student data with more educational technology providers and with other companies, he said, partly to keep up with mounting student testing and reporting requirements and partly to keep down internal technology costs. That outsourcing has been made easier because of changes to federal regulation under the Family Educational Rights and Privacy Act.
+
+That law requires schools to obtain a parent’s permission before sharing information in their children’s records. But the Education Department updated its rules in 2008, allowing schools to disclose student information to contractors and other outside parties to whom they outsource school functions — without notifying parents.
+
+Newsletter Sign Up Continue reading the main story Please verify you're not a robot by clicking the box. Invalid email address. Please re-enter. You must select a newsletter to subscribe to. Sign Up You agree to receive occasional updates and special offers for The New York Times's products and services. Thank you for subscribing. An error has occurred. Please try again later. View all New York Times newsletters.
+
+Common Sense Media hopes to prompt educational technology executives and education officials to institute national standards for the sharing and use of student data. Mr. Steyer said he was particularly concerned about sensitive details like students’ health, disabilities, disciplinary records, demographics, financial status and family situations.
+
+“We are challenging the industry and educators to get this right upfront now, in contrast to consumer data where industry made all of the rules and shaped them in the best interests of the industry,” Mr. Steyer said. “We don’t think it should work that way with student data.”
+
+Some states are pursuing student data transparency and privacy legislation.
+
+This year, Oklahoma enacted a law that requires the state Board of Education to publicly post a list of the kinds of data it collects about individual students and to develop detailed student data privacy policies and security measures. The New York State Assembly recently passed a bill that prohibits schools from sharing personally identifiable data about students without parental consent.
+
+Advertisement Continue reading the main story
+
+“This protects families about certain issues that may not be appropriate for the world to know for the rest of your life,” said Assemblyman Daniel J. O’Donnell, a Democrat representing the Upper West Side of Manhattan, who sponsored the bill.
+
+But Senator Edward J. Markey, a Massachusetts Democrat who has been a staunch advocate of children’s privacy, said federal standards were needed to ensure that parents have access to and control over information in their children’s educational records.
+
+“It’s clear to me that parents, not schools, have the right to control their children’s information, even if it’s in the hands of private companies,” Mr. Markey said in a phone interview on Friday. “I am going to ask the Department of Education to lay out specific guidelines to protect students from having their records compromised.”

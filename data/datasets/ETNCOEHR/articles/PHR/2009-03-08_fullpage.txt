@@ -1,0 +1,13 @@
+To the Editor:
+
+Re ''Taking Innovation Beyond the 'Aha' '' (Unboxed, March 1), about the move toward electronic medical records:
+
+How to make a successful medical record? Simplify what's shared.
+
+I've been a physician for 11 years and worked in three health care systems. I've never worked in an office with paper charts, only electronic records. I've also been an administrator who has wrestled with how to share those records between offices.
+
+While the records may sound simple, they are preposterously complicated, with thousands of data points per chart. Some information, of course, is valuable to providers across the continuum of health care, but other information should never leave the office. It is important to know about medications, allergies, test results, etc. But do you want every health care professional -- or billing clerk or receptionist -- to know, for example, that you got a sexually transmitted disease from your husband? (Doctors may record such information because it helps them recall and understand how to relate to individual patients.)
+
+There is a way -- through what's known as a continuity of care record -- to abstract health information that is widely useful without compromising more personal data. Before we embark on vastly expanding electronic records, let's decide how to use them well. Lou Lukas, M.D.
+
+Allentown, Pa., March 2

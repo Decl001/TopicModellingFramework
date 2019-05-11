@@ -1,0 +1,43 @@
+Cybercrime has risen sharply in Europe. A series of high-profile hacking attacks on governments and businesses has galvanized European lawmakers to focus on the need to strengthen and harmonize existing laws, which vary widely across the Union and differ on the levels of disclosure required.
+
+In Britain alone, businesses and governments reported 821 cyberattacks in 2011, 15 percent of which resulted in the theft of data on individuals, according to the country’s Information Commissioner’s Office. The attacks represented a more than tenfold increase over the 79 incidents reported in 2007. In one of the breaches, health officials in Scotland reported, the medical records of 104 children had been compromised.
+
+Big companies in Britain are attacked about once a week on average by cybercriminals seeking data, and small businesses are targeted once a month, according to a survey last year of 400 businesses by the accounting firm PricewaterhouseCoopers. The cost to the biggest companies of taking the steps necessary to repel an attack and deal with the damage caused by one can reach about £250,000, or $400,000.
+
+Karin Retzer, a lawyer in Brussels who advises businesses on compliance with European data protection laws, said it was hard to say whether European lawmakers would ultimately adopt the rules, the first effort of the kind worldwide.
+
+“We are in a fairly early stage,” said Ms. Retzer, of the firm Morrison & Foerster. “There is a lot of opposition.”
+
+Under E.U. law adopted in 2009, the operators of critical “communications infrastructure” are supposed to follow guidelines on reporting data breaches, but Ms. Retzer said enforcement was spotty at best. Many E.U. countries have applied the mandate only to phone companies, while others have rules on paper for Web businesses but have never enforced them.
+
+Photo
+
+Mrs. Kroes, a Dutch economist, made data security a priority when she took over the position of digital agenda commissioner in 2010. Early last year, she drafted the outlines of an E.U.-wide strategy for cybersecurity with Cecilia Malmstrom, the home affairs commissioner, and Catherine Ashton, the E.U.’s representative for foreign policy
+
+Advertisement Continue reading the main story
+
+The proposal was supposed to be released last September, but now is expected to be reviewed by the European Commission on Jan. 30. According to a copy of the plan seen by the International Herald Tribune, the new reporting requirements would be applied to, among others, the “enablers of Internet services, e-commerce platforms, Internet payment gateways, social networks, search engines, cloud computing services, application stores.”
+
+The proposal directs E.U. countries to impose penalties on organizations that do not heed the notification rules, and requires them to craft national disclosure laws that are “appropriate, effective, proportionate and dissuasive.”
+
+Newsletter Sign Up Continue reading the main story Please verify you're not a robot by clicking the box. Invalid email address. Please re-enter. You must select a newsletter to subscribe to. Sign Up You agree to receive occasional updates and special offers for The New York Times's products and services. Thank you for subscribing. An error has occurred. Please try again later. View all New York Times newsletters.
+
+Liam Benham, a vice president in charge of governmental programs at I.B.M. Europe, whose cloud-based computing services could be affected by any new reporting mandates, said the reporting requirements should be limited to the operators of critical infrastructure, like power grids, financial networks and transport systems.
+
+“It could subject a wide array of industries to sweeping new regulation, and appears to mandate technology standards largely written by government, not industry,” Mr. Benham said.
+
+To become law, the proposal must be adopted by the European Parliament and Council of Ministers. Mrs. Kroes, through a spokesman, said she aimed to improve the security of European data networks, not necessarily set new data protection standards. It would be negligent, she said, to exclude the technology and Web companies from the reporting requirements, given the rapid shift of many computing resources to remote “cloud” centers.
+
+“Cybersecurity is too important to leave to chance, to the good will of individual companies,” Mrs. Kroes said in a statement. She plans to publicly present details of the plan on Friday. “Network security problems that can affect everyone have a clear public interest dimension,” she said.
+
+Support for a uniform European approach to cybersecurity could be significant, as long as a balance is struck between consumer and business interests. Four in 10 consumers in the Union avoid making online purchases because of concern about the security of their personal data, according to the commission.
+
+In public comments on the proposal, collected from July 23 to Oct. 15, two-thirds of the 160 groups, individuals and organizations that responded said they would favor E.U. rules to regulate the notification of data breaches. Nearly 9 in 10 respondents said the requirement should include Internet services.
+
+The piecemeal system of national oversight in Europe has been criticized by the European Network and Information Security Agency as inadequate. But the agency, which advises the commission and is supposed to ensure the security of the bloc’s critical infrastructure, warned in 2011 that short-staffed national regulators might be overwhelmed by broad new E.U. requirements that could generate thousands of notifications.
+
+In the United States, Web businesses are not required to give notification of data breaches, and rules are enforced by state, not national, governments. Most of the state laws are modeled on a 2003 California law, the country’s first. As in Europe, attempts to create a national U.S. reporting mandate have foundered in the face of industry opposition.
+
+Advertisement Continue reading the main story
+
+In November, the U.S. Senate defeated a cybersecurity bill sponsored by Senator Joseph I. Lieberman, an independent from Connecticut, and Senator Susan M. Collins, a Republican from Maine, that would have encouraged water and electric utilities and transport network operators to improve the security of their computer systems. The bill, supported by the administration of President Barack Obama, had been opposed by the U.S. Chamber of Commerce, which had argued that it would saddle businesses with extra costs.

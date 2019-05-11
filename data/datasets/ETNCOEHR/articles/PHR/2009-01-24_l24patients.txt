@@ -1,0 +1,13 @@
+To the Editor:
+
+Re “Privacy Issue Complicates Push to Link Medical Data” (news article, Jan. 18):
+
+Consumer groups and some members of Congress rightly express concern that President Obama’s plan to stimulate the use of information technology in health care presents challenges to individual privacy unless there are strong safeguards.
+
+These security features are required for electronic health record products to be certified by the Certification Commission for Healthcare Information Technology.
+
+Among the criteria for certification are the ability to restrict viewing privileges to some users or groups of users, and to identify certain information as confidential and limit the number of people who can see it.
+
+Advertisement Continue reading the main story
+
+Strong encryption when sending personal information over the Internet is a keystone requirement, as is the ability to audit who views a record and when.

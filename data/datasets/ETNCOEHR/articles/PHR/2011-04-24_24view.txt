@@ -1,0 +1,29 @@
+To see how such a policy might improve the way markets work, consider how you might shop for a new cellphone service plan. Two studies have found that consumers could save more than $300 a year by switching to the right plan. But to pick the best plan, you need to be able to estimate how much you use services like texting, social media, music streaming and sending photos.
+
+You may not know how to answer or be able to express it in megabytes, but your service provider can. Although some of this information is available online, it’s generally not readily exportable — you can’t easily cut and paste it into a third-party Web site that compares prices — and it is not put together in a way that makes it easy to calculate which plan is best for you.
+
+Under my proposed rule, your cellphone provider would give you access to a file that includes all the information it has collected on you since you owned the phone, as well as the current fees for each kind of service you use. The data would be in a format that is usable by app designers, so new services could be created to provide practical advice to consumers. (Think Expedia for calling plans.) And this virtuous cycle would create jobs for the people who dream up and run these new Web sites.
+
+Photo
+
+Before businesses complain about how hard it would be to comply with such a regulation, they should take a look at the federal government’s Blue Button initiative. This protocol is already providing a secure way for veterans and Medicare beneficiaries to share their medical history with health care providers they trust. (The name “Blue Button” refers to an icon that users click to get the data.)
+
+The Blue Button initiative is already spawning private sector applications. Northrop Grumman has developed a smartphone app giving veterans access to their health records and the ability to receive wellness reminders on their phone. HealthVault, a health care management site from Microsoft, also permits Blue Button users to tap into their medical information service. The ability to access these kinds of services could save lives in emergencies.
+
+If the government can manage to collect and release personal information in a secure and useful way, so can private companies, which will empower consumers to become better shoppers.
+
+Newsletter Sign Up Continue reading the main story Please verify you're not a robot by clicking the box. Invalid email address. Please re-enter. You must select a newsletter to subscribe to. Sign Up You agree to receive occasional updates and special offers for The New York Times's products and services. Thank you for subscribing. An error has occurred. Please try again later. View all New York Times newsletters.
+
+Let’s return to the smartphone example. Once a phone owner can provide use data to third-party Web sites, those outfits (BillShrink.com is one) can pinpoint the best pricing plans. Thinking of upgrading your phone? The third-party sites can warn you whether your use is likely to increase, based on the experiences of other consumers who made the same switch.
+
+If personal data is accompanied by detailed pricing information, as I discussed in my last column, consumers will be more aware of how they really use products and how much fees really cost them. And transparent pricing will give honest, high-quality providers a leg up on competitors who rely on obfuscation. All of this will help stimulate the best kind of economic growth.
+
+Advertisement Continue reading the main story
+
+THE potential applications are endless. Supermarkets, for example, have already learned that they can attract many customers to their shoppers’ clubs by offering discounts to club members. This allows the stores to know what they buy and to target coupons based on their purchases. Shoppers can opt out — but only at the cost of losing the discounts.
+
+So let’s level the playing field. Why not give you, the consumer, something in return for participating? Require that the supermarket make your purchase history available to you. Before you know it, a smart entrepreneur is likely to devise an app that will direct you to cheap and healthy alternatives that can slim your tummy and fatten your wallet. Apps could not only save money; they could also warn shoppers with allergies, for example, that they are buying foods that contain ingredients to which they are sensitive, like nuts or gluten.
+
+The ability of businesses to monitor our behavior is already a fact of life, and it isn’t going away. Of course we must protect our privacy rights. But if we’re smart, we’ll also use the data that is being collected to improve our own lives.
+
+I hope that American companies follow the lead of their British counterparts and cooperate in a “mydata” program. If they don’t, we should require companies to tell you what they already know about you. To paraphrase Moses, let’s ask them to “let my data go.”

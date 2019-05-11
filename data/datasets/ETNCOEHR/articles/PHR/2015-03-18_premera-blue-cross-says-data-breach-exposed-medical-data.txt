@@ -1,0 +1,11 @@
+BOSTON — Health insurer Premera Blue Cross said on Tuesday it was a victim of a cyberattack that may have exposed medical data and financial information of 11 million customers in the latest serious breach disclosed by a health-care company.
+
+It said the attackers may have gained access to claims data, including clinical information, along with banking account numbers, Social Security numbers, birth dates and other data in an attack that began in May 2014.
+
+It is the largest breach reported to date involving patient medical information, according to Dave Kennedy, an expert in health care security who is chief executive of TrustedSEC.
+
+About six million of the people whose accounts were affected are residents of Washington state, where customers include employees of Amazon.com, Microsoft and Starbucks, according to Premera. The rest are scattered across the United States.
+
+Advertisement Continue reading the main story
+
+The breach at Anthem and another large one disclosed last year by hospital operator Community Health Systems involved larger numbers of records than the attack on Premera. Yet those companies said they believed the attackers did not access medical information.

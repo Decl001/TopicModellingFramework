@@ -1,0 +1,91 @@
+Video
+
+Todd Park, a former Silicon Valley entrepreneur, serves as President Obama’s chief technology officer. His role has taken on heightened importance after several recent developments, including the implementation of the new health care law, efforts to reduce the backlog in Department of Veterans Affairs claims processing, and privacy issues raised by disclosures about data collection by the National Security Agency. Mr. Park spoke with John Harwood of The Times and CNBC at the White House as Mr. Obama publicly challenged his administration to improve the government’s innovation and efficiency in his second term.
+
+What follows is a condensed, edited account of their conversation.
+
+Q.
+
+Government has a reputation for being clunky, slow, inefficient. What do you think you have been able to accomplish?
+
+A.
+
+There are phenomenal people harnessing the power of tech and innovation to help government work better, cost less and help grow the economy. For example, in the recent Hurricane Sandy and Oklahoma tornado response, FEMA has harnessed tech in all kinds of ways to deliver better results. To get housing to folks, you used to rely exclusively on the ground inspectors, now we can use satellite and analytics to figure out what areas need help and get help faster. In addition, a majority of folks who registered for disaster aid post-Sandy were able to do so via mobile phone or Internet. Even when folks didn’t have access, FEMA inspectors came back with iPads to actually register them for aid.
+
+Another example: I was recently traveling with the president to Austin, where he launched a new executive order that opens up tons of government data — everything from health and medicine and science to safety and more — as machine-readable, free fuel for entrepreneurs to tap to create new companies and jobs. The president’s attitude is, this is America’s data. All kinds of entrepreneurs are picking up that data to help grow the economy.
+
+Q.
+
+Possibly the biggest thing the government has going right now is trying to implement the health care law. The administration announced a delay in the employer mandate; they couldn’t get it done in time. What does that tell you about the limits of technology in making it work more rapidly and efficiently?
+
+A.
+
+The president is really focused on implementing the law very well. Business expressed concern that there are issues to be worked through, so it was a sensible thing to do to say, “O.K., let’s work through those issues.” Oct. 1, we’ll be bringing live the new health marketplaces. Things are on track to make that happen. There is a whole team at the U.S. Department of Health and Human Services working incredibly hard, night and day, on bringing out these new health marketplaces. We have actually done a huge amount of user testing on it to make sure the Web site is as user-friendly as possible. The prototypes are incredibly impressive.
+
+Q.
+
+No doubt they’ll be up and running in October?
+
+A.
+
+They’ll be up and running Oct. 1.
+
+Q.
+
+Let me ask you about the culture of Washington. It has a reputation as being the opposite of the Silicon Valley culture in terms of agility and decision-making, flexibility, innovation. What have you found?
+
+A.
+
+I have actually found a lot more similarities than you might expect. Whenever the president gives us a mission to harness tech innovation and get something done for the American people, in terms of growing the economy and improving health care, we go find the folks across government who have been dreaming about that for a really long time. They’re out there, they’re incredibly talented innovators. We team them together into what we call a virtual start-up that’s running inside the government, to move Silicon Valley speed to get stuff done. When you have the air cover like President Obama, who is deeply passionate about harnessing innovation and tech, it is possible for these focused teams to get a lot done in a short period of time. It’s hard to actually build anything new, but it turns out if you apply a lot of the same techniques that make Silicon Valley companies successful to internally change parts of the government, they definitely work.
+
+Q.
+
+Talk about how those virtual start-ups work, and how many are there?
+
+A.
+
+The way they operate is modeled on a philosophy called “lean start-up,” which was popularized recently by Eric Ries. You want to build small, interdisciplinary, agile teams that have strategy, policy, ops and tech all represented in one team, all working to solve one problem. Secondly, there’s an emphasis on rapid prototype. You don’t think aircraft carrier, you think rowboat — the smallest possible thing I can deliver to my actual customer as early as possible, so they can actually start getting their engagement. The third principle is rapid iteration — iterate that product at high speeds with versions released every few days or every few weeks, instead of every few months or years, so you maximize the learning. So from the ground up, you eventually get to a real understanding of what the customer wanted and how to create something that delivers that. So that’s the model that we’ve been adopting.
+
+There are about 15 or so that I personally oversee. But this is actually a model that’s been cloned across the government. The key is that we have an idea, we find the three or five people initially that had the idea a long time ago or had a similar idea across the government, put them together in this lean start-up team, liberate them to actually operate, give them the air coverage to do so, and they rock ’n’ roll from there.
+
+Q.
+
+One of the innovations the president is going to talk about is something called Blue Button at the Department of Veterans Affairs to help people get their medical records quickly. The department has gotten a reputation for the very slow process of handling disability claims, and it has gotten mocked for stacks of paper records. So why shouldn’t the average person say, “Great, Blue Button is fantastic, but you have such a bigger problem than that and you aren’t making much headway?”
+
+A.
+
+The backlog issue, as you know, is one that the administration inherited. The administration, on top of that, passed a whole set of rules that expand eligibility and increase the number of claims. There is an unprecedented, governmentwide effort that is pretty amazing to take that problem out, to take the whole backlog problem out — to apply technology and process change. We’re actually beginning to see the progress of the backlog beginning to come down at a growing clip, and we think we’re going to be able to meet our goals there. The president has made it super clear that this is a top, major priority. There’s a huge team, a cross-agency team, a cross-government team that’s actually working very hard at this complex problem and taking it out.
+
+Q.
+
+You did consulting for Booz Allen Hamilton, the firm that employed the National Security Agency leaker Edward J. Snowden. What is your concern in regard to privacy with government technology and the centralization of information?
+
+A.
+
+It’s incredibly important to protect personal privacy, and it’s something that the administration has been championing from the very beginning, advocating for consumer privacy bill of rights and making sure we build privacy protections into the Affordable Care Act and lots of different venues of activity. I think a lot has been accomplished there. I think it’s important to stay abreast of the continuing trends, and to make sure that we are tracking with those trends and ensuring that consumer privacy is protected everywhere possible.
+
+Q.
+
+What’s a reasonable way of looking at the success of the open-data policy that the president implemented? How quickly will we see results from that?
+
+A.
+
+That’s something actually that we’ve been working on since the president’s first day in office, when he submitted his open-government memorandum. There’s over 75,000 data sets on data.gov already, everything from daily hospital charges for different procedures across the country, to credit card complaints, account affordability, weather, climate, and so forth. So there’s a bunch of data that’s already been out there, and a bunch of data that has been downloaded and used by companies like Opower, which is a start-up that uses government energy trends and weather data to help consumers save money on their energy bills. Companies like iTriage, which was started a couple of years ago from a couple of emergency room doctors from Denver, that used downloaded data from the Department of Health and Human Services to help you use on a mobile app, based on what’s wrong with you, to get the best local doctors and hospitals to help you. What the executive order does is it says, going forward as a new default, all new or modernized government resources should be made open and machine-readable while protecting privacy and national security, which turbocharges the number of data sets on data.gov, and therefore turbocharges the new company creation and job creation that results.
+
+Q.
+
+Do you feel, as a Silicon Valley guy that has started companies, like a fish out of water in Washington?
+
+A.
+
+A lot of people ask me that question, a lot of my friends back home. It’s been the most amazing entrepreneurial experience I’ve ever had. The opportunity you have here to work with teams that are making changes happen at scale is quite extraordinary. The impact you can have is mass times velocity. If you take an opportunity like this, with the scale of opportunity for change that it has, and combine it with the ability to do lean start-up with air cover of the president to make change happen rapidly, that mass times velocity equation is going to have an impact.
+
+Q.
+
+I thought Washington was all mass and no velocity.
+
+A.
+
+It’s interesting. It turns out that it can have velocity on innovation ambitions, if you have a president that cares about that.
+
+Transcribed by Katherine L. Kreider

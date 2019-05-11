@@ -1,0 +1,53 @@
+Photo
+
+Often the worst part of a visit to the doctor isn’t the awkward hospital gown, needle sticks or embarrassing physical exams — it’s the drawn-out wait, camped out in the reception room in the company of sick patients and old magazines.
+
+During a particularly long wait to see his dermatologist, Parker Oks, 18, thought there had to be a better way.
+
+“They know approximately how long an appointment will take,” said Mr. Oks, a freshman at Boston University. “But the problem is that they don’t know how long it will actually take.”
+
+That realization led Mr. Oks to create Appointment Status, a Web site devoted to improving appointment efficiency and providing patients with information to avoid long waits. Working with three teenagers from Staten Island Technical High School, where he had gone, Mr. Oks aims to make it easier for patients to schedule appointments — and to find out how far behind the doctor may be before settling into a waiting room chair.
+
+It’s one of several innovations meant to help patients. While many digital developments — electronic medical records and mobile medical encyclopedias — have streamlined doctors’ work, new tools for patients are starting to hit cellphones and the Internet offering help in keeping track of medications, recording heart rate and glucose levels and managing personal and family medical history, among other tasks.
+
+Appointment Status is designed to assist patients before they even take a seat in a waiting room — a sore point for many patients, as doctors well know. In a survey conducted by the doctor-review Web site Vitals, patients reported an average wait time of 21 minutes to see a doctor. Mississippi had the longest reported wait time, at just over 25 minutes.
+
+Some patients say that’s about as long a wait as they will tolerate.
+
+“I’m willing to wait to see a doctor for about 20 minutes before I go talk to the receptionist, and after a 45-minute wait, I always leave and reschedule,” said Maureen Green, a journalist from Syracuse. “Everybody’s time is valuable, not just the doctor’s time.”
+
+Developers and entrepreneurs are starting to tap into this frustration, as well as other rifts in doctor-patient relations. Mr. Oks said his next step is a mobile app to inform patients about delays.
+
+Another service, ZocDoc, is also meant to help patients save time with doctor visits. Created by Cyrus Massoumi, Dr. Oliver Kharraz and Nick Ganju, ZocDoc allows patients to peer into a doctor’s appointment book and schedule a visit through the Web.
+
+ZocDoc has already been expanded with a new tool, ZocDoc Check-In, made available last month to help eliminate another cause of waiting room tedium: filling out a clipboard of forms.
+
+“You’re always handed a stack of forms to fill out when you enter a doctor’s office,” said Mr. Massoumi, the chief executive of ZocDoc. “And all the information is 80 percent the same as the last time you filled it out.”
+
+ZocDoc Check-In also enters patient’s personal information in other doctors’ forms, so there is no need to fill out a name and date of birth multiple times.
+
+While these kinds of tools are becoming more common — ZocDoc is now being used in more than a thousand cities by doctors in more than 40 specialties — Mr. Oks is facing some resistance to his Appointment Status app.
+
+“A lot of the doctors I’ve approached are set in their ways and skeptical,” Mr. Oks said. “We’ve found some offices don’t even have an Internet connection for their receptionists.”
+
+ZocDoc may have caught on because it helps doctors as well as patients.
+
+“It’s a win-win,” Mr. Massoumi said. “Patients need convenience in scheduling a doctor’s appointment, and from a doctor’s standpoint, ZocDoc brings them patients and helps office staff manage their time.”
+
+Nevertheless, Mr. Massoumi said it took him a while to reach the point that doctors contact him about obtaining the technology.
+
+Dr. Kamal Ramani, a general practitioner in Manhattan, said he adopted ZocDoc three years ago, when he moved his office and was looking for a way to save time and money.
+
+“My staff doesn’t have to be on the phone with patients suggesting time slots,” Dr. Ramani said. “It streamlines the appointment-making process on both ends.”
+
+At the same time, some new technology that was developed for more efficient medical care delivery has some benefits for patients as well. For instance, despite widespread concerns about security and the potential for errors, electronic medical records can save patients time and improve communication.
+
+Dr. Steven K. Magid, a rheumatologist whose office is at the Hospital for Special Surgery in Manhattan, said that initially he was worried about the time commitment needed to enter all of a patient’s information digitally, but now he sees the benefits.
+
+“It’s faster for me to write a list of medications on a piece of paper than to do it on the computer,” Dr. Magid said. “But on the back end I save time because everything is legible and everyone is working off the same list.”
+
+Patients’ treatment instructions are clearly typed out, generating fewer calls to his office — and to him. And when patients still are confused or a new matter arises, his staff can address the problem without him by looking up the information in the digital record.
+
+Eventually, say some, patients will expect their doctors to adopt these kinds of timesaving tools.
+
+“There’s a tipping point,” Dr. Magid said. “There is going to be a shift.”

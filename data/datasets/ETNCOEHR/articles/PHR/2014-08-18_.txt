@@ -1,0 +1,15 @@
+Photo
+
+Community Health Systems, a publicly traded hospital operator based in Franklin, Tenn., said that personal data, including names, Social Security numbers and addresses, for 4.5 million patients had been compromised in a Chinese cyberattack on its systems from April to June.
+
+The company, which operates 206 hospitals in 29 states, said in a filing with the Securities and Exchange Commission on Monday that that the attackers had bypassed its security systems and stolen data that also included birth dates and telephone numbers for the patients, who had been referred to or treated by doctors affiliated with the company over the last five years.
+
+The company is required to notify affected patients and agencies under the Health Insurance Portability and Accountability Act, which protects such personal data.
+
+Community Health Systems engaged Mandiant, a subsidiary of FireEye, the Milpitas, Calif. computer security company, to conduct forensics on the attack. Mandiant said it believed the attackers were part of an advanced group based in China that typically steals valuable intellectual property, such as medical device and equipment development data. Instead, the criminals took nonmedical data. The hospital operator noted that no patient credit-card, medical or clinical information had been taken.
+
+The company confirmed the hack in July and said it had eradicated the attackers’ malware from its systems and increased its computer defenses to prevent future attacks. The company said it would be providing identity theft protection to affected patients and carried cyber insurance to mitigate some of its losses.
+
+Security experts have long predicted that the digitization of medical records would invite hackers. Last year, Stephen Cobb, a senior researcher at ESET, the antivirus company, calculated that 24,800 Americans had protected health information exposed — per day — in 2013, based on the number of breaches disclosed on the website of the Health and Human Services Department last year.
+
+Including the breach at Community Health Systems, six million Americans have had personally identifiable data compromised in 2014, according to the agency’s website, which only lists breaches that have affected more than 500 patients.

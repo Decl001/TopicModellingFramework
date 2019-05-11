@@ -1,0 +1,25 @@
+The University of Maryland said on Wednesday that more than 300,000 records for students, faculty and staff were stolen in a sophisticated cyberattack.
+
+Hackers breached a university database containing names, Social Security numbers, birth dates and university identification numbers for faculty, staff, students and personnel who had been issued a university I.D. since 1998. The university said financial, academic, health and phone and address information were not taken.
+
+Wallace D. Loh, the University of Maryland’s president, said he was notified of the breach Tuesday night. “I am truly sorry,” Mr. Loh said in a statement. “Computer and data security are a very high priority of our university.”
+
+By Wednesday, hackers had not taken credit for the attack. Typically, hackers seek such information because it can be used to steal identities, crack bank accounts or can be sold on the black market. Universities make ripe targets because they store vast numbers of personal records, often in decentralized servers.
+
+The records can be a gold mine because students, in particular, often have pristine credit reputations and do not monitor their account activity and credit scores as vigilantly as adults.
+
+Mr. Loh said the University of Maryland would be offering one year of free credit monitoring for those whose information was taken in the breach.
+
+Dozens of universities have been hit by breaches in recent years. In 2012, Harvard, Stanford, Cornell, Princeton, Johns Hopkins, the University of Rhode Island, the University of Arizona, Queens College and Marquette and 50 other universities were victims of attacks that exposed personal information.
+
+In the breach at Harvard, Stanford, Cornell, Princeton, Johns Hopkins and others in 2012, the hackers who took responsibility said they had done so because they were raising awareness for tuition increases in the United States and changing education laws in Europe, not by profit.
+
+But in a post to the anonymous website Pastebin, they said that in many cases, when they breached the servers at these universities, they found that somebody else had already been there.
+
+“When we got there, we found that a lot of them have malware injected,” the hackers wrote on Pastebin.
+
+In that case, IdentityFinder, a company that works to protect against identity theft following a breach, found that in many cases, the hackers had been inside universities’ systems for at least four months unnoticed.
+
+At the University of Maryland, President Loh said the university had recently doubled its number of security engineers and analysts on staff and had doubled its investment in security tools.
+
+“Universities are a focus in today’s global assaults on I.T. systems,” Mr. Loh said in the statement. “Obviously, we need to do more and better, and we will.”

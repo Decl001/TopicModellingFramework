@@ -1,0 +1,27 @@
+G.E. and Intel are pursuing what they expect to be a new multibillion-dollar market for using technology to automate and streamline the management of chronic conditions as populations age, both in the United States and in other nations.
+
+A handful of chronic ailments, including heart disease, diabetes and hypertension, account for up to 80 percent of health care costs, according to medical experts, and 7 of 10 deaths in the United States.
+
+Photo
+
+Such chronic conditions, unless aggressively managed, worsen as people grow older. By 2030, about 71.5 million Americans will be 65 or older, the federal government estimates, up from 37 million in 2006.
+
+The current market for telehealth and home health monitoring in North America and Europe is $3 billion, according to Data Monitor, a research firm, and is projected to rise to $7.7 billion by 2012. But much of remote monitoring today is done by nurses and physician assistants, who call patients with reminders and advice.
+
+“Today’s systems just won’t scale,” said Louis J. Burns, general manager of Intel’s digital health group. “Health care has to go efficiently into the home, to enable elders to age in place with dignity.”
+
+Newsletter Sign Up Continue reading the main story Please verify you're not a robot by clicking the box. Invalid email address. Please re-enter. You must select a newsletter to subscribe to. Sign Up You agree to receive occasional updates and special offers for The New York Times's products and services. Thank you for subscribing. An error has occurred. Please try again later. View all New York Times newsletters.
+
+The early market for their high-tech remote monitoring systems, the companies’ executives say, will be integrated health providers in the United States and abroad, insurers and specialized disease-management companies.
+
+Intel has sold systems to Advanced Warning Systems, a disease management company, and has pilot projects under way with several institutions ranging from the American insurer Aetna to a Scottish region of Britain’s National Health Service.
+
+Managing chronic conditions is typically not reimbursed in America’s fee-for-service system of health care, which pays for procedures, treatments and office visits but often not preventive care.
+
+Advertisement Continue reading the main story
+
+But there have been some Medicare pilot projects to pay providers based on improved health outcomes for patients, mainly those with chronic conditions. And the Obama administration has pledged to accelerate that drive, promoting electronic health records, for example, as a way to measure the quality of care and health outcomes.
+
+Analysts and industry executives say the market for personal health care technology, like remote monitoring, could benefit considerably if reimbursement moves toward a pay-for-performance system.
+
+“If nothing changes, this is going to be a big business because of the demographics,” said Jeffrey R. Immelt, the chief executive of G.E. “But the only way to really change health care is to have some metrics about outcomes and quality. And you need technology to do that.”

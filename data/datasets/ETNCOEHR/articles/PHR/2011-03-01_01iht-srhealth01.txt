@@ -1,0 +1,41 @@
+A report by Parks Associates in February estimated that in the United States alone, revenue from digital health technology and services would exceed $5.7 billion in 2015, compared with $1.7 billion in 2010, fueled by devices that monitor chronic conditions like hypertension and diabetes and by wellness and fitness applications and programs.
+
+In January, the French start-up Withings introduced a Wi-Fi-enabled cuff that can take your blood pressure and pulse and that connects to an iPhone to synchronize the data with records kept online. The data can be securely stored on a personal page on the Withings Web site or with other personal health record, or P.H.R., service providers, like Google Health and Microsoft’s HealthVault, where it can then be accessed by your doctor.
+
+In February, Entra Health Systems announced a deal with the Swedish mobile phone company Doro to make its MyGlucoHealth service available on their senior-friendly cellphones. With a small device, blood glucose level readings can be sent by text message to a secure MyGlucoHealth portal, which provides instant advice to users on what to eat. MyGlucoHealth, which the company introduced in 2008, is also compatible with Google Health and HealthVault.
+
+Though MyGlucoHealth is already available around the world using various smartphones and simple mobile phones with Bluetooth, early promotion and partnerships centered on Britain, Australia, Germany, the United States and India. The service is about to be heavily promoted in Asia. John Hendel, chairman of Entra Health Systems, said it would be available in Hong Kong on March 29, in partnership with PCCW, and in Singapore, Taiwan, South Korea over the next three months.
+
+“Asia has a very high number of people with mobile phones and with diabetes,” Mr. Hendel said. “It’s a market where there is a lot of genetic predisposition to diabetes, the health care system is typically underfunded and paid for by the patients, and so by coming up with a great cost-effective solution it allows us to capture a big market piece that is just as important as the U.S. market, if not more important.”
+
+A report in November by research2guidance estimated there were more than 17,000 mobile health applications designed for smartphones and that many were aimed at and being adopted by health care professionals. It forecast mobile and wireless health care services would expand significantly to reach 500 million mobile users, or about 30 percent of an estimated 1.4 billion smartphone subscribers worldwide, by 2015.
+
+Microsoft’s HealthVault and Google Health, introduced in the United States in 2007 and 2008 respectively, offer similar open platforms that allow people to store and manage their health information, including immunizations, disease history and prescriptions in one place, with access to the records possible via various devices or mobile applications.
+
+Newsletter Sign Up Continue reading the main story Please verify you're not a robot by clicking the box. Invalid email address. Please re-enter. You must select a newsletter to subscribe to. Sign Up You agree to receive occasional updates and special offers for The New York Times's products and services. Thank you for subscribing. An error has occurred. Please try again later. View all New York Times newsletters.
+
+The personal information is stored in a secure, encrypted database and the privacy controls are set entirely by the individual, including what information goes in and who gets to see it.
+
+Advertisement Continue reading the main story
+
+“We decided to integrate with Google Health and HeathVault because, based on their potential, a lot of people are using them as a destination site,” Mr. Hendel said. “So instead of having to click on our site and then someone else’s site, they’re acting as depository of connected links.”
+
+HealthVault already integrates 170 health care applications, ranging from one that helps triathletes monitor their training and diet to software for managing diabetes, and the platform works with about 90 medical devices, said Mark Johnston, Microsoft’s international business development lead, from Sydney.
+
+HealthVault’s software development kit has been downloaded 30,000 times. “I think this is the leading indicator of what will come forward,” Mr. Johnston said. “And as we continue to land new contracts and open new markets, our value proposition to our development community is only enhanced because we become the distribution channel and they can go to the market with us.”
+
+While Google Health is at least for now confined to the United States, HealthVault has slowly rolled out its platform internationally, linking with local partners. It was deployed in Canada in 2009 through a partnership with Telus, in Germany though a deal with Siemens and in Britain through a deal with Nuffield Health in 2010.
+
+In October, HealthVault also signed an agreement with a large systems integrator in China, iSoftStone, and the two companies are now focusing on a government program in Wuxi, Jiangsu Province.
+
+“They have a very specific ambition which involves diabetes and hypertension patients, and we’re bringing to market a set of applications and connected devices that are being driven by our partners in China,” Mr. Johnston said. “The entire experience will be localized to their needs to also build a high level of consumer trust.”
+
+He added that HealthVault had been concentrating since the beginning on patients with long-term conditions and chronic diseases. “And we’re trying to go really deep on application pairings with devices to treat those patients because there is a very strong value proposition for those,” Mr. Johnston said, given that governments and other health organizations incur most of their costs from these patients.
+
+So far, adoption of online personal health records by consumers has grown slowly. According to a survey by Knowledge Networks conducted in the United States last year, 10 percent of the public now uses P.H.R.’s, compared with 3 percent in 2008. A similar proportion of doctors said they offered P.H.R. tools to their patients.
+
+Jay Chandran, associate research director of health care at Frost & Sullivan, a research and consulting firm, said he believed patients needed to have an incentive to maintain their online personal health records. Otherwise individuals were unlikely to find the motivation to keep their medical records up to date.
+
+Advertisement Continue reading the main story
+
+“In my opinion, P.H.R. products will become more successful if data can be captured at the transaction level itself, that is, if a P.H.R. can be a subset of electronic health records, where health care service providers provide the real time information,” Mr. Chandran said. “If the records are maintained and entered by health care service providers, the credibility and utility of such data is higher.”

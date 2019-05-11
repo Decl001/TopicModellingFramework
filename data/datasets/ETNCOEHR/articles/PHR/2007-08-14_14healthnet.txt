@@ -1,0 +1,57 @@
+Google and Microsoft recognize the obstacles, and they concede that changing health care will take time. But the companies see the potential in attracting a large audience for health-related advertising and services. And both companies bring formidable advantages to the consumer market for such technology.
+
+Microsoft’s software animates more than 90 percent of all personal computers, while Google is the default starting point for most health searches. And people are increasingly turning to their computers and the Web for health information and advice. A Harris poll, published last month, found that 52 percent of adults sometimes or frequently go to the Web for health information, up from 29 percent in 2001.
+
+If the efforts of the two big companies gain momentum over time, that promises to accelerate a shift in power to consumers in health care, just as Internet technology has done in other industries.
+
+Today, about 20 percent of the nation’s patient population have computerized records — rather than paper ones — and the Bush administration has pushed the health care industry to speed up the switch to electronic formats. But these records still tend to be controlled by doctors, hospitals or insurers. A patient moves to another state, for example, but the record usually stays.
+
+The Google and Microsoft initiatives would give much more control to individuals, a trend many health experts see as inevitable. “Patients will ultimately be the stewards of their own information,” said John D. Halamka, a doctor and the chief information officer of the Harvard Medical School.
+
+Already the Web is allowing people to take a more activist approach to health. According to the Harris survey, 58 percent of people who look online for health information discussed what they found with their doctors in the last year.
+
+It is common these days, Dr. Halamka said, for a patient to come in carrying a pile of Web page printouts. “The doctor is becoming a knowledge navigator,” he said. “In the future, health care will be a much more collaborative process between patients and doctors.”
+
+Advertisement Continue reading the main story
+
+Microsoft and Google are hoping this will lead people to seek more control over their own health records, using tools the companies will provide. Neither company will discuss their plans in detail. But Microsoft’s consumer-oriented effort is scheduled to be announced this fall, while Google’s has been delayed and will probably not be introduced until next year, according to people who have been briefed on the companies’ plans.
+
+A prototype of Google Health, which the company has shown to health professionals and advisers, makes the consumer focus clear. The welcome page reads, “At Google, we feel patients should be in charge of their health information, and they should be able to grant their health care providers, family members, or whomever they choose, access to this information. Google Health was developed to meet this need.”
+
+Photo
+
+A presentation of screen images from the prototype — which two people who received it showed to a reporter — then has 17 other Web pages including a “health profile” for medications, conditions and allergies; a personalized “health guide” for suggested treatments, drug interactions and diet and exercise regimens; pages for receiving reminder messages to get prescription refills or visit a doctor; and directories of nearby doctors.
+
+Google executives would not comment on the prototype, other than to say the company plans to experiment and see what people want. “We’ll make mistakes and it will be a long-range march,” said Adam Bosworth, a vice president of engineering and leader of the health team. “But it’s also true that some of what we’re doing is expensive, and for Google it’s not.”
+
+At Microsoft, the long-term goal is similarly ambitious. “It will take grand scale to solve these problems like the data storage, software and networking needed to handle vast amounts of personal health and medical information,” said Steve Shihadeh, general manager of Microsoft’s health solutions group. “So there are not many companies that can do this.”
+
+Newsletter Sign Up Continue reading the main story Please verify you're not a robot by clicking the box. Invalid email address. Please re-enter. You must select a newsletter to subscribe to. Sign Up You agree to receive occasional updates and special offers for The New York Times's products and services. Thank you for subscribing. An error has occurred. Please try again later. View all New York Times newsletters.
+
+This year, Microsoft bought a start-up, Medstory, whose search software is tailored for health information, and last year bought a company that makes software for retrieving and displaying patient information in hospitals. Microsoft software is already used in hospitals, clinical laboratories and doctors’ offices, and, Mr. Shihadeh noted, the three most popular health record systems in doctors’ offices are built with Microsoft software and programming tools.
+
+Microsoft will not disclose its product plans, but according to people working with the company the consumer effort will include online offerings as well as software to find, retrieve and store personal health information on personal computers, cellphones and other kinds of digital devices — perhaps even a wristwatch with wireless Internet links some day.
+
+Mr. Shihadeh declined to discuss specifics, but said, “We’re building a broad consumer health platform, and we view this challenge as far bigger than a personal health record, which is just scratching the surface.”
+
+Yet personal health records promise to be a thorny challenge for practical and privacy reasons. To be most useful, a consumer-controlled record would include medical and treatment records from doctors, hospitals, insurers and laboratories. Under federal law, people can request and receive their personal health data within 90 days. But the process is complicated, and the replies typically come on paper, as photocopies or faxes.
+
+Advertisement Continue reading the main story
+
+The efficient way would be for that data to be sent over the Internet into a person’s digital health record. But that would require partnerships and trust between health care providers and insurers and the digital record-keepers.
+
+Privacy concerns are another big obstacle, as both companies acknowledge. Most likely, they say, trust will build slowly, and the online records will include as much or as little personal information as users are comfortable divulging.
+
+A person might start, for example, by typing in age, gender and a condition, like diabetes, as a way to find more personalized health information. If a person creates a personal health record and later has second thoughts, a simple mouse click should erase it. The promise, the companies say, will be complete consumer control.
+
+There are plenty of competitors these days in online health records and information from start-ups like Revolution Health, headed by AOL’s founder, Stephen M. Case, and thriving profit-makers led by WebMD.
+
+Potential rivals are not underestimating the two technology giants. But the smaller companies have the advantage of being focused entirely on health, and some have been around for years. WebMD, for example, traces its lineage to Healtheon, a fallen star of the dot-com era, founded by the Netscape billionaire Jim Clark.
+
+Google and Microsoft are great companies, said Wayne T. Gattinella, WebMD’s chief executive, but “that doesn’t mean they will be expert in a specific area like health.”
+
+Specialized health search engines — notably Healthline — are gaining ground and adding partners. AOL recently began using Healthline for searches on its health pages, even though Google is a close partner.
+
+Still, 58 percent of people seeking health information online begin with a general search engine, according to a recent Jupiter Research report, and Google dominates the field. “Google is the entry point for most health search, and that is a huge advantage,” said Monique Levy, a Jupiter analyst.
+
+Indeed, it is the market reach and deep pockets that Google and Microsoft can bring to consumer health information that intrigues medical experts, and has lured recruits. Dr. Roni Zeiger, a graduate of Stanford’s School of Medicine, a medical informatics researcher and a former primary care doctor, joined Google last year. The 36-year-old, who still sees patients some evenings and weekends at a nearby clinic, said, “At Google, I can use my expertise and knowledge to potentially help millions of people each day.”

@@ -1,0 +1,35 @@
+Of course, she notes, we can replicate the information that companies collect and collate about us with third-party apps or other workarounds, but we shouldn’t have to resort to redundancy. Professor Sweeney says: “We would like to see people have access to all of the data that they produce.”
+
+In fact, a few companies are challenging the norm of corporate data hoarding by actually sharing some information with the customers who generate it — and offering tools to put it to use. It’s a small but provocative trend in the United States, where only a handful of industries, like health care and credit, are required by federal law to provide people with access to their records.
+
+Last year, San Diego Gas and Electric, a utility, introduced an online energy management program in which customers can view their electricity use in monthly, daily or hourly increments. There is even a practical benefit: customers can earn credits by reducing energy consumption during peak hours.
+
+About one-quarter of the company’s 1.2 million residential customers have tried the program, says Caroline Winn, the company’s vice president for customer services. Newer features, she says, allow customers to download their own use files. Or they can choose to give permission for the utility to share their records directly with a handful of apps that can analyze the data and suggest ways to reduce energy consumption.
+
+Photo
+
+“The customer owns their data,” Ms. Winn says. “Whether they want to use our app or somebody else’s, we want to make sure we are facilitating that.”
+
+(Con Ed in New York also offers customers reduced pricing if they use electricity during off-peak hours. But the program requires the installation of a special meter.)
+
+People might feel more comfortable about being subject to data-mining if companies did a better job of demonstrating a direct benefit to them, argues Jules Polonetsky, director of the Future of Privacy Forum, an industry financed research organization in Washington. One model for this, he says, is the product recommendation engine at Amazon, which lets customers view their purchase histories and excise one-off items they bought for friends that might not represent their own personal tastes.
+
+Newsletter Sign Up Continue reading the main story Please verify you're not a robot by clicking the box. Invalid email address. Please re-enter. You must select a newsletter to subscribe to. Sign Up You agree to receive occasional updates and special offers for The New York Times's products and services. Thank you for subscribing. An error has occurred. Please try again later. View all New York Times newsletters.
+
+“They are providing transparency as a feature,” Mr. Polonetsky says. “I can tweak their algorithm in a way that is mutually useful.” (Amazon is one of the sponsors of his organization.)
+
+Advertisement Continue reading the main story
+
+Even so, companies rarely offer customers more than a cropped snapshot of their activities.
+
+Right now, for example, fitness enthusiasts who use blood pressure monitors, calorie calculators and movement sensors typically can’t collate the data for a unified view of their wellness, Doc Searls, a technology writer who has experienced this kind of problem himself, told me. If people could easily integrate their data, he wrote in a recent blog post, they might be able to correlate weight loss to a particular workout routine or diet. Those companies that do allow customers to export their files and integrate their data elsewhere, he says, have a market advantage over companies that are data misers.
+
+“Stock data, bank data, and bond data are all more valuable when they are looked at together,” says Mr. Searls, the author of “The Intention Economy: When Customers Take Charge.” “If I have a choice between apps and one of them shares the data that I can use more easily, I am going to choose that one.”
+
+INTEL, for instance, recently introduced a “data economy” project, intended to encourage companies to think of consumers as participants in the information economy, and not just as data-harvesting opportunities. The venture includes a site called WeTheData.com, which looks at current obstacles to information sharing.
+
+Ken Anderson, a senior research scientist at Intel Labs who oversees the project, compares corporate data-hoarding today to a faulty mind-set of the fast-food industry in the early 1980s. Back then, he says, fast-food chains thought that they should open outlets only at a good distance from their competitors. But when food courts in malls became popular, he says, those restaurant chains realized that they benefited from shared retail space.
+
+“If you put it all in one place, you get more business,” says Mr. Anderson, a cultural anthropologist who studies how people interact with technology.
+
+The same goes for consumer data. He envisions an online answer to food courts — an information smorgasbord where consumers could browse their own records. “We are trying to show companies the value of opening data up” he says, “and having them be more communal in nature.”

@@ -1,0 +1,27 @@
+I.B.M. has been quietly saying for months that it planned to enter the market for electronic health records, a business being primed with hefty government subsidies.
+
+The only question has been how Big Blue, a company geared to deal with big corporations, would cater to the messy, fragmented market of physicians.
+
+I.B.M. provided its answer Thursday morning. It’s not going in alone, but as a technology partner. The offering will be a Web-based subscription service, but enhanced by I.B.M. data-mining technology and tweaked by the scientists in its research labs. And I.B.M. is going into electronic health records selectively, and not yet marketing to small practices with just a few doctors.
+
+I.B.M.’s partner is a subsidiary of the insurer Aetna, ActiveHealth Management, which makes disease management software and personal health records. ActiveHealth will provide the user record and decision support technology, while I.B.M. provides the cloud computing services and data-intelligence technology.
+
+The offering will tap I.B.M. researchers for advanced features like matching patients to specialists with the best measured record of results for similar patients.
+
+Physicians will not have to install new software in their offices. It will run on computers in I.B.M. data centers and be accessed by doctors with a Web browser on personal computers. They will pay monthly fees for the service, from several hundred dollars to nearly $1,000 per doctor, I.B.M. says, depending on the number of physicians in a medical group and on what features they use.
+
+“This is our first software-as-service play in clinical health care,” said Robert Merkel, vice president for health care in I.B.M.’s global business services unit.
+
+I.B.M. and ActiveHealth are rolling out the service first with Sharp Community Medical Group, a health network with more than 600 primary care and specialist physicians, based in San Diego.
+
+Even though the government is providing incentive payments of up to up to $44,000 a doctor to adopt digital patient records, many physicians remain skeptical.
+
+In surveys, the cost of buying and the cost of maintaining computerized records are consistently the top two reasons why say they have not adopted them, notes Lynne Dunbrack, an analyst at IDC Health Insights.
+
+The approach taken by I.B.M., and others is to try to improve the economics and reduce the technical headaches for doctors, by offering patient records on the Web as a subscription service.
+
+“The last thing doctors want to do is be in the information technology business, loading software and taking care of server computers,” Ms. Dunbrack said.
+
+I.B.M., for now, will be marketing its offering to large and mid-sized medical groups, down to 100 or so doctors, Mr. Merkel said. Yet 75 percent of the nation’s physicians practice in offices of 10 or fewer doctors.
+
+The leading vendors of Web-based offerings to smaller practices include eClinicalWorks and Athenahealth, said Wes Rishel, an analyst at Gartner.

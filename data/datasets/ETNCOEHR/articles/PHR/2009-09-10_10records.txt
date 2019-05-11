@@ -1,0 +1,49 @@
+But doctors in small offices have not moved to digital records, mainly because today’s technology is costly and complex.
+
+What is needed, experts agree, are new models of delivery and easier-to-use technology to reduce the expense and technical headaches. The proposed offerings are typically bets on the new Internet-based service model, known as cloud computing, in which much of the computing firepower and data reside in remote data centers, which doctors, nurses and staff would use via the Web browsers on their personal computers.
+
+Faster networks, improved wireless connections and more affordable tablet PCs or small desktops promise to make the shift to digital patient records less cumbersome these days. But technical assistance and user guidance are also needed. And several companies plan to offer bridge financing to doctors to ease the burden of initial investment costs until the government begins making payments, which can be up to $44,000 for each doctor, from 2011 to 2015.
+
+Dell plans to act as the hardware supplier and general contractor, working with partners like eClinicalWorks, a maker of electronic health record software, and Perot Systems for data-center hosting, if the medical groups outsource that task.
+
+Dell already has pilot projects under way with a few hospital groups, including Memorial Hermann Healthcare System in Houston and Tufts Medical Center in Boston. This year, Dell announced it was teaming up with Sam’s Club, a division of Wal-Mart, to offer the hardware, software and services for electronic health records to doctors in small practices.
+
+“The technology has to be a simplified, affordable package for physicians,” said Jamie Coffin, general manager of Dell’s health care business. “We’re really going after this market in a concerted way.”
+
+The government’s effort to try to encourage a market in digital health records, experts say, faces formidable hurdles. The risk is that physicians buy lots of computer hardware and software, but see no improvements, leaving a legacy of wasted money, angry doctors and disrupted care for patients.
+
+Advertisement Continue reading the main story
+
+“It’s certainly a gamble,” said Dr. David J. Brailer, former national health information technology coordinator in the Bush administration. “But I do think the net effect is going to be a lot of new efforts at innovation.”
+
+In many large medical groups, like Kaiser Permanente and the Mayo Clinic, all the doctors use electronic health records. Yet over all, only about 17 percent of America’s physicians are using computerized patient records, according to a government-sponsored survey published last year in The New England Journal of Medicine.
+
+Newsletter Sign Up Continue reading the main story Please verify you're not a robot by clicking the box. Invalid email address. Please re-enter. You must select a newsletter to subscribe to. Sign Up You agree to receive occasional updates and special offers for The New York Times's products and services. Thank you for subscribing. An error has occurred. Please try again later. View all New York Times newsletters.
+
+Encouraged by the stimulus financing, many companies besides Dell are hurrying to help lift that percentage considerably.
+
+G.E. is an established supplier of electronic health records that work as traditional personal computer software. The company, said Vishal Wanchoo, chief executive of G.E.’s health information technology business, has recently done a lot of prototype work on how to make the shift to digital records easier and less costly for small practices. Early next year, G.E. will offer a data-center hosted version of its electronic health records, delivered over the Internet. “It will help us reach more physicians,” he said.
+
+EClinicalWorks has added four data centers in the last year, bringing the total to 10, for hosting electronic health records as a service over the Internet. The company offers its records both as conventional PC software and as a Web service. “The software as a service is where the biggest growth is,” said Girish Kumar Navani, president of eClinicalWorks.
+
+At Athenahealth, a supplier of online billing services and health records, Jonathan Bush, the chief executive, says his company plans to announce a marketing drive and technical assistance program later this month to accelerate the adoption of its digital records. And at Practice Fusion, a start-up offering Web-based patient records free to physicians, supported by online advertising, the government program has prompted a surge of interest, said Ryan Howard, the chief executive.
+
+Even I.B.M., whose health business is geared to big medical groups, is planning a move. The company does not make electronic health record software, and so would work with partners. I.B.M. will not say precisely what it plans. “Adoption is so low in small practices because the economics doesn’t work for them, but the cloud computing model can help change that,” said Sean Hogan, vice president of I.B.M’s health care delivery unit. “And yes, we’re going to be delivering a cloud-based service into this space.”
+
+Verizon started a health care unit this summer, which now has a staff of 500. The company plans to work with many health technology partners to offer electronic health records over the Internet in several months, a spokesman said.
+
+Verizon is focused mainly on data-center hosting and data-sharing technology, as the hub of local and regional health information networks. The office of Dr. Allen Gee offers a glimpse of the pitfalls and promise of electronic health records. A sole practitioner in Cody, Wyo., Dr. Gee, 43, was enthusiastic about the potential of modern computer technology to improve care. So for three years, ending in 2005, he invested in computers, software and consulting services. In all, he estimates he spent $100,000, and got little in return.
+
+Advertisement Continue reading the main story
+
+“It was hot-rod technology that cost me a lot and didn’t improve my practice,” Dr. Gee recalled.
+
+Later, Dr. Gee tried again. This time, he went with an online service for billing and electronic health records. His supplier, Athenahealth, offers not only Internet technology, but also a distinctive business model, which some analysts say could prove a winner in encouraging small practices to adopt digital records. The company handles most of the back-office functions of billing and medical records, and collects a fraction of the physician’s revenue — 5 to 8 percent, in Dr. Gee’s case.
+
+Financially, Dr. Gee says, he has come out ahead, since he no longer pays an outside billing company. And he is a convert to digital health records.
+
+Like all physicians who are enthusiasts, Dr. Gee speaks of the value of alerts and reminders of patient care, automated tracking of lab tests and e-prescribing. It saves time, paperwork and helps make him a better doctor, he said. Dr. Gee roams the office with his tablet PC and a Bluetooth ear piece, dictating his notes using voice-to-text software.
+
+Whether a company, hospital or community health technology assistance centers, which the government program finances, small practices need hand-holding and technical help, Dr. Gee said.
+
+The federal assistance, he said, has “a lot of potential to do good things for the country, but it could also end up as a huge headache for small practices. We’re doctors, not technologists. You need help to manage the process.”

@@ -1,0 +1,25 @@
+Eastern European hackers have stolen personal records for 780,000 people in the breach of a computer server in Utah.
+
+The list of victims include recipients of Medicaid and a health care program for low-income children in Utah, officials at Utah’s Department of Health said in a statement. Hackers were able to breach the servers by exploiting a technician’s weak password. On March 30, they downloaded 24,000 files to computers in Eastern Europe. Each file contained records for hundreds of recipients.
+
+Utah’s Department of Health has updated the number of victims three times. It initially said 24,000 people were affected but by Monday evening, the list had expanded to include 780,000. Of those, the department said 280,000 had their Social Security numbers stolen, according to the revised statement.
+
+Some security experts said the breach pointed to a problem with the way personal records were increasingly stored in bulk.
+
+“Why do we continue to see these large aggregate databases?” Eddie Schwartz, chief information security officer at the computer security firm RSA, said in an interview on Tuesday. “Why should hackers be able to steal 10 million credit card numbers or 700,000 personal records at once? We need to think about distributing that information so that when networks do get penetrated, we’re not looking an all-or-nothing situation.”
+
+
+
+In this case, officials at Utah’s Department of Health said they had recently moved claim records to a new server. Despite several layers of security in place, they said hackers were able to bypass the system because a technician configured the server with a weak password. The department said it has since shut down the server, put new security measures in place and was inspecting other servers across the state.
+
+As banks step up their security measures, health providers and retailers have become a more prevalent target for hackers, security experts note. The same day hackers infiltrated the server in Utah, for instance, reports surfaced that another group of hackers had pilfered information for over a million credit card accounts in an attack on Global Payments, an Atlanta company that processes payments for retailers. According to sources briefed on the investigation, the breach marked the second time the payment processor had been attacked in the last year.
+
+Security experts said health and insurance records were also becoming a target for hackers because personal information, like the kind stored by Utah’s Department of Health, could fetch a higher price on the black market than a single credit card record.
+
+“Credit cards have a much lower per-unit-value compared to identities which have a much higher per-unit-value on the black market,” Mr. Schwartz said.
+
+Child records, in particular, are valuable to criminals because their lack of a credit report or bank account makes it difficult to monitor them for identity theft. Their identity can be exploited for years before it is uncovered. According to AllClear ID, a company that offers identity protection services, some 10 percent of children in the United States have had their identity stolen.
+
+Utah’s Department of Health said it was cooperating with the F.B.I. on its breach and working to notify victims, with priority given to those whose Social Security numbers were stolen. The department said it would provide free credit monitoring to those victims.
+
+It suggested that Utah’s Medicaid and Children’s Health Insurance Plan recipients, as well as anyone whose health-care provider might have submitted information to the state for Medicaid coverage within the last four months, monitor their credit and bank accounts.

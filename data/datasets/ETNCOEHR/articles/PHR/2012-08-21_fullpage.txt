@@ -1,0 +1,31 @@
+CORRECTION APPENDED
+
+Radiation, like alcohol, is a double-edged sword. It has indisputable medical advantages: Radiation can reveal hidden problems, from broken bones and lung lesions to heart defects and tumors. And it can be used to treat and sometimes cure certain cancers.
+
+But it also has a potentially serious medical downside: the ability to damage DNA and, 10 to 20 years later, to cause cancer. CT scans alone, which deliver 100 to 500 times the radiation associated with an ordinary X-ray and now provide three-fourths of Americans' radiation exposure, are believed to account for 1.5 percent of all cancers that occur in the United States.
+
+Recognition of this hazard and alarm over recent increases in radiological imaging have prompted numerous experts, including some radiologists, to call for more careful consideration before ordering tests that involve radiation.
+
+"All imaging has increased, but CTs account for the bulk of it," said Dr. Rebecca Smith-Bindman, a specialist in radiology and biomedical imaging at the University of California, San Francisco. "There's clearly widespread overuse. More than 10 percent of patients each year are receiving very high radiation exposures."
+
+The trick to using medical radiation appropriately, experts say, is to balance the potential risks against known benefits. But despite the astronomical rise in recent years in the use of radiation to obtain medical images, this balancing act is too often ignored. The consequences include unnecessary medical costs and risks to the future health of patients.
+
+Both doctors and patients have a responsibility to better understand the benefits and risks and to consider them carefully before doctors order and patients undergo a radiation-based procedure.
+
+Patients may be surprised to learn that some of the newest uses of radiological imaging, including CT scans of coronary arteries to look for calcium buildup, have not yet been shown in scientifically designed clinical trials to lead to better outcomes than tests that do not involve radiation exposure, and thus their true benefits are at best a guess. Experts have estimated that widespread use of coronary artery scans, which deliver 50 to 150 times the radiation of a chest X-ray, could result in 42 additional cases of cancer for every 100,000 men who have the procedure, and 62 cases for every 100,000 women who do.
+
+For every 1,000 people undergoing a cardiac CT scan, the radiation adds one extra case of cancer to the 420 that would normally occur. This risk may seem inconsequential, but not to someone who gets a cancer that could have been prevented.
+
+Complicating the matter is the enormous variation - sometimes tenfold or more - in the amounts of radiation to which patients are exposed from the same procedure at different institutions, or even at the same institution at different times.
+
+Although the cancer-causing effects of radiation are cumulative, no one keeps track of how much radiation patients have already been exposed to when a new imaging exam is ordered. Even when patients are asked about earlier exams, the goal is nearly always to compare new findings with old ones, not to estimate the risks of additional radiation.
+
+As Dr. Michael S. Lauer of the National Heart, Lung and Blood Institute wrote in The New England Journal of Medicine three years ago, "The issue of radiation exposure is unlikely to come up because each procedure is considered in isolation, the risks posed by each procedure are low and seemingly unmeasurable, and any radiation-induced cancer won't appear for years and cannot easily be linked to past imaging procedures."
+
+After an extensive review of the environmental causes and risk factors for breast cancer, the Institute of Medicine reported last year that sufficient evidence of risk was found only for combined hormone therapy used by postmenopausal women and exposure to ionizing radiation, at doses much higher than those received during a mammogram.
+
+Everyone is exposed to a certain amount of background radiation - about three millisieverts a year from cosmic rays, radon gas and the earth's radioactive elements. By 1980, according to The Harvard Health Letter, various introduced sources, like medical tests, nuclear power plants, nuclear fallout, television sets, computer monitors, smoke detectors and airport security scanners, added another 0.5 millisieverts per year.
+
+Now, however, the amount of radiation used medically rivals that of the background radiation, adding three millisieverts each year to the average person's exposure. (A mammogram involves 0.7 millisieverts, a dose that is doubled with a 3-D mammogram.)
+
+There are many reasons for this increase. Doctors in private practice who have bought imaging equipment tend to use it liberally to recoup the expense. The same goes for hospitals just a few miles apart that needlessly duplicate certain equipment so they can boast of having the latest and greatest capacity to detect disease. Doctors ordering tests suffer no adverse effects, and patients feel they are getting the most that modern medicine can offer.

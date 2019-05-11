@@ -1,0 +1,37 @@
+The personal information, Microsoft said, will be stored in a secure, encrypted database. Its privacy controls, the company said, are set entirely by the individual, including what information goes in and who gets to see it. HealthVault searches are conducted anonymously, Microsoft said, and will not be linked to any personal information in a HealthVault personal health record.
+
+Photo
+
+The company hopes that individuals will give doctors, clinics and hospitals permission to submit information like medicines prescribed and data on blood pressure and cholesterol levels.
+
+Mr. Neupert said such data transfers would then be automatic, over the Internet, which is why the partnerships are so important.
+
+At NewYork-Presbyterian Hospital in New York, Aurelia G. Boyer, the chief information officer, explained that the hospital was committed to helping patients manage their own health care. After an initial discussion with Microsoft, the hospital has pledged to start a pilot project to enable some kinds of patient data — E.K.G.’s, perhaps — to be automatically sent to a person’s HealthVault account.
+
+The Microsoft entry comes at a time when people are increasingly using online tools, especially searches, to find health information. Tighter curbs on medical spending and an aging population with more health concerns are expected to prompt consumers to take a larger role in managing their own care, including using online tools. But that trend has not gone very far yet.
+
+Microsoft is also moving ahead at a time when other large technology companies have hit bumps in their health initiatives.
+
+For example, the leader of Google’s health group, Adam Bosworth, left last month. The company has been developing offerings broadly similar to Microsoft’s, including personal health records stored in Google data centers and an enhanced search for health information.
+
+Advertisement Continue reading the main story
+
+The head of Cisco’s health care practice, Dr. Jeffrey Rideout, recently left to join a private equity firm, Ziegler HealthVest Management. And Dossia, a coalition led by Intel to provide employees at several large companies with personal health records, is going more slowly than planned.
+
+Photo
+
+But while some other technology companies are pulling back or slowing down in health, “Microsoft is stepping forward and finally declaring the hand it will play,” said Dr. David J. Brailer, who was the health information technology coordinator in the Bush administration. He now leads a firm that invests in medical ventures, Health Evolution Partners.
+
+At the American Heart Association, Dr. Daniel Jones, the president, said working with Microsoft was a way to accelerate his group’s efforts to curb heart disease. Microsoft is collaborating with the association on an online tool for managing blood pressure. Heart patients will be able to go to the association’s Web site, open a HealthVault account and submit their blood-pressure readings, weight and medications.
+
+At first, Dr. Jones said, consumers will probably enter the data themselves, but later they may have it sent from a doctor’s office or laboratory. Ideally, he said, patients would share the information with their doctor or nurse, who could call or send an e-mail message to warn of any disturbing changes. “The potential here is very great,” Dr. Jones said. “And we all recognize the power of Microsoft to reach millions of households.”
+
+Newsletter Sign Up Continue reading the main story Please verify you're not a robot by clicking the box. Invalid email address. Please re-enter. You must select a newsletter to subscribe to. Sign Up You agree to receive occasional updates and special offers for The New York Times's products and services. Thank you for subscribing. An error has occurred. Please try again later. View all New York Times newsletters.
+
+Microsoft has also signed up health care companies. Johnson & Johnson LifeScan, the nation’s largest producer of the glucose monitors used by many diabetes patients, plans to enable the monitors’ readouts to be uploaded to a Microsoft HealthVault account. “We see this as a potentially powerful tool in helping patients manage their diabetes,” said Tom West, president of Johnson & Johnson LifeScan.
+
+Privacy is a serious consideration and one likely to slow the spread of personal health records. But Microsoft’s privacy principles have impressed Dr. Deborah Peel, chairwoman of the Patient Privacy Rights Foundation, a nonprofit group. In terms of patient control and openness to outside audits, “Microsoft is setting an industry standard for privacy,” Dr. Peel said.
+
+Mr. Neupert of Microsoft said the key to building trust in the service would be a track record on privacy. Consumers, he noted, initially were reluctant to try online banking because of privacy worries. But today, online banking is mainstream.
+
+“It’s going to be a long journey,” Mr. Neupert said. “To make a difference in health care, it is going to take time and scale. And Microsoft has both.”

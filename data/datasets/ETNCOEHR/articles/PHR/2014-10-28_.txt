@@ -1,0 +1,29 @@
+Photo
+
+SAN FRANCISCO — The constant drumbeat of data breaches won’t cease anytime soon, according to a new report from California’s attorney general, Kamala D. Harris.
+
+There were 167 data breaches reported in California last year, an increase of 28 percent from the 131 data breaches reported the previous year. The information of more than 18.5 million California residents was compromised in 2013, a significant jump from the 2.5 million compromised records in 2012.
+
+Those numbers were skewed by two widespread breaches last year. At Target, personal records for 41 million people were compromised, and at LivingSocial, hackers gained access to 50 million records. According to the attorney general, each of these two breaches put 7.5 million California residents’ information at risk.
+
+In an interview on Tuesday, Ms. Harris said that for the first ten months of 2014, breaches are up 30 percent from 2013.
+
+“We are increasingly adopting technology that is putting our data in systems that are ripe for penetration,” Ms. Harris said. “We have not sufficiently inoculated ourselves. The bad guys have figured out where the vulnerabilities are and learned there is much to be profited and gained from exploiting them.”
+
+The majority of breaches last year — 53 percent — were intentional, and involved malware and hacking, while a smaller number, 26 percent, was attributed to the physical loss of a computer or device. The report reiterates what many already knew: There is much more information to be stolen through hacking than physical loss. The vast majority of the 17 million records compromised in California last year — 93 percent — were attributable to malware or hacking, whereas only 1.15 million records were compromised by the physical loss of an electronic device.
+
+The retail industry was the biggest target for hackers. Retail breaches affected 15.4 million records belonging to California residents — 84 percent of total records compromised. Companies in the financial services sector were the second most popular target, comprising 20 percent of all breaches, while health care companies comprised 15 percent of all reported victims.
+
+Social Security numbers were the most frequently compromised records in 2013, not surprising given that Social Security numbers fetch top dollar on the black market, selling for more than even debit card information. Security experts say this is because the amount of fraud resulting from a Social Security number is much greater than the amount of fraud that results from stolen payment information. According to the California attorney general’s report, the average amount of fraud caused by a single Social Security number is $2,330 compared with $2,026 for a debit card and $1,251 for a stolen credit card.
+
+While most companies that have lost Social Security information often offer free credit monitoring, the report found that some 29 percent of companies who could have offered free credit monitoring or identity protection services after a data breach last year chose not to.
+
+Payment card data accounted for 38 percent of data breaches in California in 2013, followed by stolen medical information, which accounted for 19 percent of stolen data.
+
+In its report, the attorney general’s office urged retailers and companies that handle personal or payment card information to move quickly to encrypt customers’ personal, medical and payment card data.
+
+The report says retailers, in particular, should devalue stolen payment card information by migrating to payment systems that use surrogate tokens, instead of the actual payment card data. By using such tokens, the attorney general’s office said, payment data stolen from one institution cannot be used to make a future payment or counterfeit a stolen credit card.
+
+The payment industry is already pushing merchants to adopt such systems and has set a soft deadline of October 2015, when new rules about fraud liability go into effect. Under the new rules, companies that have had a data breach could be held accountable for any fraudulent charges if they have not upgraded to the new system.
+
+“I think we are at an inflection point,” Ms. Harris said. “We’re starting to see that this technology that allows us to collect and keep information can be helpful, but it’s also very valuable to predators. Now, we have to protect it.”

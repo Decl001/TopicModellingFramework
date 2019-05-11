@@ -1,0 +1,29 @@
+Under the current system, individuals can request their own health records, but it is often a cumbersome process because information is scattered across several institutions.
+
+As part of a push toward greater individual control of health information, Microsoft and Google have recently begun offering Web-based personal health records. The journal article’s authors describe a new “personalized, health information economy” in which consumers tell physicians, hospitals and other providers what information to send into their personal records, stored by Microsoft or Google. It is the individual who decides with whom to share that information and under what terms.
+
+But Microsoft and Google, the authors note, are not bound by the privacy restrictions of the Health Insurance Portability and Accountability Act, or Hipaa, the main law that regulates personal data handling and patient privacy. Hipaa, enacted in 1996, did not anticipate Web-based health records systems like the ones Microsoft and Google now offer.
+
+The authors say that consumer control of personal data under the new, unregulated Web systems could open the door to all kinds of marketing and false advertising from parties eager for valuable patient information.
+
+Despite their warnings, Dr. Mandl and Dr. Kohane are enthusiastic about the potential benefits of Web-based personal health records, including a patient population of better-informed, more personally responsible health consumers.
+
+Newsletter Sign Up Continue reading the main story Please verify you're not a robot by clicking the box. Invalid email address. Please re-enter. You must select a newsletter to subscribe to. Sign Up You agree to receive occasional updates and special offers for The New York Times's products and services. Thank you for subscribing. An error has occurred. Please try again later. View all New York Times newsletters.
+
+“In very short order, a few large companies could hold larger patient databases than any clinical research center anywhere,” Dr. Mandl said in an interview.
+
+But the authors see a need for safeguards, suggesting a mixture of federal regulation — perhaps extending Hipaa to online patient record hosts — contract relationships, certification standards and consumer education programs.
+
+“I’m a great believer in patient autonomy in general, but there is going to have to be some measure of limited paternalism,” Dr. Kohane said in an interview.
+
+Advertisement Continue reading the main story
+
+Peter Neupert, the vice president in charge of Microsoft’s health group, said that he admired the authors and that they raised some important issues. But he resisted the suggestion of extending Hipaa to newcomers like Microsoft and Google.
+
+“Philosophically and politically, I am skeptical of the concept of paternalism,” Mr. Neupert said in an e-mail response to the article, which he was sent, and to the authors’ comments. “It never turns out to be ‘limited.’ ”
+
+Designing a health records system that clearly informs consumers and requires their consent for data use is the better approach, Mr. Neupert said.
+
+“We have to earn the consumer’s trust for our brand,” he said. “So I can imagine a scenario where we have a third party verify that our system works the way we assert it does,” much as an auditor reviews a company’s financial reporting.
+
+Dr. Mandl and Dr. Kohane are physicians and researchers at Children’s Hospital Boston, the primary pediatric teaching hospital of the Harvard Medical School.

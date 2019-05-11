@@ -1,0 +1,37 @@
+This type of sensitive, sometimes proprietary information was once locked up on hard drives or in file cabinets far away from anything resembling a global or even a local distribution network. Yet none of the users flocking to these services seem perturbed that they have relinquished personal control over this data to companies that, even with the best of intentions, may not be able to keep it safe.
+
+The incidence of data theft — from wallets to data breaches, computer viruses or Dumpster diving — is soaring. This year alone, the security of nearly 77 million Americans’ records has been breached, according to the Identity Theft Resource Center in San Diego, nearly a fourfold increase over 2006.
+
+Governments around the world are passing and enforcing laws that increasingly hold businesses financially accountable for avoidable data losses. Just last month, the TJX Companies, which owns T.J. Maxx, Marshalls and other retail stores, made a settlement offer, subject to court approval, to victims of a huge data breach, in which 45.7 million customers’ credit- and debit-card data was exposed to identity thieves.
+
+As a result, some security experts are starting to ask whether the “identity data-for-services” business model, which is the engine for virtually all e-commerce companies, is a fair trade — not just for consumers, but for business as well.
+
+Photo
+
+In response, they are coming up with new protocols and frameworks for collecting, using and governing identity data. Given that virtually all businesses today collect and use these kinds of data, they aim to shift the status quo in ways that could help companies both improve their reputations with customers and avoid the mounting legal liabilities that now face companies that lose control of customer data.
+
+“The myth is that companies have to know all this information about you in order to do business with you,” said Drummond Reed, vice president for infrastructure at Parity Communications, an identity technology company in Needham, Mass. “But from a liability perspective, the less I know about my customers the better.”
+
+Parity is sponsoring a number of open software projects to shift more control to the users whose identity data is at risk. One of the most intriguing is called the CloudTripper Project, which is developing a way for individuals to “take their data with them” as they traverse the Web, just as they keep their wallets and checkbooks with them as they move around in the real world.
+
+Newsletter Sign Up Continue reading the main story Please verify you're not a robot by clicking the box. Invalid email address. Please re-enter. You must select a newsletter to subscribe to. Sign Up You agree to receive occasional updates and special offers for The New York Times's products and services. Thank you for subscribing. An error has occurred. Please try again later. View all New York Times newsletters.
+
+Another project, the Identity Governance Framework, aims to help organizations comply with national and international regulations, including the Sarbanes-Oxley Act and the Health Insurance Portability and Accountability Act. It establishes a new approach for securely sharing and auditing sensitive personal information, and has been widely embraced by major enterprise software vendors as well as providers of identity technology. While such projects are helping to close security gaps that should have been addressed long ago, at least one security expert says that such efforts are trying in vain to solve a social problem with technology.
+
+Advertisement Continue reading the main story
+
+“We’re in a situation where business holds all the cards,” said Mike Neuenschwander, vice president and research director of identity and privacy strategies at the Burton Group, a technology research and advisory service based in Midvale, Utah. “Businesses put the deal in front of the consumer, they control the playing field and the consumer doesn’t have any say in how the deal plays out.”
+
+ONE way to change this, he said, is to make people more like organizations.
+
+To this end, Mr. Neuenschwander and his colleagues have floated the intriguing concept of the L.L.P.: the Limited Liability Persona. This persona would be a legally recognized virtual person in which users could “invest” the financial or identity resources of their choosing.
+
+Once their individual personas are created, consumers would be able to use them as their legal “alter ego,” even in financial transactions. “My L.L.P. would have its own mailing address, its own tax ID number, and that’s the information I’d give when I’m online,” Mr. Neuenschwander said. Other benefits include the ability for “personas” to limit their financial exposure in ways that individuals cannot.
+
+“When you enter into a relationship with a company and give them your personal information, you’re at tremendous risk — and they aren’t,” he said.
+
+“In the U.S., certain kinds of personal information aren’t treated like property at all. It’s very difficult to sue someone for misuse of personal information. And even if you do, they can never give you back your mailing address, your Social Security number or your DNA, for that matter.”
+
+But if a company loses or tampers with an L.L.P’s data, “the law allows me to sue them because it’s corporate information,” Mr. Neuenschwander said. “It’s digital-rights management,” he added, referring to the access control technologies used by publishers and other copyright holders to limit use of digital media, “only you’re acting on behalf of your own organization.”
+
+Mr. Reed of Parity agreed. “Companies use digital-rights management technology to protect their data from us,” he said. “But they’d be better off if we used it to protect our data from them.”

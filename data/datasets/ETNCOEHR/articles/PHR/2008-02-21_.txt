@@ -1,0 +1,23 @@
+For 18 months, Google has been working to come up with a product offering and a strategy in the promising field of consumer health information. Until now, the search giant hasn’t had anything to show for its labors other than bumps along the way — delays and a management change.
+
+But on Thursday, Google’s technology for personal health records, which is still in development, is getting a big endorsement from the Cleveland Clinic. The big medical center is beginning a pilot project to link the health information for some of its patients with Google personal health records.
+
+Cleveland Clinic is at the cutting edge of health information technology, and its more than 100,000 patients each has a personal health record. But a sizable portion of those patients are retirees, notes Dr. C. Martin Harris, the clinic’s chief information officer. Many of them, he said, spend about five months elsewhere, typically in Florida or Arizona, and the clinic’s sophisticated electronic health records don’t follow them there.
+
+“It forces the patient to become his or her own medical historian,” Dr. Harris said.
+
+The Google personal health record, he said, is a solution to that problem, among others. A person can approve the transfer of information on, say, medical conditions, allergies, medications and laboratory results from the clinic’s computers to a Google personal health record — a series of secure Web pages.
+
+The pilot project will last six to eight weeks, and involve less than 10,000 patients. The project with Cleveland Clinic is “a milestone” for Google, said Marissa Mayer, a vice president, who took over management of the health team six months ago.
+
+Google’s personal health record is still in development, and it will be introduced publicly and made widely available, after the pilot project is concluded, Ms. Mayer said.
+
+To be sure, Google is only one of several companies trying to make a business from Web-based personal health records. Microsoft, for example, brought out its entry, called HealthVault, last October, and it has commitments from medical centers including New York-Presbyterian Hospital and the Mayo Clinic. WebMD, Revolution Health and others also offer personal health records.
+
+While it’s still not entirely clear what Google’s personal health record will be like, its approach seems to be ambitious and comprehensive. Google has its own user interface, while Microsoft, for example, appears to be focusing on back-end storage. Google is offering automated data links, so the patient does not have to type in personal data, as is required with some personal health records. And Google, along with Microsoft, has the deep pockets and technological knowhow to offer personal health records free to millions.
+
+Other medical centers are ready to sign up. “This is truly a patient-controlled health record, and that’s a very significant step in the drive toward a more consumer-oriented system of health care,” said Dr. John D. Halamka, chief information officer of the Harvard Medical School.
+
+Dr. Halamka is also chief information officer at Beth Israel Deaconess Medical Center in Boston, which plans to link its electronic patient records with Google personal health pages. He is also a member of
+
+Google’s Health Advisory Council.

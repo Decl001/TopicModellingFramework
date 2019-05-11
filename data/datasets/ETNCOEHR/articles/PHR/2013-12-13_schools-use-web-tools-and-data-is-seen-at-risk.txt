@@ -1,0 +1,35 @@
+But some privacy specialists, industry executives and district officials say that federal education privacy rules and local district policies are not keeping up with advances like learning apps that can record a child’s every keystroke or algorithms that classify academic performance. Without explicit prohibitions on the nonacademic use of the information, specialists warn that unflattering data could hypothetically be shared with colleges or employers, to the detriment of the student.
+
+The Fordham study suggested that some districts might not fully grasp the implications of outsourcing data handling or may lack the negotiating power to insist on contracts that restrict information use.
+
+“The report raises the possibility that abuses could happen with student data if contracting practices don’t come up to snuff,” said Kathleen Styles, the chief privacy officer of the Department of Education. Although the agency had no evidence of such abuses, she said, it is developing best practices for schools to use in “contracting out for web services and for transparency with parents.”
+
+Under the Family Educational Rights and Privacy Act, schools that receive federal funding must generally obtain written permission from parents before sharing students’ educational records. An exception allows school districts to share student information with companies, like those providing student information systems, without parental consent. The exception requires school districts to have direct control over such contractors’ use of student information; if contractors misuse the data, regulators may ban districts from sharing further data with those companies.
+
+In a statement, the Software and Information Industry Association faulted the Fordham study for examining school contracts and policies, but not actual industry practices. The group said the law had created a business culture that respected student privacy.
+
+The Fordham researchers examined how schools approached student data privacy by first calling officials at a cross-section of small, medium and large school districts in different parts of the country; then they used open-records laws to request copies of each district’s Web services contracts and policies for staff technology use. Microsoft provided an unrestricted grant for the research.
+
+The study reported that districts hire online services to monitor individual student progress, analyze aggregate performances of classes and schools, host school data and manage school transportation.
+
+Advertisement Continue reading the main story
+
+Although the school systems were required to respond to the request for information, only 20 of 54 districts provided full documentation by the deadline, the study said. Researchers said they encountered “significant difficulty reaching any district personnel who were familiar with the district’s outsourcing practices.”
+
+“When you talk about transparency, the fact that we had to be persistent, I think, is a public policy problem,” Dr. Reidenberg said.
+
+Among the districts that did provide documents, less than a quarter of the contracts specified the purpose for which student information would be disclosed, the study said; and less than 7 percent restricted companies from selling student data or using it for marketing. Several districts lacked policies governing staff members’ computer use — meaning that teachers would potentially be able to sign up for free apps or sites that collected information about students without school officials vetting the programs.
+
+The study suggests that school districts have wildly varying degrees of legal expertise and resources to devote to data protection.
+
+Certainly, many districts make an effort to be vigilant. The South Orangetown Central School District in Blauvelt, N.Y., for example, is conducting an audit to examine how its contracts cover sharing or reuse of student data.
+
+“The kinds of applications, software and online resources have changed so much in such a short period of time that it’s hard for districts to keep pace,” said the district superintendent, Ken Mitchell. “There are so many questions about the data sharing between primary and secondary vendors that, until we have that fully understood, we need to slow this thing down.”
+
+The Fordham study urged that contracts specify the type of services a company provides, list the types of information collected and limit the redisclosure of students’ details. The researchers also recommended that education officials notify parents about the nature of information disclosed to third parties and post information about privacy protections on district websites.
+
+Some industry experts envision a national approach to protecting student information.
+
+Steve Mutkoski, the government policy director for Microsoft’s worldwide public sector business, recommended that the technology industry voluntarily agree not to use student data for advertising, marketing or profiling students, as his company has done for schools that use certain Microsoft software.
+
+“At a bare minimum, if that is not going to reach an industry consensus,” Mr. Mutkoski said, “there should at least be greater transparency about the use that vendors plan to make of the data.”

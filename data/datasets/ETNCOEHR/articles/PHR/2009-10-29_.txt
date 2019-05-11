@@ -1,0 +1,27 @@
+There are all sorts of obstacles to moving the nation’s health care system, choking on paper records, into the computer age. The cost and complexity of making the transition are daunting, though the government’s $19 billion in incentives for doctors and hospitals to adopt electronic health records should help.
+
+But the hoped-for benefits of digital health records — better care and curbed spending — will not really materialize unless information flows seamlessly and securely among labs, clinics, hospitals, doctors’ offices and patients. General Electric‘s big health care division is introducing on Thursday a new unit, eHealth, to pursue the business opportunity presented by this challenge.
+
+The main target for G.E.’s new business unit is in providing the technology and expertise to build regional and statewide Health Information Exchanges, as these planned data-sharing hubs are now being called. An initial $564 million grant from federal government to the states will provide seed money to get things started.
+
+Over the last two decades, there have been efforts to set up such health information-sharing networks. They were first called Community Health Information Networks and later Regional Health Information Organizations. Mostly, they failed.
+
+Hospitals and physician groups had no incentive to make the investment to share patient information, since they were not paid for doing so.
+
+But to qualify for incentive payments from the government, doctors and hospitals need to adopt electronic health records that share information across networks. “Now there is a business case for the exchange of health information,” said Vishal Wanchoo, president of G.E.’s health care information technology business. “You have no choice and you will be paid to do it.”
+
+G.E. said it was investing $90 million to get the new eHealth unit going. Its offerings include software for securely storing and sharing patient information, a Web portal that can pull patient information from various sources and present it to doctor, and a Web-based personal health record, called LifeSensor. It was built by a G.E. partner, InterComponentWare.
+
+So is G.E. going head-to-head in the emerging field of personal health records — controlled by individuals, not a doctor, hospital or insurer — with the likes of Google and Microsoft?
+
+Not really, Mr. Wanchoo said. EHealth will be an international business, and health ministries in places like Saudi Arabia and Singapore want to build digital health networks and also want personal health records to be part of those networks. Google and Microsoft, Mr. Wanchoo said, are not yet offering personal health records in many nations.
+
+“We’ve got a good product, but it’s not a primary focus for us in this country,” he said. “Our focus is on building out health information exchanges, and we view the personal health record as mainly a patient management application.”
+
+G.E. points to the Keystone Health Information Exchange that spans 31 counties in central and northeastern Pennsylvania as a success story in progress. G.E. built a health document vault that holds some patient information from many hospitals in the region.
+
+The lesson from the Pennsylvania experience, it seems, is to proceed in measured steps. Lab test results can now automatically be transferred to electronic health records, notes Jim Younkin, technology program director Geisinger Health System, a large medical group.
+
+Future features, Mr. Younkin said, will include computerized notifications to primary physicians when one of their patients has been admitted or released from a hospital, and aggregated tracking of a person’s lab and radiology tests. The payoff, he said, should be better follow-up care for patients from better-informed doctors and nurses, and fewer duplicate tests.
+
+“This is going to be a steadily evolving thing,” Mr. Younkin said. “We should be busy for many years to come.”

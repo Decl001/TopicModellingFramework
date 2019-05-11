@@ -1,0 +1,17 @@
+Starting with a few dozen supporters, including health bloggers, individual physicians, startups and Microsoft, a group is seeking to firmly inject the rights of patients into the Obama administration’s multibillion-dollar drive to computerize medical records.
+
+The group’s effort begins with a Web site, HealthDataRights.org, which goes live on Monday night. And it is a bottom-up endeavor to harness the power of social media to influence policy and practice as personal medical information begins a years-long journey from paper records into the Internet age.
+
+The early supporters all share the view that informed, motivated patients must play a much greater role in managing their own health if the policy goals of improving the quality of care and curbing costs are to be achieved. And, they add, health information technology, when used wisely, can help a lot. The endorsers include Web sites and personal health startups geared to advancing consumer-driven health care and helping patients learn about and manage their own health, including PatientsLikeMe.com, DiabetesMine.com and 23AndMe.
+
+The new Web-based push comes a week after the Obama administration published a “preamble” document outlining the goals for electronic health records and the broad criteria for their “meaningful use” to qualify for incentive payments to doctors and hospitals. The administration document declared that its “ultimate vision” is one in which “all patients are fully engaged in their health care,” while physicians and clinics have real-time access to all the medical information they need to ensure the quality and safety of care.
+
+The administration’s statement of goals is encouraging, but more needs to be done, said Adam Bosworth, the former head of Google’s health unit and founder of an online health startup, Keas, which has not yet begun operating. He is one of the people who helped orchestrate the patients rights initiative.
+
+The group’s declaration of “health data rights” states that individuals should have: the right to their own medical information; the right to know the source of each element of information; the right to take a complete copy of their health information; and the right to share their health data with others as they see fit.
+
+The government’s current law governing health information, HIPAA, for Health Insurance Portability and Accountability Act, appears to address these issues, but it does not, Mr. Bosworth said. The existing rules, he said, were forged without the digitization of personal health information in mind and tailored mainly for doctor-to-doctor communication.
+
+The health data-rights group, Mr. Bosworth said, intends to issue “badges” or “seals of approval” for health care providers that sign up for and support the patients data rights principles. And, he said, the group also wants to draw attention to providers who do not allow patients to control their own health data.
+
+“We want to use the power of the community and the bloggers to build public momentum to bring this change,” Mr. Bosworth said. “We’re finally talking seriously about changing health care in this country. And enabling patients to control their own information and take a more active role in managing their own health has to be a huge part of the solution.”

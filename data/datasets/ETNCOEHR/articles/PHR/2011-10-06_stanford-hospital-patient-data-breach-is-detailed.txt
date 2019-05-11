@@ -1,0 +1,49 @@
+Mr. Corcino, in his first public statement, attributed the breach to “a chain of mistakes which are far too easy to make when handling electronic data.”
+
+When the breach was first reported by The New York Times on Sept. 8, it was not clear how the data had made it to the Web.
+
+Breaches of private medical data have become distressingly commonplace, with two substantial ones disclosed in the last week alone.
+
+In Orlando, officials with Florida Hospital reported that three employees had improperly combed through emergency department records of 2,252 patients, apparently to forward information about accident victims to lawyers. The employees were fired, and law enforcement officials are investigating.
+
+Meanwhile, Science Applications International Corporation disclosed that computer backup tapes containing medical data for 4.9 million military patients had been stolen from an employee’s car in San Antonio. The data included Social Security numbers, clinical notes, laboratory test results and prescriptions. The company said the risk of harm was low because retrieving data from the tapes would require specialized knowledge, software and hardware.
+
+The Texas breach is by far the largest since September 2009, when a new federal law began requiring disclosures of medical privacy violations involving at least 500 people. Some 330 such episodes have been tallied, including four others that affected more than one million people each.
+
+Officials at the Department of Health and Human Services said the new reporting requirements had exposed deep vulnerabilities and encouraged renewed vigilance.
+
+Photo
+
+“We’re moving in the right direction in terms of a culture of compliance,” said Leon Rodriguez, director of the department’s Office for Civil Rights, which investigates medical privacy cases. “Are there still a lot of problems out there? Yeah, my sense is there are still a lot of problems.”
+
+Advertisement Continue reading the main story
+
+The Stanford breach was notable for the duration of public exposure, and for spotlighting the vulnerability created by a medical provider’s business relationships with outside parties.
+
+Last week, lawyers filed suit in state court in Los Angeles, seeking certification as a class action and $20 million in damages from Stanford Hospital & Clinics and Multi-Specialty Collection Services, which is known as MSCS. The threat of liability set off a predictable round of finger-pointing.
+
+Newsletter Sign Up Continue reading the main story Please verify you're not a robot by clicking the box. Invalid email address. Please re-enter. You must select a newsletter to subscribe to. Sign Up You agree to receive occasional updates and special offers for The New York Times's products and services. Thank you for subscribing. An error has occurred. Please try again later. View all New York Times newsletters.
+
+In written responses to questions, Lisa Lapin, Stanford University’s assistant vice president for university communications, said, “MSCS bears the complete and sole responsibility for the breach.”
+
+Ms. Lapin said the hospital had sent the data in encrypted form to Mr. Corcino, who requested it on behalf of MSCS to analyze a strategy for improving billing collections. She said Mr. Corcino had regularly represented himself as MSCS’s executive vice president and had been Stanford’s “primary contact” during a seven-year relationship. MSCS, a five-person firm that audits hospital accounts to maximize reimbursement, possessed the passwords to unencrypt the data, she said.
+
+“This mishandling of private patient information was in complete contravention of the law and of the requirements of MSCS’s contract and is shockingly irresponsible,” the hospital said in a statement.
+
+Ms. Sternfield, Mr. Reyna’s lawyer, said Mr. Corcino had never been an MSCS employee, but rather was paid a monthly fee to drum up business, typically in face-to-face meetings with health care executives. Mr. Reyna, she said, had no knowledge that the Stanford data had been sent to Mr. Corcino, or that he had passed it on.
+
+Mr. Corcino was not authorized to use an MSCS title, Ms. Sternfield said, but she declined to say whether Mr. Reyna was aware of the practice. She acknowledged that Mr. Corcino sometimes used an MSCS e-mail account.
+
+In his e-mail to the breach victim, who shared it with The Times, Mr. Reyna wrote that Stanford had sent the file to Mr. Corcino “for a potential MSCS project that would audit paid accounts to verify that the reimbursement was correct.”
+
+Advertisement Continue reading the main story
+
+For his part, Mr. Corcino said in a statement that he was an independent contractor but was “the marketing face of the company,” and that MSCS “allowed me to use the title of executive vice president.” He wrote: “Stanford sent the file to me at MSCS, and I imported the data into a spreadsheet that was forwarded to the job applicant as part of a skills test. I did not intend to provide any personal health information in the file. This was a marketing project.”
+
+Without explaining how or why he sent the data to the applicant, Mr. Corcino said MSCS had not trained him properly and faulted Stanford for sending him private information that he did not need. That, he said, was the “first link in a chain of mistakes.”
+
+“I regret that Stanford released a file containing unnecessary information,” Mr. Corcino said, “that MSCS did not have an appropriate training and audit system for the handling of electronic data and that I was not more careful with the file. While Stanford and MSCS left the information in the file I received, it was my mistake to not catch its inclusion and remove the data.”
+
+The hospital has terminated its relationship with MSCS, and Mr. Reyna has done the same with Mr. Corcino.
+
+Stanford Hospital has reassured affected patients that the posted spreadsheet did not contain Social Security numbers, birthdates or credit card numbers, and has offered free identity theft protection services. The hospital said it had not uncovered any misuse of the exposed data.

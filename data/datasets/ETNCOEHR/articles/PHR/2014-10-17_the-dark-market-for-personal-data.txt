@@ -1,0 +1,25 @@
+Second, even when the information is accurate, many of the lists have no business being in the hands of retailers, bosses or banks. Having a medical condition, or having been a victim of a crime, is simply not relevant to most employment or credit decisions.
+
+Third, people aren’t told they are on these lists, so they have no opportunity to correct bad information. The Arkansas woman found out about the inaccurate report only when she was denied a job. She was one of the rare ones.
+
+“Data-driven” hiring practices are under increasing scrutiny, because the data may be a proxy for race, class or disability. For example, in 2011, CVS settled a charge of disability discrimination after a job applicant challenged a personality test that probed mental health issues. But if an employer were to secretly use lists based on inferences about mental health, it would be nearly impossible for an affected applicant to find out what was going on. Secrecy is discrimination’s best friend: Unknown unfairness can never be detected, let alone corrected.
+
+Advertisement Continue reading the main story
+
+These problems can’t be solved with existing law. The Federal Trade Commission has strained to understand personal data markets — a $156-billion-a-year industry — and it can’t find out where the data brokers get their information, and whom they sell it to. Hiding behind a veil of trade secrecy, most refuse to divulge this vital information.
+
+Newsletter Sign Up Continue reading the main story Please verify you're not a robot by clicking the box. Invalid email address. Please re-enter. You must select a newsletter to subscribe to. Sign Up You agree to receive occasional updates and special offers for The New York Times's products and services. Thank you for subscribing. An error has occurred. Please try again later. View all New York Times newsletters.
+
+The market in personal information offers little incentive for accuracy; it matters little to list-buyers whether every entry is accurate — they need only a certain threshold percentage of “hits” to improve their targeting. But to individuals wrongly included on derogatory lists, the harm to their reputation is great.
+
+The World Privacy Forum, a research and advocacy organization, estimates that there are about 4,000 data brokers. They range from giants like Acxiom, a publicly traded company that helps marketers target consumer segments, to boutiques like Paramount Lists, which has compiled lists of addicts and debtors. Companies like these vacuum up data from just about any source imaginable: consumer health websites, payday lenders, online surveys, warranty registrations, Internet sweepstakes, loyalty-card data from retailers, charities’ donor lists, magazine subscription lists, and information from public records.
+
+It’s unrealistic to expect individuals to inquire, broker by broker, about their files. Instead, we need to require brokers to make targeted disclosures to consumers. Uncovering problems in Big Data (or decision models based on that data) should not be a burden we expect individuals to solve on their own.
+
+Privacy protections in other areas of the law can and should be extended to cover consumer data. The Health Insurance Portability and Accountability Act, or Hipaa, obliges doctors and hospitals to give patients access to their records. The Fair Credit Reporting Act gives loan and job applicants, among others, a right to access, correct and annotate files maintained by credit reporting agencies.
+
+It is time to modernize these laws by applying them to all companies that peddle sensitive personal information. If the laws cover only a narrow range of entities, they may as well be dead letters. For example, protections in Hipaa don’t govern the “health profiles” that are compiled and traded by data brokers, which can learn a great deal about our health even without access to medical records.
+
+Congress should require data brokers to register with the Federal Trade Commission, and allow individuals to request immediate notification once they have been placed on lists that contain sensitive data. Reputable data brokers will want to respond to good-faith complaints, to make their lists more accurate. Plaintiffs’ lawyers could use defamation law to hold recalcitrant firms accountable.
+
+We need regulation to help consumers recognize the perils of the new information landscape without being overwhelmed with data. The right to be notified about the use of one’s data and the right to challenge and correct errors is fundamental. Without these protections, we’ll continue to be judged by a big-data Star Chamber of unaccountable decision makers using questionable sources.

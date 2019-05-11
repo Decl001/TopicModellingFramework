@@ -1,0 +1,17 @@
+Photo
+
+Last year was a record-setting one for the state of New York — and not in a good way.
+
+Public and private institutions in New York experienced more than 900 data breaches in 2013, according to a report released by the state attorney general on Tuesday. Those breaches exposed the personal and financial records of 7.3 million New Yorkers.
+
+The report, which showed the effects of data security intrusions on New Yorkers over the past eight years, said computer hackers were by far the leading cause of the breaches, accounting for nearly 40 percent of unauthorized data access during that time.
+
+In 2013 alone, the breaches cost the public and private sectors more than $1.37 billion, the report said. Losses were calculated by assuming that a data breach costs an affiliated company approximately $188 for each person whose data was compromised, a figure published in a 2013 report by the security company Symantec and the Ponemon Institute, which researches information security.
+
+“What’s truly shocking about this report, beyond the fact that hacking is now the greatest threat to our personal information and costs us billions of dollars, is that many of these breaches could have been prevented,” Eric T. Schneiderman, the New York attorney general, said in a statement. “If millions of New Yorkers were exposed, one can only imagine how many have been compromised across the nation.”
+
+The report comes after an increase in the number of digital attacks on public and private institutions in recent years; in mid-March, Chinese hackers infiltrated United States government systems to obtain information on federal employees, officials said. And in 2011, Sony‘s popular PlayStation Network for gamers was repeatedly the target of hackers, exposing the names, email addresses and user names of millions of customers.
+
+In 2013, intrusions in New York were largely driven by two high-profile hacks, the report said: the huge breach at Target, in which millions of credit card numbers, addresses and phone numbers were stolen, as well as an attack on LivingSocial, a site for deals and discounts.
+
+The report said that other businesses, of all sizes, also had experienced data breaches, including those in the financial and health services industries.

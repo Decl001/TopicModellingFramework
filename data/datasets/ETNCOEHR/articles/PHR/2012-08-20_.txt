@@ -1,0 +1,57 @@
+Photo
+
+Personal Health Jane Brody on health and aging.
+
+Radiation, like alcohol, is a double-edged sword. It has indisputable medical advantages: Radiation can reveal hidden problems, from broken bones and lung lesions to heart defects and tumors. And it can be used to treat and sometimes cure certain cancers.
+
+But it also has a potentially serious medical downside: the ability to damage DNA and, 10 to 20 years later, to cause cancer. CT scans alone, which deliver 100 to 500 times the radiation associated with an ordinary X-ray and now provide three-fourths of Americans’ radiation exposure, are believed to account for 1.5 percent of all cancers that occur in the United States.
+
+Recognition of this hazard and alarm over recent increases in radiological imaging have prompted numerous experts, including some radiologists, to call for more careful consideration before ordering tests that involve radiation.
+
+“All imaging has increased, but CTs account for the bulk of it,” said Dr. Rebecca Smith-Bindman, a specialist in radiology and biomedical imaging at the University of California, San Francisco. “There’s clearly widespread overuse. More than 10 percent of patients each year are receiving very high radiation exposures.”
+
+The trick to using medical radiation appropriately, experts say, is to balance the potential risks against known benefits. But despite the astronomical rise in recent years in the use of radiation to obtain medical images, this balancing act is too often ignored. The consequences include unnecessary medical costs and risks to the future health of patients.
+
+Both doctors and patients have a responsibility to better understand the benefits and risks and to consider them carefully before doctors order and patients undergo a radiation-based procedure.
+
+Patients may be surprised to learn that some of the newest uses of radiological imaging, including CT scans of coronary arteries to look for calcium buildup, have not yet been shown in scientifically designed clinical trials to lead to better outcomes than tests that do not involve radiation exposure, and thus their true benefits are at best a guess. Experts have estimated that widespread use of coronary artery scans, which deliver 50 to 150 times the radiation of a chest X-ray, could result in 42 additional cases of cancer for every 100,000 men who have the procedure, and 62 cases for every 100,000 women who do.
+
+For every 1,000 people undergoing a cardiac CT scan, the radiation adds one extra case of cancer to the 420 that would normally occur. This risk may seem inconsequential, but not to someone who gets a cancer that could have been prevented.
+
+Complicating the matter is the enormous variation — sometimes tenfold or more — in the amounts of radiation to which patients are exposed from the same procedure at different institutions, or even at the same institution at different times.
+
+Although the cancer-causing effects of radiation are cumulative, no one keeps track of how much radiation patients have already been exposed to when a new imaging exam is ordered. Even when patients are asked about earlier exams, the goal is nearly always to compare new findings with old ones, not to estimate the risks of additional radiation.
+
+As Dr. Michael S. Lauer of the National Heart, Lung and Blood Institute wrote in The New England Journal of Medicine three years ago, “The issue of radiation exposure is unlikely to come up because each procedure is considered in isolation, the risks posed by each procedure are low and seemingly unmeasurable, and any radiation-induced cancer won’t appear for years and cannot easily be linked to past imaging procedures.”
+
+After an extensive review of the environmental causes and risk factors for breast cancer, the Institute of Medicine reported last year that sufficient evidence of risk was found only for combined hormone therapy used by postmenopausal women and exposure to ionizing radiation, at doses much higher than those received during a mammogram.
+
+Everyone is exposed to a certain amount of background radiation — about three millisieverts a year from cosmic rays, radon gas and the earth’s radioactive elements. By 1980, according to The Harvard Health Letter, various introduced sources, like medical tests, nuclear power plants, nuclear fallout, television sets, computer monitors, smoke detectors and airport security scanners, added another 0.5 millisieverts per year.
+
+Now, however, the amount of radiation used medically rivals that of the background radiation, adding three millisieverts each year to the average person’s exposure. (A mammogram involves 0.7 millisieverts, a dose that is doubled with a 3-D mammogram.)
+
+There are many reasons for this increase. Doctors in private practice who have bought imaging equipment tend to use it liberally to recoup the expense. The same goes for hospitals just a few miles apart that needlessly duplicate certain equipment so they can boast of having the latest and greatest capacity to detect disease. Doctors ordering tests suffer no adverse effects, and patients feel they are getting the most that modern medicine can offer.
+
+Dr. Lauer wrote in a commentary about cardiac tests, “Most physicians who order imaging tests experience no consequences for incurring costs for procedures of unproven value. On the contrary, they or their colleagues are paid for their services, and their patients don’t complain because the costs are covered by third parties. Patients are pleased to receive thorough evaluations that involve the best cutting-edge technologies.”
+
+According to a new study, the rise in medical imaging clearly goes beyond financial motives. Dr. Smith-Bindman and her colleagues reported in June in The Journal of the American Medical Association that a dramatic rise in imaging rates from 1996 to 2010, including a tripling of CT scans, occurred in six large prepaid health systems where the financial incentive ought to have encouraged fewer, not more, tests. The increased testing doubled the proportion of patients who received high or very high radiation exposures.
+
+By 2010, the researchers reported, 20 CT scans were performed for every 100 adult patients; for every 100 patients ages 65 to 75, about 35 CT scans were done. And among the 10 to 20 percent of children in the study who underwent a single CT scan of the head, radiation doses were in the range previously shown to triple the risk of later developing brain cancer or leukemia.
+
+Dr. Smith-Bindman urged patients to participate in the decision to undergo medical imaging. She said, “Patients should ask, ‘What is this test for? Do I need it? Why? Do I need it now?’ ”
+
+Legislation can help curtail, or at least monitor, radiation doses, she said, citing a California law that took effect in July requiring that the dose used for CT scans be recorded in every patient’s medical record and that inadvertent overdoses be reported to the state immediately.
+
+If such recording were to become a national mandate, electronic medical records could help doctors and patients keep track of radiation exposures and provide further incentive to avoid unnecessary imaging.
+
+Photo
+
+Sidebar: Limiting the Fallout of Cancer Treatment
+
+Radiation therapy to treat cancer depends on much higher doses than are used in imaging, and these treatments have long been known to increase a patient’s risk of later developing another cancer. Doctors consider this risk of radiation therapy reasonable when the goal is to prevent death from the original cancer.
+
+Last year in a report in The Lancet Oncology researchers from the National Cancer Institute and M.D. Anderson Cancer Center in Houston reported that among 647,672 adult cancer patients treated five or more years earlier, about one half of 1 percent developed a second cancer years later related to radiation treatment of the first cancer. More than half of the second cancers occurred in survivors of breast and prostate cancers.
+
+As expected, the risk of developing a second cancer was highest among those originally treated at younger ages and most often involved organs exposed to the highest doses of radiation.
+
+In recent years, radiologists have taken great pains to limit radiation exposure to nontarget organs — for example, by using a cone beam when treating breast cancer — which should reduce the risk of radiation-induced second cancers.

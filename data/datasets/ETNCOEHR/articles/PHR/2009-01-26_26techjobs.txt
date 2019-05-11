@@ -1,0 +1,51 @@
+During the campaign and afterward, Mr. Obama has championed policies to promote electronic health records, better broadband networks and power grids that use computers and sensors to fine-tune electricity use.
+
+But the standard for including any initiative in the economic recovery plan is that it be “timely, targeted and temporary,” while also creating jobs, Mr. Levin said recently in an address to the Congressional Internet Caucus, an advisory group. Not every investment in these technology fields, he said, fits those criteria.
+
+The technology industry is not typically viewed as a prolific job producer. Much of its manufacturing is highly automated. But bringing technology to services fields like health care, telecommunications and energy can be labor intensive and thus generate jobs.
+
+At the top of the jobs pyramid, the design of new technology is done by scientists and engineers with advanced degrees. The installing, tweaking and maintaining of that technology in specific industries involve a far broader base of workers with a range of training, skills and education.
+
+“There is a huge implementation phase to the adoption and use of these kinds of technologies locally,” said John Irons, an economist and research director at the labor-oriented Economic Policy Institute in Washington. “The jobs involved do tend to span the spectrum of skills and income levels. And they are not going to be outsourced offshore.”
+
+The job-generation estimate by the Information Technology and Innovation Foundation translates into more than 30,000 jobs created for each $1 billion of government investment — roughly similar to projections for public works spending.
+
+But proponents of spending on digital infrastructure say the beneficial spillover effects are greater than for conventional public works. The high-tech investments, they say, can be the contemporary equivalent of federal financing for highways in the 1950s, which fostered the growth of businesses like automakers and national retail chains.
+
+Advertisement Continue reading the main story
+
+For years, technology policy in the United States has focused mainly on broad measures like federal spending on basic research and tax credits for private investment in research and development. Mr. Obama has vowed to increase spending on basic research and make R.& D. tax credits permanent.
+
+But the administration’s plan for large programs tailored to specific industries is a departure. How investments and incentives are structured, experts say, will be crucial to companies, consumers and taxpayers.
+
+The danger of such an approach, some economists warn, is that industry-specific government programs can tilt markets to the advantage of some companies and disadvantage of others, putting Washington on the path of picking winners and losers.
+
+Newsletter Sign Up Continue reading the main story Please verify you're not a robot by clicking the box. Invalid email address. Please re-enter. You must select a newsletter to subscribe to. Sign Up You agree to receive occasional updates and special offers for The New York Times's products and services. Thank you for subscribing. An error has occurred. Please try again later. View all New York Times newsletters.
+
+The other criticism is that, while these projects may be worthy for the long term, they should not be part of a short-term economic recovery plan.
+
+All three fields, said Robert E. Hall, an economist at Stanford, involve “a bunch of specialists, where if we raised spending quickly, the limited number of competent suppliers would be in short supply and get increased incomes,” benefiting some companies more than the economy as a whole.
+
+“We should not pour government money into these areas,” said Mr. Hall, who is a senior fellow at the Hoover Institution, a conservative research group.
+
+The issues surrounding electronic health records illustrate the policy challenges of targeted programs. Mr. Obama has advocated spending $50 billion over five years to accelerate the use of such records and the sharing of health information across a national network.
+
+The computerized records, when used properly, are an indispensable tool for measuring, tracking and improving patient care — yet only about 17 percent of the nation’s doctors are using them. They are commonplace at large medical groups, but 75 percent of doctors practice in small offices of 10 physicians or fewer.
+
+Doctors often benefit from inefficiency, because the dominant fee-for-service payment system means they are paid for doing more — more doctor visits, tests, surgical procedures, pills.
+
+Advertisement Continue reading the main story
+
+“Paying to put computer hardware and software in physicians’ offices isn’t going to do anything unless you change the incentives in the system,” said Dr. David J. Brailer, former national health information technology coordinator in the Bush administration.
+
+There are some experiments with a pay-for-performance approach, in which Medicare gives medical groups bonus payments for meeting certain benchmarks of quality care. Monitoring that performance requires electronic health records. Yet to date, these have been isolated tests.
+
+“You want to pay for achievement — better health quality and efficiency,” said Dr. David Blumenthal, director of the Institute for Health Policy at the Harvard Medical School, who advised the Obama campaign. “But in the transition period, before financial incentives are reformed, you need to provide incentives or grants to use electronic health records because this technology is sort of the opening wedge to reform.”
+
+Those eligible for grants to buy technology, a member of the Obama transition team said, will include inner-city and rural hospitals and small doctor practices. But most money, he said, will go to incentive payments to improve quality and safety of care.
+
+Still, creating effective programs to accelerate the use of health information to improve care will be difficult. And the move toward a national health information network, where patient data is more widely shared among providers and insurers, must include strong safeguards to address concerns about the privacy of personal health information, if Congress is to approve the proposed financing.
+
+Some health experts say a shortage of skilled people is a bottleneck in any rapid push toward electronic records.
+
+In suburban Philadelphia, Greg Beese is head of the Logic Group, a 15-person technology support firm, whose clients include 15 doctors’ offices. He says he looks forward to an acceleration of the use of electronic health records. A person with solid technology skills, he said, can master the health care knowledge in a couple of months on the job. “It’s not like we’d have to send them back to school for two years.”

@@ -1,0 +1,47 @@
+“We do not have the capability to look up an individual’s data in the system,” Ms. Barrett Glasgow said. “We don’t have a search-by-name capability.”
+
+Data brokers like Acxiom have developed advanced techniques to collect and collate information about consumers’ offline, online and mobile behavior. But they have been slow to develop innovative ways for consumers to gain access to the information that companies obtain, share and sell about them for marketing purposes.
+
+Now federal regulators are pressuring data brokers to operate more transparently. In a report earlier this year, the Federal Trade Commission recommended that the industry set up a public Web portal that would display the names and contact information of data brokers, as well as describe consumers’ data access rights and other choices.
+
+Julie Brill, a member of the Federal Trade Commission, said consumers should have access to all the details that data brokers collect on them, as well as any analyses that the companies sell about their behavior.
+
+“I include in that not just the raw data, but also how that information has been analyzed to place the consumer into certain categories for marketing or other purposes,” she said. “I believe that giving consumers this kind of granularity will greatly increase consumer trust in the information flow process and will lead to more accurate marketing.”
+
+At the moment, however, information brokers have wildly different policies. Acxiom lets people opt out of its marketing databases, while Epsilon, another marketing services firm, allows people to opt out of having their data rented to third parties. Epsilon says it will also furnish individuals, upon request, with general information about their past retail transactions — including the categories and years of purchase. But it does not include exact product or retailer names.
+
+Photo
+
+Andrew Frawley, the president of Epsilon, says his company has set up a task force to explore giving consumers greater access and choices.
+
+Advertisement Continue reading the main story
+
+“We agree in principle that more transparency is better,” he said.
+
+But setting up a system for consumers to gain access to their own marketing data could be costly and technically challenging for data brokers, said Stuart Madnick, a professor of information technology at the Massachusetts Institute of Technology. Companies would have to develop security systems to verify a consumer’s identity and to ensure that no one else could have access to that individual’s record, he said. At the same time, they would have to be prepared to respond to people who questioned the accuracy of the records.
+
+Newsletter Sign Up Continue reading the main story Please verify you're not a robot by clicking the box. Invalid email address. Please re-enter. You must select a newsletter to subscribe to. Sign Up You agree to receive occasional updates and special offers for The New York Times's products and services. Thank you for subscribing. An error has occurred. Please try again later. View all New York Times newsletters.
+
+“How correct is the information they have and are disseminating on you?” Professor Madnick asked. “How do they know who is asking for it?”
+
+Information security experts said data brokers might be reluctant to make public access easier lest consumers react by wanting to opt out of the data collection process altogether.
+
+In early May, when I first looked at Acxiom’s Web site, the online request form that required consumers to submit their Social Security numbers and other sensitive personal information was not encrypted. (Ms. Barrett Glasgow said the company quickly identified and fixed a broken link that had caused the problem.) After I submitted my application, I didn’t hear back from the company for several weeks. Subsequently, I left a voice mail message on Acxiom’s consumer hot line. Nobody called back.
+
+“It sounds like this form was not a high priority for them,” said Richard M. Smith, the founder of Boston Software Forensics, a consulting firm, and an expert on Internet security. Requiring consumers to mail in a personal check as part of the verification process, he added, seemed old-fashioned and cumbersome. “It’s so last century. Why are you making it so inconvenient?”
+
+After I reported in the article last month that Acxiom had not responded to my data request, a company representative e-mailed me to verify that I was indeed the person who had requested her file. Then Acxiom e-mailed me an encrypted report containing a list of my previous residential addresses.
+
+Several days later, Ms. Barrett Glasgow called to explain the delay in processing: Acxiom receives, on average, fewer than 100 requests a year from consumers, she said, and my check had “ended up on someone’s desk that was on vacation.” She said she would look into why company representatives hadn’t returned my voice mail message.
+
+“We’ll try to take some action to improve and clean up the program,” she said. “We don’t want to make it hard to do, risky to do, or leave a bad impression in the individual’s mind.”
+
+BUT I still wanted to know the financial, retail, travel, health and hobby details that Acxiom might have collected about me. So I e-mailed Ms. Barrett Glasgow last month, asking to see at least some of my data and to find out the socioeconomic category in which Acxiom had placed me.
+
+Ms. Barrett Glasgow was on vacation last week and could not be reached for comment.
+
+Commissioner Brill of the F.T.C. said she could not comment on specific companies. But she said the reluctance of the data broker industry to show consumers their own records reminded her of an earlier era, when consumer reporting agencies — companies that track and sell information about people’s credit histories — protested that it would be too expensive and time-consuming for them to show individuals the same reports that creditors could see. In 1996, Congress updated the Fair Credit Reporting Act of 1970, giving people greater access to the files that those agencies held about them. Today, consumers can easily gain access to their credit reports online.
+
+Advertisement Continue reading the main story
+
+“What the credit reporting industry did was change their point of view from client-oriented to consumer-oriented, and develop the tools and technology to allow consumers to see what’s in their reports and ensure it is accurate,” Ms. Brill said. “The data broker industry could do the exact same thing.”

@@ -1,0 +1,23 @@
+Janlori Goldman, the director of the Health Privacy Center, a nonprofit organization in Washington, said the error was “an egregious breach of privacy.” She said that insurance companies were responsible under a federal privacy law for ensuring that their contractors use adequate security procedures.
+
+Ms. Greiner said that the subcontractor, Health Data Management Services, worked for Magellan, not Empire. “If any contract was breached, we are going to take direct action,” she said.
+
+She said that it was not yet known whether the disc had been lost or stolen. “We are still working with the venders and U.P.S. to find the compact disc,” Ms. Greiner said. “We have no evidence that it was stolen or that members security has been breached.”
+
+Newsletter Sign Up Continue reading the main story Please verify you're not a robot by clicking the box. Invalid email address. Please re-enter. You must select a newsletter to subscribe to. Sign Up You agree to receive occasional updates and special offers for The New York Times's products and services. Thank you for subscribing. An error has occurred. Please try again later. View all New York Times newsletters.
+
+The loss, which was first reported to WellPoint’s Empire unit on Feb. 9, was the second breach of security involving WellPoint member information in recent months.
+
+In October, WellPoint learned that electronic backup tapes with information on 196,000 WellPoint members had been stolen from a data processor in Massachusetts operated by Concentra, a national data warehouse company.
+
+Most of the 196,000 people in that case were Anthem Blue Cross and Blue Shield members in Kentucky, Indiana, Ohio and Virginia, according to WellPoint. Ms. Greiner said that data on Empire members had not been involved in the October theft, which has not been solved.
+
+After a preliminary investigation to identify the members, Empire began notifying their New York employers last Saturday. Some companies relayed the information to all their employees, because they are not supposed to know who among their workers may be monitored by the behavioral services company.
+
+Empire said that the members who had data on the disc should have received letters by the end of this week. The letters will include information on how to contact Equifax. (Empire members who want to know sooner whether their data was lost can call toll free 1-800-293-3443, between 8 a.m. and 7 p.m. Eastern Daylight Time.)
+
+Magellan, for its part, said it was changing its procedures to eliminate sending information on compact discs by U.P.S., said Erin Somers, a Magellan spokeswoman. The data loss was “the result of an error in judgment on both sides, by Magellan and Health Data Management Solutions,” she said.
+
+Advertisement Continue reading the main story
+
+“As part of our process of ensuring this does not happen again,” Ms. Somers said, the companies have adopted “a procedure to transmit this information electronically through a secure network, eliminating the CD and using a delivery service.”

@@ -1,0 +1,41 @@
+Photo
+
+Sometimes, before I interview new patients, while I’m waiting for them to be transported from the emergency department to the medical floor, I play a game.
+
+I look through their lab tests. I peruse their imaging studies. I read other doctors’ notes and recent discharge summaries. Then I guess what the diagnosis is.
+
+I know this is bad. It goes against most of what I learned about good doctoring in medical school — that the patient’s story is the core of medicine, that it’s essential for accurate diagnoses and therapeutic relationships.
+
+It can also be dangerous. When I interview patients, I often find their medical charts are littered with inaccuracies. It’s one reason “read it in my chart” isn’t a good way for patients to communicate health information — or for doctors to learn it.
+
+“I noticed you’re scheduled for surgery next week,” I say to one patient.
+
+“I had that surgery three months ago,” he responds.
+
+“So you don’t have diabetes?” I ask another, perplexed. I see “diabetes” clearly indicated in her chart.
+
+“No! Why does everyone keep asking me that?” she exclaims, exasperated.
+
+When I read a patient’s electronic health record, I now assume what’s written there is as likely to be wrong or outdated as it is to be accurate. Sometimes these discrepancies are minor and inconsequential; sometimes they can be devastating. And unlike what happens in Vegas, what’s written in your medical record often stays with you forever.
+
+One study found that there’s complete agreement between medications listed in the electronic health record and what patients actually take only in about 5 percent of patients. Another study found that 43 percent of medications listed in the electronic health record were inaccurate — with 29 percent having been stopped and 14 percent changed. Many allergies and adverse drug reactions aren’t recorded. Research from the Veterans Health Administration found that 60 percent of patient records had at least one error. From 2013 to 2014, the percentage of lawsuits related to electronic health record issues doubled and is expected to rise.
+
+The ease with which doctors can copy and paste the information in a medical record can be one source of error — as well as a potent source of “note bloat”: notes so filled with extraneous information that you have to scroll through pages and pages of nonsense to find anything useful. Almost all doctors use the copy-paste function when writing notes, and by some estimates between half and three-quarters of daily notes are copied text. There are advantages: Forwarding text for stable patients can be safe and efficient — and a majority of doctors believe it doesn’t hurt patients. But, if not done carefully, it can perpetuate false or outdated material.
+
+Another problem is that large amounts of patient information are now automatically imported into patient notes. Cognitively, it’s a very different experience searching for, confirming and personally recording aspects of a patient’s history than it is reviewing what’s auto-populated into your note. In some cases, one can “write” an entire note simply by clicking a few boxes to indicate the duration and frequency of a patient’s symptoms — essentially the same way you fill in a Mad Libs template
+
+What can get lost in all this is the patient’s story.
+
+Eliciting, distilling and communicating an account of what’s happened in a person’s life are skills that are vital for all doctors, but especially for doctors in training still learning to care for patients. Gathering and sharing a patient’s story offers the fullest sense of who a patient is as a human being, why he might have received this treatment, for example, and not that one, and what the best course of action might be going forward. We now spend two hours a day reporting quality measures, but what needs to be mandatory in the age of digitalization is the art of story gathering and storytelling.
+
+One solution may be to encourage more patients to read their medical records. Doctors may be motivated to write more thoughtful and accurate notes if they know their patients will be reading them. While patients have had the right to access their medical records since 1996, when the Health Insurance Portability and Accountability Act was enacted, and the right to electronic copies since 2009, most patients never see their charts.
+
+Research suggests that only about 40 percent of patients are offered online access to their medical records. Of those given access, only half choose to view them — but 80 percent of those who do find it useful. A quarter of patients remain unaware of their right to an electronic copy of their medical records. But patients who frequently access their medical records may be more motivated to take control of their health — and in a better position to correct outdated or erroneous information.
+
+The federal government recently released guidelines making it easier for patients to access their records, requiring hospitals to provide electronic copies within 30 days of a request and prohibiting them from asking patients to state a reason for their requests. The government’s Blue Button Initiative also aims to empower patients, allowing them to directly download personal health data in an easy-to-read format.
+
+The push to digitize health care has its upsides. But what’s too easily forgotten is the patient’s story, a coherent narrative of who a person is and what he or she has been through. As medicine continues to modernize, we can’t afford to lose this ancient art.
+
+Photo
+
+Dhruv Khullar, M.D., M.P.P. is a resident physician at Massachusetts General Hospital and Harvard Medical School. Follow him on Twitter: @DhruvKhullar.

@@ -1,0 +1,27 @@
+Senator Daniel K. Akaka, Democrat of Hawaii, who requested the investigation, said it showed that “the Bush administration is not doing enough to protect the privacy of confidential health information.” As a result, Mr. Akaka said, “more and more companies, health care providers and carriers are moving forward with health information technology without the necessary protections.”
+
+In written comments on the report, Jim Nicholson, the secretary of veterans affairs, who supervises one of the nation’s largest health care systems, said, “I concur with the G.A.O. findings.”
+
+But Dr. Robert M. Kolodner, who coordinates work on information technology at the Department of Health and Human Services, disputed the findings. Dr. Kolodner said his department was “very committed to privacy and security as it works toward the president’s goal” of switching medical records from paper to electronic files.
+
+Mark A. Rothstein, the chairman of a panel that advises the government on health information policy, essentially agreed with the accountability office. “Health privacy has not received adequate attention at the Department of Health and Human Services,” said Mr. Rothstein, a professor of law and medical ethics at the University of Louisville School of Medicine. “A sense of urgency is lacking.”
+
+Mr. Rothstein said “time is of the essence” because “the private sector is racing ahead” to establish medical record banks and health information exchanges. In December, he noted, Wal-Mart, Intel and other companies announced they were creating a huge database that could store the personal health records of more than 2.5 million employees and retirees. The companies promised they would have “stringent privacy policies and procedures.”
+
+Mr. Rothstein said Congress should not provide more money for a nationwide health information network unless the administration did more to protect the privacy of electronic medical records.
+
+Dr. William A. Yasnoff, a physician and computer scientist who worked at the Department of Health and Human Services from 2002 to 2005, said he too had found that “the department does not have a comprehensive approach to privacy.”
+
+Advertisement Continue reading the main story
+
+Explaining why he saw a need for stronger privacy protections in the digital age, Dr. Yasnoff said: “Anything you do to make information more accessible for good, laudable purposes will simultaneously make it more accessible for evil, nefarious purposes. People intuitively understand that, and they are worried.”
+
+The accountability office said doubts about privacy could slow the adoption and use of electronic medical records. Professor Rothstein offered a similar prediction, saying: “If privacy protections are not built into the network, people will not trust it. They won’t participate, or they will opt out if they are allowed to.”
+
+Legislation to encourage the use of health information technology has broad bipartisan support but died in Congress last year, partly because of disagreements over privacy protections.
+
+Under Mr. Bush’s proposal, lawmakers said, it is not clear how much control people would have over their electronic medical records.
+
+Several members of Congress have drafted legislation to clarify consumers’ control over such data. One proposal, by Senator Sam Brownback of Kansas and Representative Paul D. Ryan of Wisconsin, both Republicans, would establish health data banks in which people could store electronic copies of their medical records. Under the bill, a consumer would “maintain ownership over the entire health record” and could control access to it.
+
+By contrast, under existing federal rules, hospitals and other health care providers generally do not have to obtain a patient’s consent to use or disclose information for “treatment, payment or health care operations.”

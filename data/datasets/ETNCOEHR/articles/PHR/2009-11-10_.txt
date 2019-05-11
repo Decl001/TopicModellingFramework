@@ -1,0 +1,25 @@
+Intel’s push into the health care arena has the company going some unusual places.
+
+On Tuesday, the chip maker unveiled the Intel Reader, a handheld device for people who struggle to read standard texts because of conditions like dyslexia and blindness. The Intel Reader can scan books and other printed material, turn the text into a digital form and read it aloud. Intel looks to sell the device through resellers like HumanWare and Howard Technology Solutions that cater to the assistive technology and medical technology markets.
+
+In the mainstream computer market, Intel will sometimes make prototypes that show off the power of its chips. The company, however, has resisted bringing such products to market and always steps aside to let its PC-making customers go directly after end users. But, in the health care market, Intel has opted to sell its own gear.
+
+The device costs about $1,500, which may sound pricey for a fixed-function type of computing device. But, as I pointed out in an article in September, many of the text-to-speech products covered by Medicare and health insurance companies start at $5,000 and run up to $10,000. The high cost of such products, along with their limited functions, has resulted in people with a variety of conditions adding cheap text-to-speech software to iPhones and netbooks to create their own assistive devices.
+
+“The direct sales of products is part of our strategy in the health area,” said Ben Foss, the director of access technology in Intel’s Digital Health Group. “These markets are large and going after them is important. We are trying to get economies of scale.”
+
+For Mr. Foss, the Intel Reader arrives with a personal twist. Mr. Foss has dyslexia and went through special education classes in elementary school. In college, Mr. Foss would fax his assignments home so his mother could read them out loud to him on the phone.
+
+“My speech technology was my mom,” he said.
+
+The Intel Reader has a five-megapixel camera that lets people point the device at reading material and capture the text. Software helps align pages correctly and fix things like shadows or curved pages. In addition, Intel is selling a complementary scanning station product that can digitize text and transfer the information over to the Intel Reader.
+
+At its core, the Intel Reader runs on Intel’s own modified version of Linux called Moblin, although general-purpose computing functions have been limited. For example, the computer lacks wireless support. “We didn’t put it in because we didn’t want students surfing the Internet,” Mr. Foss said.
+
+As things stand today, health insurers decline to cover general-purpose computing systems. Instead, they will cover the $5,000 to $10,000 products that can only perform text-to-speech functions. In some cases, people use their health insurance money to buy such text-to-speech devices and then pay about $50 later to “activate” the products and turn them into full-fledged computers.
+
+“The product definitions the government and insurers use are a bit peculiar,” Mr. Foss said.
+
+Interestingly, Mr. Foss said that Great Britain has a more flexible program in place that gives students a 5000-pound grant to buy whatever assistive technology they need before heading to university.
+
+Intel looks to make a variety of devices for the health care market as it tries to find more uses for its chips. The company has been going after products that make it easier for doctors and nurses to pull up digital records along with talking up home health products that can perform certain tests and link patients remotely with their doctors.

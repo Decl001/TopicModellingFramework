@@ -1,0 +1,25 @@
+To ensure that the patterns the system found could be used to predict actual suicide risk, researchers created the algorithm using data from half of the patient population from 2008 to 2011, then tested it on the other half from the same period, said a lead researcher, Robert Bossarte, the director of epidemiology in the V.A.’s Office of Public Health. Predictions for the test population lined up with the actual suicide rates, he said.
+
+The health care field is increasingly using sophisticated algorithms to predict medical outcomes, and the Army already employs a similar database to monitor active-duty suicides, but this is the first time predictive risk has been used to look at veteran suicides on a large scale.
+
+Video
+
+Dr. John Curry, a psychologist who is a professor in the Duke University School of Medicine psychiatry department, said the V.A. database would be useful, and that it appeared to pinpoint more people at risk of suicides “than identified by clinical variables alone.”
+
+He said one challenge would be persuading patients to follow a suicide prevention plan based on how a database assesses their personal risk. “You’d have to work with the patient to accept it,” he said.
+
+The database found that the 1 percent of patients with the highest risk were 12 to 14 times more likely to commit suicide than V.A. patients as a whole. The top 0.01 percent of patients were 80 times more likely.
+
+Newsletter Sign Up Continue reading the main story Please verify you're not a robot by clicking the box. Invalid email address. Please re-enter. You must select a newsletter to subscribe to. Sign Up You agree to receive occasional updates and special offers for The New York Times's products and services. Thank you for subscribing. An error has occurred. Please try again later. View all New York Times newsletters.
+
+The top 1 percent of patients tended to be young, single males with several medical problems including sleep disorders, pain and traumatic brain injuries. Most were taking antidepressants and sedatives. More than 90 percent had used V.A. mental health services in the year before their deaths.
+
+Though the database can pinpoint high-risk patients, the V.A. still cannot predict suicide in individuals, Mr. Bossarte said. “The risk score is more like a cholesterol number,” he said. “Just because it’s high does not mean you are going to have a heart attack, but it does mean we should take measures to lower the risk.”
+
+The V.A. is still developing how it will use the data, said Ms. Thompson, the suicide prevention official. “Are we going to call them and say, ‘Hey, guess what, you are at high risk of suicide?’ Of course we can’t do anything like that,” she said. “So we are developing steps our clinicians can take to use this information.”
+
+Many of the risk factors, such as being hospitalized for a psychiatric condition or making a previous suicide attempt, may seem obvious, said Michael Schoenbaum of the National Institutes of Health, who was an author of the study. But researchers found that these high-risk patients, who should have been flagged by doctors and other health care staff under traditional suicide prevention protocols now in place, were not.
+
+Advertisement Continue reading the main story
+
+“Doctors are pretty bad at assessing risk,” Mr. Schoenbaum said. “The database is so overwhelmingly better than just guessing, which is what we’ve been doing.”

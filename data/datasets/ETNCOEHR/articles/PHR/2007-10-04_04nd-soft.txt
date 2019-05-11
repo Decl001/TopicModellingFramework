@@ -1,0 +1,45 @@
+The personal information, Microsoft said, will be stored in a secure, encrypted database. Its privacy controls, the company said, are set entirely by the individual, including what information goes in and who gets to see it. The HealthVault searches are conducted anonymously, Microsoft said, and will not be linked to any personal information in a HealthVault personal health record.
+
+Microsoft does not expect most individuals to type in much of their own health information into the Web-based record. Instead, the company hopes that individuals will give doctors, clinics and hospitals permission to directly send into their HealthVault record information like medicines prescribed or, say, test results showing blood pressure and cholesterol levels.
+
+Photo
+
+Such data transfers, Mr. Neupert said, would then be automatic, over the Internet, which is why the partnerships are so important. “The issues are: can we get the connections and demonstrate the value of this to people so they build up these records as they go along,” he said.
+
+At NewYork-Presbyterian Hospital in New York, Aurelia Boyer, the chief information officer, explained that the hospital was committed to doing whatever it can to help patients manage their own health care. After an initial discussion with Microsoft, the hospital has pledged to start a pilot project to enable some kinds of patient data — EKGs, perhaps — to be automatically sent to a person’s HealthVault account.
+
+If a patient chooses to have a Microsoft personal health record, Ms. Boyer said, “we want to support them.”
+
+The data exchange, she added, will require some software tweaking by the hospital’s technical staff. "We’ll pilot a few things and see how it goes," Ms. Boyer said.
+
+The Microsoft entry comes at a time when people are increasingly using online tools, especially Internet search, to find health information. An aging population with more health concerns, as well as tighter curbs on medical spending, are expected to prompt consumers to take a larger role in managing their own care, using online tools that include personal health records. But that trend has not gone very far yet.
+
+Newsletter Sign Up Continue reading the main story Please verify you're not a robot by clicking the box. Invalid email address. Please re-enter. You must select a newsletter to subscribe to. Sign Up You agree to receive occasional updates and special offers for The New York Times's products and services. Thank you for subscribing. An error has occurred. Please try again later. View all New York Times newsletters.
+
+Microsoft is also moving ahead at a time when other large technology companies have seen senior executives in their health units depart or hit bumps in their efforts to push health initiatives.
+
+Advertisement Continue reading the main story
+
+The leader of Google’s health group, Adam Bosworth, left last month, for example. The company has been developing offerings broadly similar to Microsoft’s — personal health records stored in Google data centers, and enhanced health search.
+
+Google will not discuss the timing of its health plans. Marissa Mayer, the Google vice president now overseeing the health team, said, “We hope the products we’re working on will give people access to better information about health that is more relevant to them and help them manage and control their own information.”
+
+Photo
+
+At Cisco, the head of its health care practice, Dr. Jeffrey Rideout, recently left to join a private equity firm, Ziegler HealthVest Management. (Cisco called his departure a “leave of absence.”) And Dossia, a coalition led by Intel to provide employees at several large companies with personal health records, is going more slowly than planned.
+
+But while some other technology companies are pulling back or slowing down in health, “Microsoft is stepping forward and finally declaring the hand it will play,” observed Dr. David J. Brailer, the former health information technology coordinator in the Bush administration, who now heads a firm that invests in medical ventures, Health Evolution Partners.
+
+At the American Heart Association, Dr. Daniel Jones, the president, said that working with Microsoft was a way to accelerate his group’s efforts to curb heart disease. The company is collaborating with the heart association on an online blood pressure management tool online. Heart patients will be able to go to the association’s Web site, open a HealthVault account and include their blood-pressure readings, weight and medications.
+
+At first, Dr. Jones said, they would probably enter the data themselves, but later have it sent from a doctor’s office or laboratory. Ideally, he said, the person would share the information with their doctor or nurse, who could call or send an e-mail message to warn of any disturbing changes. “The potential here is very great,” Dr. Jones said. “And we all recognize the power of Microsoft to reach millions of households.”
+
+Microsoft also has signed up health care companies. Johnson & Johnson LifeScan, the nation’s largest producer of glucose monitors for diabetes patients, plans to enable the monitors’ readouts to be placed into a Microsoft HealthVault account. “We see this as a potentially powerful tool in helping patients manage their diabetes,” said Tom West, president of Johnson & Johnson LifeScan.
+
+Privacy is a huge issue and one likely to slow the spread of personal health records. But Microsoft’s privacy principles have impressed Dr. Deborah Peel, chairwoman of the Patient Privacy Rights Foundation, a nonprofit group. In terms of patient control, and agreeing to outside audits, “Microsoft is setting an industry standard for privacy,” said Dr. Peel.
+
+Mr. Neupert of Microsoft said the key to allaying privacy worries would be a track record of trust and showing consumers the value and convenience of personal health records. Consumers, he noted, initially were reluctant to try online banking because of privacy worries. But today, online banking is mainstream.
+
+Advertisement Continue reading the main story
+
+“It’s going to be a long journey,” Mr. Neupert said. “To make a difference in health care, it is doing to take time and scale. And Microsoft has both.”

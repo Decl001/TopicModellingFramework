@@ -1,0 +1,101 @@
+A couple of weeks ago, “CBS News Sunday Morning” aired my report on the President’s plan to computerize the nation’s health records. You can watch it online.
+
+Working for this show is always a treat; very few network news shows dedicate 8 or 9 minutes to dive into a single story.
+
+Even so, I get to interview fascinating people, but have time to use only a fraction of what they say. So I like to use this space to offer more complete excerpts from those chats. Today, an interview with Dr. David Blumenthal, the President’s medical-records czar.
+
+DAVID POGUE: Before you took this job, you did a study of hospitals and doctors going digital, right?
+
+DAVID BLUMENTHAL: Yes. We found that about 17 percent of physicians in 2008 had adopted an electronic health record, and about ten percent of hospitals.
+
+DP: And the rest are doing what?
+
+DB: The rest is paper. It’s basically the same system that physicians have used since Hippocrates, which is writing on some piece of paper.
+
+DP: What’s the downside of paper?
+
+DB: It doesn’t capitalize on the tremendous power of computers, which have transformed the use of information in every other part of our lives, business and travel and leisure.
+
+Computers can help doctors be better doctors. They can help hospitals be better hospitals. They can help patients take control of their illnesses, not only by making the information available in a reliable way, but by adding tips and reminders and personalized messages about what to do to improve your health, or what tests to order if you’re a physician, and what drugs to use or to avoid.
+
+I was a primary-care physician for over 30 years. I can vividly recall a time when I was getting ready to discharge a patient from the hospital on a particular medication, and I ordered the medication. We had a system that checked the orders against allergies and contraindications, and the computer told me that the patient was allergic to the medication that I was about to use.
+
+I was extremely grateful for that, because I had missed it. It’s very easy for physicians to overlook the thousands of details they have to keep track of. And a computer can make that physician a little more aware of all the patients’ needs and information.
+
+DP: Where do we stand relative to other countries?
+
+DB: Most other countries have much more use of electronic health records than we do. For example, the Danes have virtually 100 percent of physicians using electronic health records. In Britain, virtually 100 percent of primary care physicians use them. In Australia, Sweden, Norway, virtually 100 percent. In many, many other Western countries, the electronic record is virtually ubiquitous.
+
+Now, I think that if we are successful with the ambitions that we have for this record, we will leapfrog many of our colleagues abroad. But for the moment, I would have to say that we are well behind our Western colleagues.
+
+DP: How is all of this supposed to bring down medical costs?
+
+DB: Well, let me give you another personal story. I was ordering a CAT scan for a patient. And my computer system was designed so that it would look at what else had been ordered on this patient. And it informed me that a very similar test had been ordered on this patient within the last three months, and that I should check that out. And, sure enough, it had the information I needed. So I avoided giving the patient a dose of radiation that he didn’t need. I avoided the expense of that test. And I got the information sooner.
+
+DP: Shouldn’t that information have been in the paper chart?
+
+DB: It wouldn’t have been in the paper chart in a way that would have reminded me to look for it.
+
+DP: I see. But not all doctors are thrilled by all of this. They’re saying, first of all, we’re the ones who’ve gotta pay for it.
+
+DB: Yeah, well, I think that’s a fair point. But we have new legislation that was part of the Recovery Act, which President Obama signed in February of 2009, that makes available $45 billion through Medicare and Medicaid to help doctors pay to acquire and use electronic health records. So I don’t think that the complaint about not having help to acquire these records is a fair complaint anymore.
+
+The second point I would make is that though it’s hard to adopt these records, almost no physicians who have acquired them have ever wanted to give them up.
+
+DP: So part of it might be just fear of the unknown, fear of change?
+
+DB: Well, fear of change is a natural human response. I think it’s also the fact that it’s not easy to get these set up. There is a cost, and we can’t deny that. The question is how to help physicians and hospitals get past that cost. Once they get past it, I think once they get over the hill, the valley on the other side is lovely. But they’ve gotta get over the hill.
+
+DP: A couple of doctors were pointing out that the government money comes as a reimbursement. They have to buy the systems, install them, and then show the government, “Look, we have it working.” But they’re saying, “I’m a small practice. I’m a rural guy. Where am I supposed to get the money to invest up front?”
+
+DB: Well, some vendors of these systems will loan the money to doctors in advance. General Electric, for example, made that offer.
+
+Secondly, physicians, frankly, make a lot of investments in their practice as small business people, on the prospect that they will get payment for those investments down the line. Physicians buy examining tables, they buy X-ray equipment, they buy treadmill tests, they buy colonoscopic equipment—and then they wait to get paid. So I think it’s a fair analogy to what we’re asking the physicians right now.
+
+DP: How does this reimbursement happen? Is it a penalty through Medicare and Medicaid to doctors who don’t get with the program? Or a benefit if they do?
+
+DB: It’s some of both. From 2011 to 2015, there is a bonus. The Congress has put $45 billion on the table to ease physicians and hospitals into this new world of computerized medicine.
+
+After 2015, if you have not adopted, and you see Medicare or Medicaid patients, you may experience a penalty.
+
+2015 is six years off. Six years is plenty of time for physicians to get themselves organized to put a record in place and avoid those penalties.
+
+DP: And how much does it cost? For, say, one doctor?
+
+DB: On average, the cost is between $40,000 and $50,000, of which about a third is the software and the hardware, about a third is the cost of getting it set up in the office, and about a third is maintaining it. Much of the expense is related to the cost of implementing and the cost of maintaining it over time.
+
+DP: What about the interoperability problem? Every software company selling these systems puts the data in a different format.
+
+DB: We’re doing a lot in this office to try to minimize that problem. We’re gonna be helping states to create interoperability capability, capabilities to link records, to link institutions.
+
+And we’re developing standards at the national level to make it possible for records to talk to each other. And then we’re also gonna be certifying records, to give physicians and hospitals some guidance about the capabilities of those records, so that they’ll know in advance whether or not the records are gonna be able to talk to each other.
+
+These [standards discussions] are open processes. This will all be a very open and transparent process.
+
+DP: I’m sure you hear this at the cocktail parties all the time: “What about my privacy?”
+
+DB: Privacy and security are foundational to a modern health information system. You cannot get the computer into this business without assuring people that their information, their personal information, will be safe.
+
+So we are looking at the best possible technical solutions, technical protections, to privacy and security. We want to make sure that we have looked at every opportunity for encryption, every security device that the best minds can think of, to make information safer. We’ve got it in other parts of the industry, but we don’t have it for healthcare. So I think that’s a very important agenda item for us.
+
+DP: And what exactly is the privacy fear? People are afraid of hackers? Or people finding out that they have bad breath, or—?
+
+DB: There are two kinds of anxieties. One is that their data may be used for purposes that they haven’t authorized it. So if they haven’t authorized their personal data to be used for research, they don’t want it for that purpose. And the way the law gets around that problem is by saying that information should be de-identified; that is, it should be abstracted from the record in a way that can never be traced back to that individual.
+
+And then that information can be used for research on drug safety, or research on the value of particular treatments, or anything els that may be useful to human health.
+
+There’s another kind of fear, and that is the fear of the breach or break-in, or hacking. And there have been some examples of that.
+
+That’s where better encryption and better barriers to hacking are critical. And, you know, we have a new cybersecurity initiative that President Obama has put in process. It’s well known that the security of information is a national need for defense purposes. It’s also, I think, a very important need for this domestic policy purpose. So we want to work with that security initiative to know that we’ve taken advantage of everything that the federal government and the computer industry knows about how to keep records secure.
+
+DP: And the President wants to have all of this in place in five years?
+
+DB: The President has stated a goal that every American will have the benefit of an electronic record by 2014. That’s a very ambitious goal. We are working hard to attain it, and we hope we will attain it.
+
+DP: It’s a lot of pieces, right? The software part, the money part, the security part, the standards…and all these critics with their objections. Do you ever just get tired of having to explain yourself?
+
+DB: Well, it’s a big challenge, it’s an exciting challenge, and a historic challenge. There’s nothing that’s worth doing that’s easy to do in life, and this is one of those.
+
+But I really think that history is on the side of this activity. To be a 21st-century physician, to be a 21st-century hospital, we can’t record data the same way the Greeks did in 500 B.C. We’ve gotta move to use the computer to support our work. And that’s what we’re trying to do.
+
+There’ll be bumps on the road. We’re not gonna be perfect. We’ll make mistakes. But I think the wind is at our back in terms of the historical trends. And we’ll get there, sooner or later.

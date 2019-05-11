@@ -1,0 +1,17 @@
+Photo
+
+The revelations this month about government surveillance programs that collect the phone logs of people in the United States and can monitor e-mail traffic abroad are provoking a larger debate on the rights of consumers to control the collection and sharing of data about them.
+
+One industry under the microscope is data brokerages. These are business-to-business companies that collect thousands of details — like the shopping habits, vacation preferences, estimated income, ethnicity, hobbies, predilections for gambling or smoking and health concerns — about millions of consumers, the better to help marketers identify potential new customers as well as maintain their already loyal clients.
+
+Although some of these companies do permit people to opt out of their marketing databases, most do not have systems to allow consumers to see records held about them and correct possible errors. Because of this lack of transparency, federal regulators and privacy advocates have long warned about the potential for such data-mining to discriminate against consumers based on sensitive details like financial or health information.
+
+Now Julie Brill, a member of the Federal Trade Commission, has proposed an industrywide initiative to give consumers access to their own records held by data brokers. She envisions an online portal where data brokers would describe their data collection practices and their consumer access policies.
+
+Ms. Brill has come up with a handy nickname for her proposed effort: “Reclaim Your Name.”
+
+“Reclaim Your Name would empower the consumer to find out how brokers are collecting and using data; give her access to information that data brokers have amassed about her; allow her to opt-out if she learns a data broker is selling her information for marketing purposes and provide her the opportunity to correct errors in information used for substantive decisions – like credit, insurance, employment, and other benefits,” Ms. Brill said in a speech on Wednesday morning at the Computers, Freedom and Privacy Conference in Washington.
+
+Here’s a link to the full text of Ms. Brill’s speech.
+
+Over the last year, legislators in the House and Senate have separately opened investigations into the practices of some leading data brokers with the goal of increasing oversight of the industry. Participation in a voluntary “Reclaim Your Name” program of the kind Ms. Brill proposed might help the industry mitigate government efforts toward greater regulation.

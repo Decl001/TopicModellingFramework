@@ -1,0 +1,99 @@
+(Photo: T.C. Worley for The New York Times)
+
+Updated, June 18, 8 p.m. | Grace-Marie Turner of the Galen Institute joins the discussion and points out that private insurers have had success in giving patients incentives to stay healthy.
+
+President Obama spoke to the American Medical Association this week to assure doctors that changes in health care would help them better serve patients. Many studies have shown that patient care and spending vary enormously from community to community, depending on local practices, which are largely determined by doctors.
+
+The health care system has long been accused of emphasizing the quantity — rather than the quality — of care, giving doctors and other health providers incentive to order extra tests and procedures when they don’t improve the outcome. “It is a model that has taken the pursuit of medicine from a profession — a calling — to a business,” President Obama said of the system.
+
+What changes in the system would realign incentives for doctors? Can that be done without significantly altering the way doctors are compensated?
+
+Share Savings With Doctors
+
+Elliott S. Fisher, a professor of medicine, is director of the Center for Health Policy Research at Dartmouth Medical School.
+
+There are huge regional variations in health care spending and in the growth of health care costs. Yet low-spending regions are able to provide care that is as good or better than that in high-spending regions. That fact raises the possibility of substantial savings — of perhaps more than 30 percent.
+
+But we can’t fix the problem — and may make it worse — by focusing just on prices. Some services are clearly overpaid, but cutting prices to high-cost regions will only cause providers in those regions to deliver more services.
+
+The problem of the ‘partialist’ physician, who focuses on a tiny part of a patient’s care.
+
+The regional differences are largely due to how much care is being provided. Where the evidence for a treatment is strong — like some treatments for heart attacks or heartburn — higher and lower spending regions are almost equally likely to get the right care to the right patient. (If anything, patients in higher spending regions are less likely to get these treatments).
+
+Almost all of the extra spending in high-cost regions is from greater use of “discretionary” treatments — like how frequently similar patients see their physician (once a month or every six months?), how often they are referred to specialists, whether they are cared for in a hospital or as an outpatient, and how many tests and minor procedures they receive. Yet the outcomes for patients are no better for all the extra care.
+
+Read more… An underlying cause of this overuse is a fragmented and uncoordinated health care system where each physician only focuses on a tiny piece of the patient’s care. Most physicians, even those in primary care, have become “partialists.” And the payment system that rewards overuse by physicians and encourages hospitals to compete in a local medical arms race to offer every possible profitable service. We need to foster the development of more organized systems that are responsible and accountable for the overall costs of care experienced by their patients. Some health systems like Kaiser Permanente and Geisinger are already fully integrated and represent one possible approach. But physicians in many communities — Grand Junction, Colo.; Green Bay, Wis., for example — have come together in networks that provide some common resources that help the physicians work together effectively. We also need to pay them differently. One approach that has shown some early promise is to combine the fee-for-service with “quality bonuses” and “shared savings” payments when they reduce spending growth for all of their patients. Doctors, hospitals and society should realize that slowing spending growth would not require dramatic cuts in income under a system where providers would be rewarded for better care, not just more care.
+
+Forced Into Running a Business
+
+Kevin Pho, a primary care doctor in Nashua, N.H., blogs at KevinMD.com.
+
+In his address to the American Medical Association, President Obama noted that our health care system “rewards the quantity of care rather than the quality of care.” This perverse incentive leads to unnecessary and potentially harmful medicine, while also being a major contributor to spiraling health care costs.
+
+Physician payments need to be divorced from the volume of care.
+
+Doctors enter the profession to care for patients. Most are not trained, or have the inclination, to run a business. But our health system’s incentives provide a strong motivation to do just that. In fact, doctors often find themselves in a position where the pressure to generate revenue becomes as important as how they practice medicine, and those who do not pay close attention to the financial bottom line are at a competitive disadvantage. It is no wonder that both physicians and patients are growing disenchanted with the current direction of American health care.
+
+Read more… Some health policy analysts blame the medical profession entirely for the role they play in rising health care spending. And indeed, doctors have tremendous influence in the tests being ordered and treatments prescribed. But singling out physicians would be like blaming the players for a proverbial game’s flawed rules. More important than focusing on the players, we need to change the rules. Physician payments need to be divorced from the volume of care and instead associated with evidence-based quality measures and a reduction in medical errors. We need to value the time doctors spend with patients. Instead of being encouraged to squeeze in appointments and rush through office visits, doctors should be “incentivized” to take the time to counsel and guide, along with improving their communication with patients, not only in person, but over the phone and on the Internet.
+
+End Insurance’s Bad Incentives
+
+Steffie Woolhandler and David Himmelstein are associate professors of medicine at Harvard Medical School, primary care doctors in Cambridge, Mass., and co-founders of Physicians for a National Health Program.
+
+There are a variety of bad ways of paying doctors, but no particularly good ones. Fee-for-service health care rewards the overprovision of care; capitation (a set monthly fee per patient) rewards underprovision; and salaries reward just showing up. The minority of physicians (and hospital administrators) who are motivated mostly by money will find a way to game an incentive system rather than do the hard work of providing excellent care.
+
+Even paying doctors based on quality measures (using data from medical records that the doctors themselves create) can be fudged. For example, if you pay doctors more for care of patients with diabetes with extra incentives for controlling blood sugar, some doctors will neglect to properly instruct patients to fast before their morning blood tests, falsely diagnosing them as ill. These false diabetics will appear to have superb outcomes since they weren’t sick to begin with.
+
+At the same time, most of the myriad details of care and small kindnesses that make for good doctoring would inevitably go unrewarded, making their neglect essential to a doctor’s financial success.
+
+Read more… A public plan would be forced to emulate the bad behavior of private insurance competitors, or fail in the marketplace. The Medicare payment system illustrates the false hope of financial savings or improved quality through manipulating financial incentives. The system, which pays health care providers based on “diagnosis-related group,” altered hospitals’ incentives, rewarding short hospital stays instead of long ones. But hospitals quickly adapted, and while Medicare patients’ length of stay plummeted, costs continued to skyrocket. Financial incentives are not necessary for cost control, and are expensive to administer. A single payer system like Canada’s -– in which individuals choose their doctors and other health care providers, but the providers bill one agency for their services — limits entrepreneurial rewards and penalties, covers everyone, and saves much on bureaucracy and profits. Many American doctors now support a single payer approach because it would improve health and remove the crushing paperwork burden that private insurers impose. Paperwork consumes 31 percent of U.S. health spending, nearly double that of Canada. Our nation wastes $400 billion annually on insurance overhead and useless bureaucracy, money that single-payer reform could shift to patient care. That’s enough to cover all of the uninsured, and to eliminate copayments and deductibles for everyone else. A single payer system would allow doctors to return to the patient-centered care that motivated us to go to medical school in the first place. In contrast, the Senate Democrats’ proposal to require the purchase of coverage would leave private insurers in charge, and hence sharply increase costs while leaving millions uninsured, or covered by skimpy policies. In 2007, illness and medical bills contributed to 62 percent of personal bankruptcies; most of the medically bankrupt were middle-class families with private insurance. Copayments, deductibles, and loopholes that let insurers deny claims leave millions of Americans in financial ruin. The individual mandate now popular in Congress would merely force the uninsured to buy defective policies – boosting revenues for insurers but not protecting patients. Unfortunately, adding a public plan option would not correct these flaws. The bureaucratic savings would be minuscule. Moreover, a public plan would be forced to either emulate the bad behavior of its private insurance competitors, or fail in the marketplace — swamped by private insurers that dumped sick, expensive patients onto the public. This kind of tinkering around the edges of our insurance company-dominated system won’t fix it.
+
+Coordinated Care
+
+J. James Rohack, a practicing cardiologist in Texas, is the president of the American Medical Association.
+
+President Obama received a standing ovation in his address to the American Medical Association on Monday when he said that “you did not enter this profession to be bean-counters and paper-pushers. You entered this profession to be healers, and that’s what our health care system should let you be.”
+
+Medical liability reform is also needed.
+
+Physicians want to spend more time with patients and focus on not just treating disease, but preventing it in the first place. To do this, physicians should be offered incentives to work with each other and other health care providers to coordinate care and to invest the time and resources needed to truly manage chronic disease.
+
+New models of care like the medical home, where patients have one physician coordinate care across many specialties and settings, benefits patients and rewards doctors for focusing on aspects of care that are vital but less tangible than procedures. This is the type of care physicians want to provide and patients want to get.
+
+Read more… To that end, the A.M.A. passed new policy this week at its annual meeting to provide recommendations on emerging alternative physician payment methods that focus on care coordination and quality. Now, Congress needs to reform the Medicare physician payment system that everyone says is broken as an essential first step toward health care that is coordinated among disciplines and focused on prevention and wellness. Medical liability reform is also needed, and President Obama has recognized that defensive medicine contributes to unnecessary health care costs. Until physicians no longer fear lawsuits if they don’t order every test to rule out every possible option, defensive medicine will continue. We are heartened that the president has expressed openness to medical liability reforms as part of health care reform. Bottom line: The relationship between the patient and physician is the heart of health care, and reforms must preserve and strengthen that relationship so that people can get the care they need and the care they desire.
+
+Operating in Silos
+
+Clive Callender, a specialist in organ transplant medicine, is founder and director of Howard University Hospital’s Transplant Center and former chairman of Howard University College Of Medicine’s Department of Surgery. He recently joined other health care experts invited to the White House to discuss health care reform.
+
+In my experience, incentives in health care tend to flow to health care providers and not to patients. That needs to change. Providers should offer coordinated care to patients as a team rather than operating in silos. This is especially true in managing chronic disease.
+
+A team approach yields savings by preventing unnecessary services.
+
+As a transplant surgeon treating a patient with end-stage renal disease, I recently acted as the care coordinator for my patient’s treatment. I interacted with several other health care providers responsible for the patient’s care, from the urologist, to the primary care physician, to the cardiologist. I got the benefit of their perspectives as I made treatment decisions related to my area of specialty.
+
+The goal of the team approach is to optimize patient care, but it can also yield savings by preventing overtesting and other unnecessary services. Doctors who aren’t talking to each other might end up duplicating efforts. I find that a team or holistic approach not only allows for better monitoring of the patient, it also provides increased opportunities for consultation among medical professionals and better decision-making.
+
+Read more… In renal transplants, in recent years, payments for transplants have been bundled. Under this system, physicians aren’t reimbursed for specific tests or services, there is just one payment for the transplant as a whole. I don’t believe this approach has changed the quality of care patients receive. It has not changed how I practice or the level of care patients generally receive. But such a system does take away any incentive to do more simply to do more. Besides team-based care, we need to give patients better access to their own medical records and information about the cost of their care. For instance, all test results should go to the patient and the health care provider simultaneously. More transparency may help reduce duplication of tests and further trim costs.
+
+Shift Pay Away From Specialists
+
+Liam Yore is an emergency room doctor in suburban Seattle and administrator of a medical group practice. He is the author of the blog Movin’ Meat, which focuses on the practice of emergency medicine and health policy.
+
+In a recent New Yorker article, Atul Gawande vividly illustrated one of the greatest fiscal threats to American health care: over-utilization. Dr. Gawande and others, including President Obama, have blamed this practice of over-utilization of medical services on physicians and their traditional “fee-for-service” compensation model, which is thought to create a perverse incentive for physicians to do more than is actually needed, since the more care they provide, the more money they get.
+
+What we need to do is rebalance physician compensation away from procedures and toward primary care.
+
+In this, they are half right: over-utilization is a driver of cost, and it is in part driven by doctors’ economic incentives. The underlying cause, however, is a bias within the physician compensation system that extravagantly rewards surgical procedures performed compared to “cognitive” services like diagnosis and medical management.
+
+In the E.R., for example, sewing a facial laceration pays far better than accurately diagnosing a heart attack. The same principle applies to any procedure — from angiograms to colonoscopies.
+
+Read more… The predictable consequence is that physicians gravitate toward lucrative procedural specialties. They perform more and more procedures, using expensive new technologies, driving costs ever higher. Meanwhile, office-based primary care doctors struggle. The compensation for an office visit is a tiny fraction of that for the simplest procedures. The family physician must rush from patient to patient just to keep pace with static or diminishing reimbursement. Fewer and fewer medical students are going into primary care. What we need to do is rebalance physician compensation away from procedures and toward primary care. Surgeons can easily earn three to five times the average salary of a family doctor. The compensation for surgical procedures should be reduced, and the savings realized should be applied toward increasing pay for primary care physicians. Better-compensated primary care specialties would attract more doctors who would be able to spend more time with their patients. They would require fewer expensive diagnostic tests like M.R.I.’s and rely less on specialists. Accordingly, the use of expensive and invasive procedures would decline. Prevention, wellness and chronic disease management would be encouraged: enhancing quality and patient satisfaction, but at a far lower cost. Primary care is the linchpin to successful health care reform. Ignore it, and reform will fail. Make it an appealing career choice, and the odds of success increase greatly.
+
+Good Ideas From Private Insurers
+
+Grace-Marie Turner is president of the Galen Institute, a nonprofit research organization focused on free-market ideas in the health sector.
+
+Much of the unnecessary spending on health care in the United States -– as much as 30 percent -– could be eliminated if doctors, patients, hospitals, and other providers had more and better information about care management.
+
+For example, the great majority of seniors on Medicare are in fee-for-service programs that bounce them from doctor to doctor and even from nursing homes to hospitals with little coordination of care. They get duplicate tests, may take multiple versions of the same drug prescribed by different doctors, and get little guidance on managing their own care. The system pays more for worse care because no one has any incentive to check spending.

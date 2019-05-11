@@ -1,0 +1,43 @@
+The verification service was created to help employers manage requests to confirm salary and employment information, like when their workers applied for mortgages, Mr. Adams said. Employers hire Equifax to save time and monitor compliance with privacy laws.
+
+Client companies provide employment, payroll and sometimes benefits data to Equifax, which then makes it available, for a fee, to banks, employers and others that it confirms are authorized to receive it. (That includes collection agencies, although Equifax says it releases only employment information like your job title and date of hire to them — not pay details.)
+
+You may be wondering: Do I have a say in any of this?
+
+Equifax says it provides information only to those with a legitimate reason under the Fair Credit Reporting Act, and requires anyone seeking income or salary numbers to obtain your explicit consent before releasing it. “The employee has to give permission,” Mr. Adams said.
+
+Data that identifies workers is owned by the employer, not by Equifax, and isn’t distributed to other data collectors, Mr. Adams said, though the company does sell employment trend reports, based on its analysis of anonymous data used with its clients’ approval.
+
+Photo
+
+The Federal Trade Commission reached a $350,000 settlement with TALX in 2009 over complaints that it failed to provide necessary disclosures to users of its consumer data and to the companies that provide the information. In an e-mail, the company said that it was complying with the credit reporting act “and has reported evidence of compliance annually to the F.T.C. as required by the settlement.”
+
+Still, it makes sense to check the accuracy of the data Equifax may have on you, since demand for income verification is growing. Mr. Adams said the increase was partly a result of recent legislation requiring credit card companies to verify a consumer’s ability to pay before issuing a card.
+
+In addition, the major credit bureaus (Experian and TransUnion, along with Equifax) have faced criticism from consumer advocates over the accuracy of their data. A recent study by the trade commission found that roughly 5 percent of consumers had errors in their credit reports that could result in higher interest rates on loans.
+
+Advertisement Continue reading the main story
+
+Agencies providing employment and salary data “haven’t had that level of scrutiny, so we don’t know what the level of accuracy is,” said Chi Chi Wu, a lawyer with the National Consumer Law Center. “I would be surprised if it’s better.”
+
+Kevin Kuhn, compliance director at Equifax Workforce Solutions, said its employment data was accurate because it was provided and owned by the employer; Equifax acts as “steward” of the information but doesn’t change it, he said.
+
+Unlike with credit reports, there isn’t a single site where you can request your free annual employment and salary report; you must apply directly to each specialty company. (Among the others that provide job and income verification services are AccuSource and InVerify. The Consumer Financial Protection Bureau maintains a list of companies that collect personal financial data of various kinds, but it is not comprehensive.)
+
+If your employer uses The Work Number, you can probably obtain your report at theworknumber.com. Otherwise, the site offers a toll-free number (866-604-6570) or a form to send by mail; you’ll need to provide your Social Security number as well as proof of identity, like a copy of your driver’s license and a utility bill.
+
+The report will include all employment records the company has on file for you, and will show what companies have sought verifications in the last 24 months. If you’ve never worked for a company that uses The Work Number, however, the report probably will be blank.
+
+Here are some other questions that may arise as you apply:
+
+? How long will it take to get a report?
+
+According to the form on The Work Number, your request will be processed in 15 days and the results will be mailed to you.
+
+? What should I do if I find a discrepancy?
+
+The Work Number’s Web site says you can call the service at 800-367-2884, and it will contact your employer to investigate.
+
+? What if I feel the company isn’t adequately handling my inquiry?
+
+You can file a complaint with the Consumer Financial Protection Bureau.

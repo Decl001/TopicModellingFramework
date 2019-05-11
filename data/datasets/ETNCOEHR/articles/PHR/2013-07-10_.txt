@@ -1,0 +1,39 @@
+All kinds of companies and services – social networks, data brokers, loyalty card programs to name just a few – amass and analyze details about millions of consumers’ activities and preferences. But the inner workings of this surveillance economy remain largely opaque to the public despite the recent revelations of widespread government data-mining of people’s phone and e-mail records.
+
+Now a group of Web developers in Austria has introduced an online game called Data Dealer that aims to make the business of consumer profiling more transparent. The animated game encourages players to amass and sell fictional profiles containing details like the names, birth dates, weight, height, shopping and dietary habits of imaginary consumers.
+
+The idea behind this cartoon data collection ecosystem is to give players a visceral sense of the widespread trade in personal data, says Wolfie Christl, a co-creator of the game.
+
+“If you tell people they should be a bit careful, nobody listens. It’s boring,” said Mr. Christl, 36, who lives in Vienna. The game, he said, is intended to help people “understand a few things – what kind of personal data exists, which attributes are collected, who is collecting this data, why and what they are using it for.”
+
+Photo
+
+In Data Dealer, each player starts out with an avatar of a database, a gray anthropomorphic vault containing more than a million profiles and a budget of $5,000.
+
+Players can buy additional profiles from a variety of sources like a dating Web site, a sweepstakes company – or even a disgruntled nurse named Mildred who is selling access to her hospital’s patient database.
+
+Players can also earn money by selling their profiles to a fictional large employer called “Star Mart,” a health insurance company or an imaginary government entity referred to as “Central Security Agency.”
+
+Each vendor lists the consumer details it has to sell.
+
+The fictional dating site, for example, is selling the relationship status, sexual orientation and political attitudes of its members, along with their birth dates, genders, phone numbers and e-mail address. The cost to the player: $150 for 8,000 profiles.
+
+Although hypothetical members of the dating site may think they are anonymous, the game suggests that data dealers could use such disparate details to connect people’s dating profiles to their real names.
+
+“For the chance to find their soul mate, lonely souls will pour out their hearts to you and let you in on their deepest secrets,” the game says. “Once you line up e-mail addresses and pseudonyms with the real names, things start to get interesting.”
+
+Data dealer also explains to players the value of different types of information.
+
+Of e-mail addresses, for instance, the game says: “once you know someone’s e-mail address, you can pinpoint them anywhere, no matter which nickname or pseudonym they use. In addition, e-mail addresses can be sold quite profitably for marketing purposes.”
+
+Although the first version of Data Dealer is meant only for individual players, the game’s developers are raising money on Kickstarter this week to finance an upgraded version that will let people play against one another – and hack each others’ databases.
+
+Mr. Christl says he hoped the game inspired people to demand more control over the information collected and disseminated about them.
+
+“I think at the moment all this data is being controlled by big companies and by government institutions and not by people themselves,” Mr. Christl says. “We need a self-determined usage of personal data in the future. Some changes are needed to achieve that.”
+
+Although Data Dealer is only a game, the timing of its Kickstarter campaign seems fortuitous. Offline, federal regulators have been urging real data dealers to make their practices more transparent.
+
+A few weeks ago, for instance, Julie Brill, a member of the Federal Trade Commission, proposed that data brokers — companies that gather and analyze information from multiple sources about millions of consumers — give the public more access to and control over details collected about them.
+
+“Data brokers should develop online tools so consumers could see the information multiple companies have about them,” says, Ms. Brill. The name of her initiative: “Reclaim Your Name.”

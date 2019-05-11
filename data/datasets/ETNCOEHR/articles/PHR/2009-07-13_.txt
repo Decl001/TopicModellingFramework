@@ -1,0 +1,23 @@
+The Obama administration this week will outline what the nation’s doctors and hospitals must do to qualify for billions of dollars in government support to adopt electronic patient records. The most closely watched part of the announcement will be further definition of what the economic stimulus legislation called the “meaningful use” of digital health records.
+
+Justin Ide/Harvard University News Office
+
+The draft due Thursday from the office of the national information technology coordinator, Dr. David Blumenthal, will not be the final word. There will be time for public comment, and lobbying, until the end of the year.
+
+But the work done so far by Dr. Blumenthal and his team, health experts say, is encouraging. The tentative plan, they say, calls for a requirement that physicians and clinics be able to first report health quality measures, like blood pressure and cholesterol levels of patients. Then, step by step, year by year, the administration foresees moving health providers from electronic reporting to being reimbursed for better health outcomes, such as a higher percentage of a doctor’s diabetes patients keeping their blood sugar levels at recommended levels.
+
+The technology approach, health experts say, is pretty much agnostic. The focus is not on a specific technological path but on using computing tools to capture, track and monitor data.
+
+While the government rules for electronic heath records are being debated, an ambitious experiment in “meaningful use” is being announced Monday in Texas.
+
+Cook Children’s Health Care System, based in Fort Worth, is taking a comprehensive step toward the digital future championed by the Obama administration. The pediatric provider, with 350 employed physicians, plans to install Web-based electronic health records and data integration technology at its 60 offices and clinics throughout Texas. It is also offering personal health records, controlled by the families of its young patients, that can follow them throughout their lifetimes.
+
+The Web-based health records will be supplied by AthenaHealth, while the data integration software and personal health records will come from Microsoft.
+
+The most intriguing thing Cook Children’s has planned is probably its prototype Innovation Clinic. It will be a small physician office, with two or three doctors. Small practices are the biggest challenge for electronic health-record adoption, since they cannot afford full-time technical helpers. The 2,000 to 3,000 patients will be from Medicaid families — lower-income homes where chronic health problems are most common.
+
+The clinic, said Ryan Champlin, vice president of operations for Cook Children’s, will emphasize family engagement and preventive care. And the reimbursement, he said, will be capitated payment — a set annual payment for each patient, instead of the standard fee-for-service system of American health care.
+
+Cook Children’s is betting that the new technology will help the clinic improve care management and curb costs, which is the outcome-oriented approach that the administration seeks. “We’re hopeful that we can help the administration see a pilot that can be replicated in other cities,” Mr. Champlin said.
+
+Wes Rishel, a health analyst at Gartner, called the Cook Children’s program “experimental but promising.” He added, “The focus on patient and family engagement is impressive, and that’s going to have to be a huge part of health care reform.”

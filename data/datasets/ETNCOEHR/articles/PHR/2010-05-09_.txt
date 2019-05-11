@@ -1,0 +1,35 @@
+In the nation’s drive to computerize patient records, Jonathan Bush surely qualifies as the most disgruntled beneficiary of the government’s largess – billions of dollars in incentives to accelerate adoption by doctors and hospitals.
+
+Mr. Bush is chief executive of Athenahealth, which offers electronic health records and billing services to physicians, using an Internet-based, software-as-a-service model. His argument is that the government incentive program, which begins next year, will, given its size and complexity, serve to subsidize traditional health software, which resides on the hard drives of personal computers and servers.
+
+The big, old-line vendors like General Electric, Allscripts and Cerner, he contends, stand to gain more than the Web-based insurgents, like Athenahealth and others.
+
+“It’s health care information technology’s version of cash-for-clunkers,” Mr. Bush said at a health care industry conference in Dana Point, Calif., which ended on Friday.
+
+“Established technology is being given a federally funded new lease on life,” Mr. Bush said. “Traditional health software now is on Medicare, being kept alive like grandma.”
+
+Mr. Bush is hardly politically disinterested, as the nephew and cousin, respectively, of two Republican presidents (yes, those Bushes). But he is not alone in making the observation that big government programs tend to favor big companies.
+
+Still, even Mr. Bush said because the incentives to doctors, up to $40,000 over five years, will only be paid for “meaningful use” of the technology, it is an important step. The government’s definitions of meaningful use are phased in over years, but eventually include everything from tracking patient vaccinations and blood work to automated reminders to doctors of harmful drug interactions and the computerized reporting of patient data for public health programs.
+
+“It’s real money for a pay-for-performance program,” he said. “And that will have an effect.”
+
+On that point, Mr. Bush finds common ground with Dr. David Blumenthal, the national health information technology coordinator in the Obama administration, who also attended the conference. In his presentation and in an interview, Dr. Blumenthal emphasized time and again that the government program is less about technology than about changing the terms of trade in health care.
+
+The government’s intervention in health information technology market, he said, is justified to correct a market failure. “The market doesn’t reward performance,” Dr. Blumenthal said.
+
+In the current fee-for-service system, doctors and hospitals are paid for doing more – more visits, more tests, more surgeries. Quality and cost are not typically measured and compensated, outside some government pilot projects and a comparative handful of larger physician groups around the country.
+
+The electronic health record, in Dr. Blumenthal’s view, is a tool – and yes, a stalking horse – for bringing measurement, data-based decision-making and accountability to the practice of medicine. The computerized patient record, then, is a step toward changing compensation of medicine and the economics of health care.
+
+On Tuesday, for example, the administration announced $220 million in Beacon Community grants to 15 cities and regions across the nation to help them use health technology to deliver measurable improvements over the next two or three years. The grants are for efforts to combat chronic illnesses like diabetes and asthma, or problems like reducing the rate of hospital readmissions.
+
+The purpose, Dr. Blumenthal said, was to “show, in a tangible way, what is possible in health with modern technology.” Later, he explained, “It’s much more about health than technology.”
+
+Throughout the conference, speakers lamented that the recent health legislation only really addressed one pillar of heath care reform – access. It did not forcefully address the other two vital ingredients in reforming health care – cost and quality.
+
+David Bowen, who just stepped down as the staff director for health policy on the Senate health committee, agreed that the legislation was “inadequate” in dealing with the cost and quality issues. But, he added, it was the most that could be done politically.
+
+To advance the broader agenda of reform, Mr. Bowen pointed to the electronic health record initiative, which was part of the year-earlier economic stimulus package, not this year’s health reform legislation. Health information technology, Mr. Bowen said, had the potential to be a “game changer.”
+
+He elaborated by saying that “meaningful use is on its way to becoming the two most important words in health care.”

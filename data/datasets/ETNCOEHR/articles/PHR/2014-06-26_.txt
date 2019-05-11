@@ -1,0 +1,25 @@
+Photo
+
+Salesforce, the cloud pioneer known for customer management software, is going into health care.
+
+In an announcement on Thursday, Salesforce and Philips, the Dutch electronics maker, are jointly announcing what they call an “open cloud-based, health care platform.” That means, they say, health care software developers, producers of medical devices, health care providers and insurance companies will be able to link to the Salesforce health cloud.
+
+The foray into health care is a significant step by Salesforce into a specific industry, as opposed to supplying offerings that span industries, like customer relationship management software as a service. It is part of the growth strategy at Salesforce, and is being led by Vivek Kundra, a former chief information officer of the federal government in the Obama administration, who joined Salesforce two years ago. His title is executive vice president of industries.
+
+There have been other high-profile cloud entries in health care, notably Google Health, a personal health records initiative, which opened in 2008 and was shut in 2011. But Salesforce is an enterprise cloud company and it is taking a very different approach. Its initial move, with Philips, is to focus on a specific target in health care — using technology to manage chronic ailments.
+
+The statistics on chronic illnesses are well-known and sobering. According to the Centers for Disease Control and Prevention, chronic diseases account for seven of every 10 deaths, and for 75 percent of health care costs in America. The five major chronic conditions, in the CDC list, are heart disease, cancer, diabetes, arthritis and obesity.
+
+Jeroen Tas, chief executive of health care informatics at Philips, points to another set of figures — on the “1 percent” in American health care. Mr. Tas cites a study that found the treatment for 1 percent of the patients in the United States represents 21 percent of the nation’s health care expenses, averaging about $88,000 a patient a year.
+
+The two companies have worked together for the last six months on the health care offering. They are beginning with a couple of applications from Philips built on the Salesforce technology, which allow hospitals and care givers to remotely monitor patients with chronic conditions. “We start where you need the most collaboration, and the health need is greatest,” Mr. Tas said.
+
+The applications work, Mr. Tas explained, by linking patient sensors with smart software over the cloud. Philips is a large producer of a digital patient-sensing devices, including blood pressure cuffs, weight scales, fall detectors and activity trackers.
+
+The data from such devices, Mr. Tas said, is then sent over the Internet, aggregated and analyzed by Philips software to assess which patient among the many being tracked by a nurse practitioner should be the priority — the one in greatest need of advice or assistance and so the first one to be called.
+
+Chronic care management programs are being pursued by most of America’s large and integrated health care providers and can reduce costly hospital admissions and complications. The promise of Saleforce’s cloud approach is that it could reduce the expense of such programs by freeing up hospital groups from having to do much of the technical work themselves.
+
+If the Salesforce health platform succeeds, Mr. Kundra said, it will “unleash a wave of innovation” in health care technology as developers write the “next generation of software apps” in the industry.
+
+For the last few years, Mr. Kundra said, the focus of policy and the industry has been on moving the health care system from paper records to electronic medical records, an effort supported by federal subsidies. “We’re moving,” Mr. Kundra said, “into a post-EMR world,” in which innovation in health care information technology accelerates.

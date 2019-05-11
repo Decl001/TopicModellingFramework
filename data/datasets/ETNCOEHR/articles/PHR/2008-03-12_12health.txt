@@ -1,0 +1,27 @@
+“The underlying challenge is — ‘Do you trust the insurance companies?’ ” said Mike Davis, a health technology analyst with the HIMSS Analytics consulting firm.
+
+Addressing the trust issue, Meg McCabe, Aetna’s vice president for online programs, said, “We make sure the information is secured and shared, based on the member’s purposes.”
+
+The information will not be used to raise or lower premiums or reject membership applications. “That would not be a good business decision,” Ms. McCabe said. “We need to develop a relationship with our members based on trust.”
+
+Using a medical search engine developed by Healthline, a medical database software developer, Aetna is piecing together medical profiles that are based on records of each insured member’s illnesses and diagnostic tests and that also make assumptions about their health concerns as reflected in their search topics.
+
+Newsletter Sign Up Continue reading the main story Please verify you're not a robot by clicking the box. Invalid email address. Please re-enter. You must select a newsletter to subscribe to. Sign Up You agree to receive occasional updates and special offers for The New York Times's products and services. Thank you for subscribing. An error has occurred. Please try again later. View all New York Times newsletters.
+
+Andrea Rosenberg, a quality supervisor in an Aetna call center in Phoenix, said she had used the system to conduct research about her 5-year-old daughter Hayley’s ear infections and her own allergy symptoms.
+
+Like the millions of working mothers — a segment who are major online searchers for health information — Ms. Rosenberg said she had searched other health Web sites but found that the Aetna site provided information that was “more specific” to her situation. After looking it over, she took Hayley to see the family pediatrician. As for her allergies, she decided to stick with nonprescription medicines from the drugstore.
+
+Health plan members have been slow to add their information to personal health records offered by many insurers, at least until a family member gets sick. But Aetna and some other health insurers, including UnitedHealth and WellPoint, have made an end run around this obstacle by creating rudimentary health profiles based on medical claims data.
+
+Aetna says it has gone further by using the profile to help tailor the SmartSource searches.
+
+“I don’t know of anybody else who is matching members’ claims information with a search engine to help them look for medical content,” said Julie Snyder, a technology and health care analyst at Forrester Research.
+
+Advertisement Continue reading the main story
+
+But some industry experts say that medical claims data have limited utility, providing only “an echo of the events that go on in your care,” according to Wes Rishel, a senior health care analyst at the Gartner Group technology consulting firm. “Also, at any time, the information is 15 to 45 days old.”
+
+Dr. Rishel said more useful data would eventually come directly from the person’s doctors and hospital visits. Google and Microsoft are trying to get that information, although he predicts it will take “about two years” to reach that goal.
+
+Ms. McCabe said: “We are all angling to reach sort of the same goal — to take all the information that we know about you as an individual and link it to tools to make sure you are as engaged as possible in managing your health care.”
