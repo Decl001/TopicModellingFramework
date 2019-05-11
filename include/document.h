@@ -22,9 +22,9 @@ private:
     void remove_stopwords();
     void compute_term_frequency();
 public:
-    std::map<std::wstring, int> tf;
+    std::map<std::wstring, double> tf;
     std::map<std::wstring, double> tf_idf;
     Document(std::string, int);
-    std::map<std::wstring, double> compute_tf_idf(std::map<std::wstring, int>);
+    std::map<std::wstring, double> compute_tf_idf(std::map<std::wstring, double>);
 };
 #endif

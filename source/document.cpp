@@ -6,6 +6,7 @@
  */
 
 #include <algorithm>
+#include <cmath>
 #include <string>
 #include <iostream>
 #include <fstream>
@@ -101,8 +102,13 @@ void Document::remove_stopwords(){
  * 
  * When computing n-gram tf, the key will be:
  * "the_first_word->the_second_word->etc"
+ * 
+ * Formula for tf:
+ * ln( (x / max_x) + 1)
  */
 void Document::compute_term_frequency(){
+    
+    // compute raw frequency
     for(int n_grams = 0; n_grams < n_gram_count; n_grams++){
         for(int i = 0; i < words.size(); i++){
             if (i >= n_grams){
@@ -111,13 +117,26 @@ void Document::compute_term_frequency(){
                     term += L"->" + words[j];
                 }
             
-                std::pair<std::wstring, int> insert_pair(term, 1);
-                std::pair<std::map<std::wstring, int>::iterator, bool> result;
+                std::pair<std::wstring, double> insert_pair(term, 1.0);
+                std::pair<std::map<std::wstring, double>::iterator, bool> result;
                 result = tf.insert(insert_pair);
                 if (result.second == false){
                     tf[term]++;
                 }
             }
         }
+    }
+    // compute max frequency
+    double max_freq = 0;
+    for (auto it = tf.cbegin(); it != tf.cend(); it++){
+        if (it->second > max_freq){
+            max_freq = it->second;
+        }
+    }
+    // compute relative tf
+    for (auto it = tf.cbegin(); it != tf.cend(); it++){
+        double raw_freq = it->second;
+        double relative_freq = std::log((raw_freq / max_freq) + 1);
+        tf[it->first] = relative_freq;
     }
 }
