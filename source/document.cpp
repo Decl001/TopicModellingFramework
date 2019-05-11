@@ -68,7 +68,8 @@ void Document::stem_words(){
 /**
  * Removes stopwords from the vector
  * Stop words are loaded from the file specified in
- * the document.h header file
+ * the document.h header file. Throws a document exception
+ * if this file can't be loaded
  */
 void Document::remove_stopwords(){
     std::vector<std::wstring> stop_words_removed;
