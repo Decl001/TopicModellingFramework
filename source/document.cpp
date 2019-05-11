@@ -1,3 +1,10 @@
+/**
+ * Author: Declan Atkins
+ * Last Modified: 11/05/19
+ * 
+ * Contains the source code for the document class
+ */
+
 #include <algorithm>
 #include <string>
 #include <iostream>
@@ -7,6 +14,13 @@
 #include "document.h"
 #include "english_stem.h"
 
+/**
+ * Constructor for a document object
+ * 
+ * @param f_name -> The name of the file to create the document from
+ * @param n_gram_c -> The number of n-grams to use (Up to this number of n-grams 
+ *                    will be used)
+ */ 
 Document::Document(std::string f_name, int n_gram_c=1){
     filename = f_name;
     n_gram_count = n_gram_c;
@@ -16,6 +30,13 @@ Document::Document(std::string f_name, int n_gram_c=1){
     compute_term_frequency();
 }
 
+
+/**
+ * Loads the words from the file into a vector
+ * Uses std::wstring to load unicode files
+ * 
+ * Throws a document_exception if the file cannot be loaded
+ */ 
 void Document::load_words(){
     std::wifstream the_document;
     the_document.open(filename);
@@ -29,6 +50,13 @@ void Document::load_words(){
     }
 }
 
+
+/**
+ * Performs stemming on the words loaded from the file
+ * 
+ * Uses the Oleander stemming library:
+ * https://github.com/OleanderSoftware/OleanderStemmingLibrary
+ */
 void Document::stem_words(){
     stemming::english_stem<> english_stemmer;   
     for (auto it = words.begin(); it != words.end(); it++){
@@ -36,6 +64,12 @@ void Document::stem_words(){
     } 
 }
 
+
+/**
+ * Removes stopwords from the vector
+ * Stop words are loaded from the file specified in
+ * the document.h header file
+ */
 void Document::remove_stopwords(){
     std::vector<std::wstring> stop_words_removed;
     std::vector<std::wstring> stop_words;
@@ -58,6 +92,15 @@ void Document::remove_stopwords(){
     words = stop_words_removed;
 }
 
+
+/**
+ * Computes term frequency from the words vector
+ * stores the frequency in a map with the term as the
+ * key and the frequency as the value
+ * 
+ * When computing n-gram tf, the key will be:
+ * "the_first_word->the_second_word->etc"
+ */
 void Document::compute_term_frequency(){
     for(int n_grams = 0; n_grams < n_gram_count; n_grams++){
         for(int i = 0; i < words.size(); i++){
