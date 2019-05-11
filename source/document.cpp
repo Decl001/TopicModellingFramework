@@ -1,4 +1,5 @@
 #include <algorithm>
+#include <string>
 #include <iostream>
 #include <fstream>
 #include <map>
@@ -6,8 +7,9 @@
 #include "document.h"
 #include "english_stem.h"
 
-Document::Document(std::string f_name){
+Document::Document(std::string f_name, int n_gram_c=1){
     filename = f_name;
+    n_gram_count = n_gram_c;
     load_words();
     stem_words();
     remove_stopwords();
@@ -57,19 +59,21 @@ void Document::remove_stopwords(){
 }
 
 void Document::compute_term_frequency(){
-    for(auto it = words.begin(); it != words.end(); it++){
-        std::pair<std::wstring, int> insert_pair(*it, 1);
-        std::pair<std::map<std::wstring, int>::iterator, bool> result;
-        result = tf.insert(insert_pair);
-        if (result.second == false){
-            tf[*it]++;
+    for(int n_grams = 0; n_grams < n_gram_count; n_grams++){
+        for(int i = 0; i < words.size(); i++){
+            if (i >= n_grams){
+                std::wstring term = words[i - n_grams];
+                for(int j = i - n_grams + 1; j <= i; j++){
+                    term += L"->" + words[j];
+                }
+            
+                std::pair<std::wstring, int> insert_pair(term, 1);
+                std::pair<std::map<std::wstring, int>::iterator, bool> result;
+                result = tf.insert(insert_pair);
+                if (result.second == false){
+                    tf[term]++;
+                }
+            }
         }
-    }
-}
-
-int main(){
-    Document d("test_data/test_document.txt");
-    for(auto it = d.tf.begin(); it != d.tf.end(); it++){
-        std::wcout << it->first << "->" << it->second << std::endl;
     }
 }

@@ -14,6 +14,7 @@ struct document_exception : std::runtime_error{
 
 class Document{
 private:
+    int n_gram_count;
     std::vector<std::wstring> words;
     std::string filename;
     void load_words();
@@ -23,7 +24,7 @@ private:
 public:
     std::map<std::wstring, int> tf;
     std::map<std::wstring, double> tf_idf;
-    Document(std::string document_filename);
+    Document(std::string, int);
     std::map<std::wstring, double> compute_tf_idf(std::map<std::wstring, int>);
 };
 #endif
