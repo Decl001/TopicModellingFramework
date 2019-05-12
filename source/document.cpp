@@ -140,3 +140,18 @@ void Document::compute_term_frequency(){
         tf[it->first] = relative_freq;
     }
 }
+
+/**
+ * 
+ */ 
+std::map<std::wstring, double> Document::compute_tf_idf(std::map<std::wstring, double> idf){
+    
+    if (tf_idf.empty()){
+        for (auto it = tf.cbegin(); it != tf.cend(); it++){
+            double tf_idf_value = it->second * idf[it->first];
+            std::pair<std::wstring, double> insert_pair(it->first, tf_idf_value);
+            tf_idf.insert(insert_pair);
+        }
+    }
+    return tf_idf;
+}
