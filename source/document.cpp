@@ -1,6 +1,6 @@
 /**
  * Author: Declan Atkins
- * Last Modified: 11/05/19
+ * Last Modified: 12/05/19
  * 
  * Contains the source code for the document class
  */
@@ -159,4 +159,14 @@ std::map<std::wstring, double> Document::compute_tf_idf(std::map<std::wstring, d
         }
     }
     return tf_idf;
+}
+
+
+#include "dataset.h"
+
+int main(){
+    std::vector<std::string> files = list_directory("data/datasets/ETNCOEHR/articles");
+    for(auto it = files.begin(); it != files.end(); it++){
+        Document d(*it);
+    }
 }
