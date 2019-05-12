@@ -141,8 +141,13 @@ void Document::compute_term_frequency(){
     }
 }
 
+
 /**
+ * Computes tf_idf of the document if it has not already been calculated
  * 
+ * @param idf -> The map of inverse document frequency of the dataset
+ * 
+ * @return tf_idf -> the map of tf_idf for this document
  */ 
 std::map<std::wstring, double> Document::compute_tf_idf(std::map<std::wstring, double> idf){
     
