@@ -31,6 +31,17 @@ Document::Document(std::string f_name, int n_gram_c=1){
     compute_term_frequency();
 }
 
+/**
+ * Constructor for a document object for loading from model
+ * 
+ * @param f_name -> The name of the file the object refers to
+ * @param _tf_idf -> The tf-idf values of the document
+ */ 
+Document::Document(std::string f_name, std::map<std::wstring, double> _tf_idf){
+    filename = f_name;
+    tf_idf = _tf_idf;
+}
+
 
 /**
  * Loads the words from the file into a vector

@@ -25,6 +25,7 @@ public:
     std::map<std::wstring, double> tf;
     std::map<std::wstring, double> tf_idf;
     Document(std::string, int);
+    Document(std::string, std::map<std::wstring, double>);
     std::map<std::wstring, double> compute_tf_idf(std::map<std::wstring, double>);
 };
 #endif

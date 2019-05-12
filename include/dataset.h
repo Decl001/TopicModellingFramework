@@ -11,6 +11,8 @@
 #define DATASET_H
 
 #include <vector>
+#include <cmath>
+#include "document.h"
 
 struct dataset_exception : std::runtime_error{
     dataset_exception(const std::string& message) : std::runtime_error(message){}
@@ -111,7 +113,7 @@ struct dataset_exception : std::runtime_error{
         std::vector<std::string> files;
 
         if ((dp = opendir(dir.c_str())) == NULL){
-            std::cout << "Error opening dir." << std::endl;
+            throw dataset_exception("Could not open the directory")
         }
 
         while ((dirp = readdir(dp)) != NULL){
@@ -155,5 +157,17 @@ struct dataset_exception : std::runtime_error{
     #define list_directory UNIX_list_directory
 
 #endif // OS CHECK
+
+class Dataset{
+
+    std::string root_dir;
+    std::vector<Document> documents;
+    std::map<std::wstring, double> idf;
+public:
+    Dataset(std::string root_directory); 
+    Dataset(std::string model_file);
+    
+};
+
 
 #endif // DATASET_H
