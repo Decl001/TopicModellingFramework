@@ -99,25 +99,11 @@ struct dataset_exception : std::runtime_error{
 
 #elif defined(__unix__) || defined(__unix) || (defined(__APPLE__) && defined(__MACH__))
 
+    #include <unistd.h>
+    #include <sys/stat.h>
+    #include <sys/types.h>
     #include <dirent.h>
 
-    std::vector<std::string> UNIX_list_directory(std::string directory_name){
-        std::vector<std::string> files;
-        std::vector<std::string> files_or_dirs = list_dir(directory_name);
-        struct stat sb;
-
-        for (auto it = files_or_dirs.begin(); it != files_or_dirs.end() ; it++){
-            std::string entry = *it;
-            std::string full_path = directory_name + "/" + entry;
-
-            if (lstat(full_path.c_str(), &sb) == 0 && S_ISDIR(sb.st_mode)){
-                list_dirs(full_path, _files, _current_dir + "/" + entry);
-
-            } else {
-                files.push_back(full_path);
-            }
-        }
-    }
     std::vector<std::string> list_dir(const std::string dir){
         
         DIR *dp;
@@ -141,31 +127,32 @@ struct dataset_exception : std::runtime_error{
         closedir(dp);
         return files;
     }
+    
+    std::vector<std::string> UNIX_list_directory(std::string directory_name){
+        std::vector<std::string> files;
+        std::vector<std::string> files_or_dirs = list_dir(directory_name);
+        struct stat sb;
+        
 
-    int list_dirs (const std::string& _dir,
-               std::vector<std::string>& _files, std::string _current_dir){
-   std::vector<std::string> __files_or_dirs;
+        for (auto it = files_or_dirs.begin(); it != files_or_dirs.end() ; it++){
+            std::string entry = *it;
+            std::string full_path = directory_name + "/" + entry;
 
-   list_dir(_dir, __files_or_dirs);
+            if (lstat(full_path.c_str(), &sb) == 0 && S_ISDIR(sb.st_mode)){
+                std::vector<std::string> sub_files = UNIX_list_directory(full_path);
+                files.reserve(files.size() + distance(sub_files.begin(), sub_files.end()));
+                files.insert(files.end(), sub_files.begin(), sub_files.end());
 
-   std::vector<std::string>::iterator it = __files_or_dirs.begin();
-   struct stat sb;
+            } 
+            else {
+                files.push_back(full_path);
+            }
+        }
 
-   for (; it != __files_or_dirs.end() ; ++it){
-      std::string entry = *it;
-      std::string full_path = _dir + "/" + entry;
+        return files;
+    }
 
-      if (lstat(full_path.c_str(), &sb) == 0 && S_ISDIR(sb.st_mode)){
-         /* how to do this better? */
-
-         /* here it should go into sub-directory */
-         list_dirs(full_path, _files, _current_dir + "/" + entry);
-
-      } else {
-         _files.push_back(full_path);
-      }
-   }
-}
+    #define list_directory UNIX_list_directory
 
 #endif // OS CHECK
 

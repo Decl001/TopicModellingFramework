@@ -167,6 +167,7 @@ std::map<std::wstring, double> Document::compute_tf_idf(std::map<std::wstring, d
 int main(){
     std::vector<std::string> files = list_directory("data/datasets/ETNCOEHR/articles");
     for(auto it = files.begin(); it != files.end(); it++){
+        std::cout << *it << std::endl;
         Document d(*it);
     }
 }
