@@ -1,6 +1,6 @@
 /**
  * Author: Declan Atkins
- * Last Modified: 12/05/19
+ * Last Modified: 19/05/19
  * 
  * Contains the source code for the document class
  */
@@ -13,7 +13,7 @@
 #include <map>
 #include <vector>
 #include "document.h"
-#include "english_stem.h"
+#include "stemming/english_stem.h"
 
 /**
  * Constructor for a document object
@@ -58,7 +58,7 @@ void Document::load_words(){
         }
     }
     else{
-        throw document_exception("Could not load the file");
+        throw document_exception("Could not load the file: " + filename);
     }
 }
 
@@ -173,12 +173,11 @@ std::map<std::wstring, double> Document::compute_tf_idf(std::map<std::wstring, d
 }
 
 
-#include "dataset.h"
-
-int main(){
-    std::vector<std::string> files = list_directory("data/datasets/ETNCOEHR/articles");
-    for(auto it = files.begin(); it != files.end(); it++){
-        std::cout << *it << std::endl;
-        Document d(*it);
+std::set<WSTR_DOUBLE, tf_idf_compare> Document::sort_tf_idf(){
+    std::set<WSTR_DOUBLE, tf_idf_compare> sorted_tf_idf;
+    for (auto it = tf_idf.cbegin(); it != tf_idf.cend(); it++){
+        sorted_tf_idf.insert(*it);
     }
+    std::cout << sorted_tf_idf.size();
+    return sorted_tf_idf;
 }

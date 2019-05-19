@@ -1,6 +1,6 @@
 /**
  * Author: Declan Atkins
- * Last Modified: 12/05/19
+ * Last Modified: 19/05/19
  * 
  * Header file for the dataset class
  * 
@@ -43,56 +43,40 @@ struct dataset_exception : std::runtime_error{
     #include <iostream>
     #include <string>
 
-    std::string join_path(std::string root, std::string sub_path){
-        std::string path;
-        if (root.back() == '/' || root.back() == '\\'){
-            path = root + sub_path;
+    std::vector<std::string> WINDOWS_list_directory(std::string directory_name){
+        std::string mod_dir = directory_name;
+        std::vector<std::string> files;
+        if (directory_name.back() != '/' && directory_name.back() != '\\'){
+            mod_dir += "/*";
         }
         else{
-            path = root + '\\' + sub_path;
+            directory_name.pop_back();
+            mod_dir = directory_name + "/*";
         }
-        return path;
-    }
+        WIN32_FIND_DATA data;
+        HANDLE hFind = FindFirstFile(mod_dir.c_str(), &data);
 
-    std::vector<std::string> WINDOWS_list_directory(std::string directory_name){
-        
-        std::vector<std::string> files;
-        WIN32_FIND_DATA find_data;
-        HANDLE find_handle = INVALID_HANDLE_VALUE;
-        DWORD dw_error = 0;
-
-        std::string directory_name_mod = directory_name + "\\*";
-        LPCSTR dir_name = directory_name_mod.c_str();
-        find_handle = FindFirstFile(dir_name, &find_data);
-        
-        if (find_handle == INVALID_HANDLE_VALUE){
-            throw dataset_exception("Could not open directory");
-        }
-        do{
-            if (find_data.dwFileAttributes & FILE_ATTRIBUTE_DIRECTORY)
-            {
-                if (strcmp((char*) find_data.cFileName, ".") != 0 \
-                                && strcmp((char*) find_data.cFileName, "..")){
-                    std::string sub_dir = join_path(directory_name, (char*) find_data.cFileName);
-                    std::vector<std::string> sub_files = WINDOWS_list_directory(sub_dir);
-                    files.reserve(files.size() + distance(sub_files.begin(), sub_files.end()));
-                    files.insert(files.end(), sub_files.begin(), sub_files.end());
+        if ( hFind != INVALID_HANDLE_VALUE ) {
+            do {
+                const char* ignore_dir1 = ".";
+                const char* ignore_dir2 = "..";
+                int not_ignore1 = strcmp(ignore_dir1, data.cFileName);
+                int not_ignore2 = strcmp(ignore_dir2, data.cFileName);
+                if (not_ignore1 && not_ignore2){
+                    if (data.dwFileAttributes & FILE_ATTRIBUTE_DIRECTORY){
+                        std::string sub_dir = directory_name + '/' + data.cFileName;
+                        std::vector<std::string> sub_files = WINDOWS_list_directory(sub_dir);
+                        files.reserve(files.size() + distance(sub_files.begin(), sub_files.end()));
+                        files.insert(files.end(), sub_files.begin(), sub_files.end());
+                    }
+                    else{
+                        std::string f_name = directory_name + '/' + data.cFileName;
+                        files.push_back(f_name);
+                    }
                 }
-            }
-            else
-            {
-                std::string the_file = join_path(directory_name, (char*) find_data.cFileName);
-                files.push_back(the_file);
-            }
+            } while (FindNextFile(hFind, &data));
+            FindClose(hFind);
         }
-        while (FindNextFile(find_handle, &find_data) != 0); 
-        dw_error = GetLastError();
-        if (dw_error != ERROR_NO_MORE_FILES) 
-        {
-            throw dataset_exception("Error listing files in directory");
-        }
-        
-        delete[] dir_name;
         return files;
     }
 
@@ -158,15 +142,23 @@ struct dataset_exception : std::runtime_error{
 
 #endif // OS CHECK
 
-class Dataset{
 
+enum dataset_type_t{
+    BINARY_MODEL,
+    TEXT_DATASET,
+    ZIPFILE
+};
+
+
+class Dataset{
     std::string root_dir;
     std::vector<Document> documents;
     std::map<std::wstring, double> idf;
+    void compute_idf();
+    void compute_tf_idf_for_documents();
 public:
-    Dataset(std::string root_directory); 
-    Dataset(std::string model_file);
-    
+    Dataset(std::string, dataset_type_t, int);
+    void output_keywords(int);
 };
 
 
