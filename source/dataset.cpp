@@ -28,7 +28,6 @@ Dataset::Dataset(std::string filename, dataset_type_t type=TEXT_DATASET, int n_g
             for(auto it = files.cbegin(); it != files.cend(); it++){
                 documents.push_back(Document(*it, n_grams));
                 std::cout << "Created Document: " + *it << std::endl;
-                break;
             }
             std::cout << "Finished Creating Documents" << std::endl;
             compute_idf();
@@ -69,17 +68,13 @@ void Dataset::compute_tf_idf_for_documents(){
 
 void Dataset::output_keywords(int n_keywords=10){
     for(auto d_it = documents.begin(); d_it != documents.end(); d_it++){
-        std::set<WSTR_DOUBLE, tf_idf_compare> the_set =  d_it->sort_tf_idf();
+        std::multimap<double, std::wstring> sorted_tf_idf = d_it->sort_tf_idf();
         int pos = 0;
         std::cout << "----------" << d_it->filename << "----------" << std::endl;
-        for (auto s_it = the_set.cbegin(); s_it != the_set.cend(); s_it++){
-            if (pos >= 10){
-                break;
-            }
-            else{
-                std::wcout << s_it->first << L"->" << s_it->second << std::endl;
-                pos++;
-            }
+        for (auto it = sorted_tf_idf.rbegin(); it != sorted_tf_idf.rend(); it++){
+            if (pos >= n_keywords) {break;}
+            std::wcout << it->second << L"   ->   " << it->first << std::endl;
+            pos++;
         }
     }
 }

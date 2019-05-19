@@ -172,12 +172,12 @@ std::map<std::wstring, double> Document::compute_tf_idf(std::map<std::wstring, d
     return tf_idf;
 }
 
-
-std::set<WSTR_DOUBLE, tf_idf_compare> Document::sort_tf_idf(){
-    std::set<WSTR_DOUBLE, tf_idf_compare> sorted_tf_idf;
-    for (auto it = tf_idf.cbegin(); it != tf_idf.cend(); it++){
-        sorted_tf_idf.insert(*it);
+std::multimap<double, std::wstring> Document::sort_tf_idf(){
+    if (sorted_tf_idf.empty()){
+        for (auto it = tf_idf.begin(); it != tf_idf.end(); it++){
+            std::pair<double, std::wstring> insert_pair(it->second, it->first);
+            sorted_tf_idf.insert(insert_pair);
+        }
     }
-    std::cout << sorted_tf_idf.size();
     return sorted_tf_idf;
 }
