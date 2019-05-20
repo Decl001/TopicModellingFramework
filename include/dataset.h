@@ -22,12 +22,17 @@ struct dataset_exception : std::runtime_error{
 #if __cplusplus > 201402L
 
     #include <filesystem>
+    namespace fs = std::filesystem;
+
+    bool CPP2017_check_directory(std::string name){
+        return fs::is_directory(name);
+    }
 
     std::vector<std::string> CPP2017_list_directory(std::string directory_name){
         std::vector<std::string> files;
         for (auto& file_or_dir : fs::recursive_directory_iterator(directory_name)){
             if (file_or_dir.is_regular_file()){
-                files.push_back(file_or_dir.path());
+                files.push_back(file_or_dir.path().generic_string());
             }
         }
 
@@ -35,13 +40,19 @@ struct dataset_exception : std::runtime_error{
     }
 
     #define list_directory CPP2017_list_directory
-
+    #define check_directory CPP2017_check_directory
 
 #elif defined(_WIN32)
 
     #include <Windows.h>
     #include <iostream>
     #include <string>
+
+    bool WINDOWS_check_directory(std::string name){
+        WIN32_FIND_DATA data;
+        HANDLE hFind = FindFirstFile(name.c_str(), &data);
+        return data.dwFileAttributes & FILE_ATTRIBUTE_DIRECTORY;
+    }
 
     std::vector<std::string> WINDOWS_list_directory(std::string directory_name){
         std::string mod_dir = directory_name;
@@ -81,6 +92,7 @@ struct dataset_exception : std::runtime_error{
     }
 
     #define list_directory WINDOWS_list_directory
+    #define check_directory WINDOWS_check_directory
 
 
 #elif defined(__unix__) || defined(__unix) || (defined(__APPLE__) && defined(__MACH__))
@@ -89,6 +101,13 @@ struct dataset_exception : std::runtime_error{
     #include <sys/stat.h>
     #include <sys/types.h>
     #include <dirent.h>
+
+    bool UNIX_check_directory(std::string name){
+        struct stat statbuf;
+        if (stat(path, &statbuf) != 0)
+            return false;
+        return S_ISDIR(statbuf.st_mode);
+    }
 
     std::vector<std::string> list_dir(const std::string dir){
         
@@ -139,6 +158,7 @@ struct dataset_exception : std::runtime_error{
     }
 
     #define list_directory UNIX_list_directory
+    #define check_directory UNIX_check_directory
 
 #endif // OS CHECK
 

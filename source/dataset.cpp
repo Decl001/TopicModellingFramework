@@ -23,17 +23,21 @@ Dataset::Dataset(std::string filename, dataset_type_t type=TEXT_DATASET, int n_g
         case ZIPFILE:
             break;
         default: // TEXT_DATASET
-            // TODO: Check is directory
-            std::vector<std::string> files = list_directory(filename);
-            for(auto it = files.cbegin(); it != files.cend(); it++){
-                documents.push_back(Document(*it, n_grams));
-                std::cout << "Created Document: " + *it << std::endl;
+            if (check_directory(filename)){
+                std::vector<std::string> files = list_directory(filename);
+                for(auto it = files.cbegin(); it != files.cend(); it++){
+                    documents.push_back(Document(*it, n_grams));
+                    std::cout << "Created Document: " + *it << std::endl;
+                }
+                std::cout << "Finished Creating Documents" << std::endl;
+                compute_idf();
+                std::cout << "Finished computing idf" << std::endl;
+                compute_tf_idf_for_documents();
+                std::cout << "Finished computing tf-idf" << std::endl;
             }
-            std::cout << "Finished Creating Documents" << std::endl;
-            compute_idf();
-            std::cout << "Finished computing idf" << std::endl;
-            compute_tf_idf_for_documents();
-            std::cout << "Finished computing tf-idf" << std::endl;
+            else{
+                throw dataset_exception("When using TEXT_DATASET filename must refer to a directory");
+            }
     }
 }
 
