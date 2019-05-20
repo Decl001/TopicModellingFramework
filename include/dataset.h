@@ -41,7 +41,7 @@ struct dataset_exception : std::runtime_error{
 
     #define list_directory CPP2017_list_directory
     #define check_directory CPP2017_check_directory
-
+    
 #elif defined(_WIN32)
 
     #include <Windows.h>
