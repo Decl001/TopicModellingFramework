@@ -162,11 +162,21 @@ struct dataset_exception : std::runtime_error{
 
 #endif // OS CHECK
 
+bool str_ends_with(const std::string main_str, const std::string sub_str){
+    if (main_str.size() >= sub_str.size() && 
+        (main_str.compare(main_str.size() - sub_str.size(), sub_str.size(), sub_str) == 0)){
+            return true;
+    }
+    else{
+        return false;
+    }
+}
 
 enum dataset_type_t{
     BINARY_MODEL,
     TEXT_DATASET,
-    ZIPFILE
+    ZIPFILE,
+    CSV
 };
 
 
@@ -179,6 +189,8 @@ class Dataset{
 public:
     Dataset(std::string, dataset_type_t, int);
     void output_keywords(int);
+    void to_csv(std::string filename);
+    std::string to_csv();
 };
 
 
