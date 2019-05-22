@@ -1,6 +1,6 @@
 /**
  * Author: Declan Atkins
- * Last Modified: 19/05/19
+ * Last Modified: 22/05/19
  * 
  * Contains the source code for the document class
  */
@@ -15,6 +15,11 @@
 #include "document.h"
 #include "stemming/english_stem.h"
 
+
+bool is_punct_extended(wchar_t ch){
+    return iswpunct(ch) || ch == L'“' || ch == L'’' || ch == L'�';
+}
+
 /**
  * Constructor for a document object
  * 
@@ -28,6 +33,7 @@ Document::Document(std::string f_name, int n_gram_c=1){
     load_words();
     stem_words();
     remove_stopwords();
+    extra_removal_conditions();
     compute_term_frequency();
 }
 
@@ -54,7 +60,15 @@ void Document::load_words(){
     the_document.open(filename);
     if (the_document.is_open()){
         for(std::wstring word; the_document >> word;){
-            words.push_back(word);
+            std::wstring word_no_punc = L"";
+            for (wchar_t c : word){
+                if(!is_punct_extended(c)){
+                    word_no_punc.push_back(towlower(c));
+                }
+            }
+            if (word_no_punc.length()){
+                words.push_back(word_no_punc);
+            }
         }
     }
     else{
@@ -103,6 +117,27 @@ void Document::remove_stopwords(){
         }
     }
     words = stop_words_removed;
+}
+
+
+void Document::extra_removal_conditions(){
+    std::vector<std::wstring> modified_words;
+    for (auto it = words.begin(); it != words.end(); it++){
+        int n_alpha = 0;
+        int n_not_alpha = 0;
+        for(wchar_t c : *it){
+            if (iswalpha(c)){
+                n_alpha++;
+            }
+            else{
+                n_not_alpha++;
+            }
+        }
+        if (n_alpha >= n_not_alpha){
+            modified_words.push_back(*it);
+        }
+    }
+    words = modified_words;
 }
 
 

@@ -1,3 +1,9 @@
+/**
+ * Author: Declan Atkins
+ * Last Modified: 22/05/19
+ * 
+ * Header file for the document class
+ */
 #ifndef DOCUMENT_H
 #define DOCUMENT_H
 
@@ -7,7 +13,6 @@
 #include <vector>
 
 #define STOP_WORDS_FILE "data/english_stopwords.txt"
-
 
 struct document_exception : std::runtime_error{
     document_exception(const std::string& message) : std::runtime_error(message){}
@@ -21,6 +26,7 @@ private:
     void load_words();
     void stem_words();
     void remove_stopwords();
+    void extra_removal_conditions();
     void compute_term_frequency();
 public:
     std::string filename;

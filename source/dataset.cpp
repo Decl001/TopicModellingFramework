@@ -1,6 +1,6 @@
 /**
  * Author: Declan Atkins
- * Last Modified: 19/05/19
+ * Last Modified: 22/05/19
  * 
  * Contains the source code for the dataset class
  */
@@ -109,17 +109,19 @@ void Dataset::to_csv(std::string filename){
                 }
             }
         }
+        std::cout << "N-Rows: " << filenames.size() << std::endl;
+        std::cout << "N-Columns: " << idf.size() << std::endl;
         out_file << L"filenames";
         for (auto it = idf.begin(); it != idf.end(); it++){
             out_file << L',' + it->first;
         }
         out_file << std::endl;
         for (int i = 0; i < filenames.size(); i++){
-            std::cout << "Outputting column: " << i << std::endl;
+            std::cout << "Outputting row: " << i << std::endl;
             std::wstring w_filename;
             w_filename.assign(filenames[i].begin(), filenames[i].end());
             out_file << w_filename;
-            for (auto it = columns.begin(); it != columns.end(); i++){
+            for (auto it = columns.begin(); it != columns.end(); it++){
                 out_file << L',' << it->second[i];
             }
             out_file << std::endl;
@@ -134,7 +136,7 @@ void Dataset::to_csv(std::string filename){
 
 int main(){
 
-    Dataset d("data/datasets/ETNCOEHR/articles", TEXT_DATASET, 4);
+    Dataset d("data/datasets/ETNCOEHR/articles", TEXT_DATASET, 3);
     d.output_keywords();
     d.to_csv("out.csv");
 }
