@@ -35,6 +35,7 @@ Document::Document(std::string f_name, int n_gram_c=1){
     remove_stopwords();
     extra_removal_conditions();
     compute_term_frequency();
+    filter_terms();
 }
 
 /**
@@ -203,6 +204,7 @@ std::map<std::wstring, double> Document::compute_tf_idf(std::map<std::wstring, d
             std::pair<std::wstring, double> insert_pair(it->first, tf_idf_value);
             tf_idf.insert(insert_pair);
         }
+        filter_tf_idf();
     }
     return tf_idf;
 }
@@ -215,4 +217,42 @@ std::multimap<double, std::wstring> Document::sort_tf_idf(){
         }
     }
     return sorted_tf_idf;
+}
+
+
+void Document::filter_terms(){
+    std::map<std::wstring, double> filtered_tf;
+    std::cout << "N-vals before: " << tf.size() << std::endl;
+    double sum_values = 0;
+    double average_value;
+    for (auto it = tf.cbegin(); it != tf.cend(); it++){
+        sum_values += it->second;
+    }
+    average_value = sum_values / tf.size();
+    for (auto it = tf.cbegin(); it != tf.cend(); it++){
+        if (it->second >= average_value){
+            filtered_tf[it->first] = it->second;
+        }
+    }
+    tf = filtered_tf;
+    std::cout << "N-vals after: " << tf.size() << std::endl;
+}
+
+
+void Document::filter_tf_idf(){
+    std::map<std::wstring, double> filtered_tf_idf;
+    std::cout << "N-vals before: " << tf_idf.size() << std::endl;
+    double sum_values = 0;
+    double average_value;
+    for (auto it = tf_idf.cbegin(); it != tf_idf.cend(); it++){
+        sum_values += it->second;
+    }
+    average_value = sum_values / tf_idf.size();
+    for (auto it = tf_idf.cbegin(); it != tf_idf.cend(); it++){
+        if (it->second >= (0.8 * average_value)){
+            filtered_tf_idf[it->first] = it->second;
+        }
+    }
+    tf_idf = filtered_tf_idf;
+    std::cout << "N-vals after: " << tf_idf.size() << std::endl;
 }

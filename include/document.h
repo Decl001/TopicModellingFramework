@@ -28,6 +28,8 @@ private:
     void remove_stopwords();
     void extra_removal_conditions();
     void compute_term_frequency();
+    void filter_terms();
+    void filter_tf_idf();
 public:
     std::string filename;
     std::map<std::wstring, double> tf;
