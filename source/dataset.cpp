@@ -19,11 +19,59 @@
 Dataset::Dataset(std::string filename, dataset_type_t type=TEXT_DATASET, int n_grams=1){
 
     switch(type){
-        case BINARY_MODEL:
+        case BINARY_MODEL:{
             break;
-        case ZIPFILE:
+        }
+        case ZIPFILE:{
             break;
-        default: // TEXT_DATASET
+        }
+        case CSV:{
+            std::wifstream csv_file;
+            csv_file.open(filename);
+            if (csv_file.is_open()){
+                // parse first line which has column (ie word) names
+                std::wstring header;
+                csv_file >> header;
+                std::vector<std::wstring> words;
+                int pos;
+                int i = 0;
+                while((pos = header.find(L",")) != std::wstring::npos){
+                    std::wstring word = header.substr(0, pos);
+                    header.erase(0, pos+1);
+                    if (i > 0){
+                        words.push_back(word);
+                    }
+                    i++;
+                }
+                for (std::wstring line; csv_file >> line; i++){
+                    i = 0;
+                    std::string filename;
+                    std::map<std::wstring, double> tf_idf;
+                    while((pos = line.find(L",")) != std::wstring::npos){
+                        std::wstring word = line.substr(0, pos);
+                        line.erase(0, pos+1);
+                        if (i > 0){
+                            double value = std::stod(word, nullptr);
+                            if (value > 0){
+                                tf_idf[words[i]] = value;
+                            }
+                        }
+                        else{
+                            filename.assign(word.begin(), word.end());
+                        }
+                        i++;
+                    }
+                    Document d(filename, tf_idf);
+                    std::cout << "Created Document: " << filename << std::endl;
+                    documents.push_back(d);
+                }  
+            }
+            else{
+                throw dataset_exception("Could not open the csv file");
+            }
+            break;
+        }
+        default:{ // TEXT_DATASET
             if (check_directory(filename)){
                 std::vector<std::string> files = list_directory(filename);
                 for(auto it = files.cbegin(); it != files.cend(); it++){
@@ -40,6 +88,7 @@ Dataset::Dataset(std::string filename, dataset_type_t type=TEXT_DATASET, int n_g
             else{
                 throw dataset_exception("When using TEXT_DATASET filename must refer to a directory");
             }
+        }
     }
 }
 
@@ -136,7 +185,7 @@ void Dataset::to_csv(std::string filename){
 
 int main(){
 
-    Dataset d("data/datasets/ETNCOEHR/articles", TEXT_DATASET, 3);
+    Dataset d("out.csv", CSV);
     d.output_keywords();
-    d.to_csv("out.csv");
+    //d.to_csv("out.csv");
 }

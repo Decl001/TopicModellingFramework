@@ -17,7 +17,7 @@
 
 
 bool is_punct_extended(wchar_t ch){
-    return iswpunct(ch) || ch == L'“' || ch == L'’' || ch == L'�';
+    return iswpunct(ch) || ch == L'“' || ch == L'’' || ch == L'�' || ch == L' ';
 }
 
 /**
