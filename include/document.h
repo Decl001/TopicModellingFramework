@@ -1,6 +1,5 @@
 /**
  * Author: Declan Atkins
- * Last Modified: 22/05/19
  * 
  * Header file for the document class
  */
@@ -39,5 +38,6 @@ public:
     Document(std::string, std::map<std::wstring, double>);
     std::map<std::wstring, double> compute_tf_idf(std::map<std::wstring, double>);
     std::multimap<double, std::wstring> sort_tf_idf();
+    double compute_distance(const Document other);
 };
 #endif

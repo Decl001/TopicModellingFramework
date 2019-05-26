@@ -1,6 +1,5 @@
 /**
  * Author: Declan Atkins
- * Last Modified: 22/05/19
  * 
  * Contains the source code for the document class
  */
@@ -255,4 +254,27 @@ void Document::filter_tf_idf(){
     }
     tf_idf = filtered_tf_idf;
     std::cout << "N-vals after: " << tf_idf.size() << std::endl;
+}
+
+
+double Document::compute_distance(const Document other){
+    double distance = 0;
+    for (auto it = tf_idf.cbegin(); it != tf_idf.cend(); it++){
+        double difference;
+        auto other_it = other.tf_idf.find(it->first);
+        if (other_it != other.tf_idf.end()){
+            difference = it->second - other_it->second;
+        }
+        else{
+            difference = it->second;
+        }
+        distance += difference * difference;
+    }
+    for (auto other_it = other.tf_idf.cbegin(); other_it != other.tf_idf.cend(); other_it++){
+        if (tf_idf.find(other_it->first) == tf_idf.end()){
+            double difference = - other_it->second;
+            distance += difference * difference;    
+        }
+    }
+    return std::sqrt(distance);
 }

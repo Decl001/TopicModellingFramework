@@ -1,6 +1,5 @@
 /**
  * Author: Declan Atkins
- * Last Modified: 19/05/19
  * 
  * Header file for the dataset class
  * 
@@ -181,12 +180,12 @@ enum dataset_type_t{
 
 
 class Dataset{
-    std::string root_dir;
-    std::vector<Document> documents;
     std::map<std::wstring, double> idf;
     void compute_idf();
     void compute_tf_idf_for_documents();
 public:
+    std::string root_dir;
+    std::vector<Document> documents;
     Dataset(std::string, dataset_type_t, int);
     void output_keywords(int);
     void to_csv(std::string filename);

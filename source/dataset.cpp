@@ -1,6 +1,5 @@
 /**
  * Author: Declan Atkins
- * Last Modified: 22/05/19
  * 
  * Contains the source code for the dataset class
  */
@@ -186,6 +185,8 @@ void Dataset::to_csv(std::string filename){
 int main(){
 
     Dataset d("out.csv", CSV);
-    d.output_keywords();
-    //d.to_csv("out.csv");
+    Document doc = d.documents[5];
+    for (auto it = d.documents.begin(); it != d.documents.end(); it++){
+        std::cout << doc.compute_distance(*it) << std::endl;
+    }
 }
