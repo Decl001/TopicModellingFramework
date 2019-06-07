@@ -103,7 +103,7 @@ struct dataset_exception : std::runtime_error{
 
     bool UNIX_check_directory(std::string name){
         struct stat statbuf;
-        if (stat(path, &statbuf) != 0)
+        if (stat(name.c_str(), &statbuf) != 0)
             return false;
         return S_ISDIR(statbuf.st_mode);
     }
@@ -115,7 +115,7 @@ struct dataset_exception : std::runtime_error{
         std::vector<std::string> files;
 
         if ((dp = opendir(dir.c_str())) == NULL){
-            throw dataset_exception("Could not open the directory")
+            throw dataset_exception("Could not open the directory");
         }
 
         while ((dirp = readdir(dp)) != NULL){
